@@ -2,19 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://robertdiab.github.io/</loc>
-    <lastmod>2021-03-20T19:38:07-07:00</lastmod>
-  </url><url>
-    <loc>https://robertdiab.github.io/posts/</loc>
-    <lastmod>2021-03-20T19:38:07-07:00</lastmod>
+    <loc>https://robertdiab.github.io/about/</loc>
+    <lastmod>2021-03-21T18:37:40-07:00</lastmod>
   </url><url>
     <loc>https://robertdiab.github.io/recent/</loc>
     <lastmod>2021-03-20T12:58:49-07:00</lastmod>
   </url><url>
+    <loc>https://robertdiab.github.io/</loc>
+    <lastmod>2021-03-20T11:03:25-07:00</lastmod>
+  </url><url>
     <loc>https://robertdiab.github.io/posts/notion-and-moodle/</loc>
     <lastmod>2021-03-20T11:03:25-07:00</lastmod>
   </url><url>
-    <loc>https://robertdiab.github.io/about/</loc>
+    <loc>https://robertdiab.github.io/posts/</loc>
+    <lastmod>2021-03-20T11:03:25-07:00</lastmod>
   </url><url>
     <loc>https://robertdiab.github.io/archive/</loc>
   </url><url>

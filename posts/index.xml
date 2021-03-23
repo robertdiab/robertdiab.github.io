@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello Friend</title>
+    <title>Posts on A better workflow</title>
     
     
     
     <link>https://robertdiab.github.io/posts/</link>
-    <description>Recent content in Posts on Hello Friend</description>
+    <description>Recent content in Posts on A better workflow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 19:38:07 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 11:03:25 -0700</lastBuildDate>
     
 	<atom:link href="https://robertdiab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,7 +28,8 @@
         
         
         
-          Blog entry on Notion to come&amp;hellip;
+          I have used Moodle since I began teaching in 2005. Until recently, it seemed indispensable: a free platform that made a whole repository of docs available to students. It was stable, relatively secure, easy to understand, and functional. But it’s showing its age.
+Notion may be a far better tool for my purposes, and I suspect for other profs or teachers who use ‘learning management systems’ like D2L, Moodle, or Google Classroom primarily as a place to hand out slides, notes, and links.
           
         
         </description>
