@@ -9,10 +9,30 @@
     <description>Recent content on A better workflow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Mar 2021 07:28:16 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 08:23:58 -0700</lastBuildDate>
     
 	<atom:link href="https://robertdiab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating lecture notes in markdown and formatting with CSS</title>
+      <link>https://robertdiab.github.io/posts/lecture-notes-with-markdown-css/</link>
+      <pubDate>Sun, 28 Mar 2021 08:23:58 -0700</pubDate>
+      
+      <guid>https://robertdiab.github.io/posts/lecture-notes-with-markdown-css/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Moving from notes in PowerPoint to markdown using iA Writer with CSS templates
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Presenter notes 2.0: make them hypertext with Notability</title>
