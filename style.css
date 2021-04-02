@@ -1,19 +1,14 @@
 body {
   font-size: 1.05rem;
   font-weight: 100;
-  line-height: 1.54;
+  line-height: 1.6;
+  max-width: 710px;
+  margin: auto
 }
 
 
 .post-title {
   font-size: 2.4rem;
-  margin-right: 50px;
-   margin-left: 0px;
-}
-
-p {
-  margin-right: 50px;
-   margin-left: 0px;
 }
 
 .logo__cursor {

@@ -9,10 +9,30 @@
     <description>Recent content on A better workflow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 08:23:58 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Apr 2021 11:07:56 -0700</lastBuildDate>
     
 	<atom:link href="https://robertdiab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What approaches to teaching in the pandemic will you keep?</title>
+      <link>https://robertdiab.github.io/posts/post-pandemic-teaching/</link>
+      <pubDate>Fri, 02 Apr 2021 11:07:56 -0700</pubDate>
+      
+      <guid>https://robertdiab.github.io/posts/post-pandemic-teaching/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Why teachers should use Notion instead of Moodle to share material with students.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Creating lecture notes in markdown and formatting with CSS</title>
