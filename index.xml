@@ -1,141 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A better workflow</title>
-    
-    
-    
-    <link>https://robertdiab.github.io/</link>
-    <description>Recent content on A better workflow</description>
+    <title>Robert Diab</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Robert Diab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 Apr 2021 11:07:56 -0700</lastBuildDate>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://robertdiab.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>How teaching will change after the pandemic</title>
-      <link>https://robertdiab.github.io/posts/post-pandemic-teaching/</link>
-      <pubDate>Fri, 02 Apr 2021 11:07:56 -0700</pubDate>
-      
-      <guid>https://robertdiab.github.io/posts/post-pandemic-teaching/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Why I think some form of hybrid teaching is here to stay
-          
-        
-        </description>
-    </item>
     
-    <item>
-      <title>Creating lecture notes in markdown and formatting with CSS</title>
-      <link>https://robertdiab.github.io/posts/lecture-notes-with-markdown-css/</link>
-      <pubDate>Sun, 28 Mar 2021 08:23:58 -0700</pubDate>
-      
-      <guid>https://robertdiab.github.io/posts/lecture-notes-with-markdown-css/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Moving from notes in PowerPoint to markdown using iA Writer with CSS templates
-          
-        
-        </description>
-    </item>
     
-    <item>
-      <title>Presenter notes 2.0: make them hypertext with Notability</title>
-      <link>https://robertdiab.github.io/posts/presenter-notes/</link>
-      <pubDate>Thu, 25 Mar 2021 07:28:16 -0700</pubDate>
-      
-      <guid>https://robertdiab.github.io/posts/presenter-notes/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          From speaking notes as linear documents to hypertexts
-          
-        
-        </description>
-    </item>
     
-    <item>
-      <title>About</title>
-      <link>https://robertdiab.github.io/about/</link>
-      <pubDate>Sun, 21 Mar 2021 18:37:40 -0700</pubDate>
-      
-      <guid>https://robertdiab.github.io/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Hi, I&amp;rsquo;m Robert Diab.
-I teach criminal law and evidence in the law school at Thompson Rivers University, in Kamloops BC, and practice law with Jensen Law.
-I enjoy keeping up with new developments in tech and spending time with my wife and two children.
-I have published papers on a few tech topics: compelled decryption, password compulsion, and global content takedown orders &amp;ndash; along with a fair bit about national security.
-          
-        
-        </description>
-    </item>
     
-    <item>
-      <title>Is Notion better than Moodle?</title>
-      <link>https://robertdiab.github.io/posts/notion-and-moodle/</link>
-      <pubDate>Sat, 20 Mar 2021 11:03:25 -0700</pubDate>
-      
-      <guid>https://robertdiab.github.io/posts/notion-and-moodle/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Why teachers should use Notion instead of Moodle to share material with students.
-          
-        
-        </description>
-    </item>
     
-    <item>
-      <title>Archive</title>
-      <link>https://robertdiab.github.io/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://robertdiab.github.io/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
+    
+    
     
   </channel>
 </rss>
