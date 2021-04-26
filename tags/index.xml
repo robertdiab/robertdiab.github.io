@@ -5,21 +5,6 @@
     <link>https://robertdiab.ca/tags/</link>
     <description>Recent content in Tags on Robert Diab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://robertdiab.ca/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <language>en-us</language><atom:link href="https://robertdiab.ca/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
