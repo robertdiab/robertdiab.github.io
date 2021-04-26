@@ -11,7 +11,7 @@ body {
       width: 100%;
       display: block;
       background-color: white;
-      height: 63px;
+      height: 68px;
       top: 0px;
       z-index: 3;
       text-align: left;
@@ -22,7 +22,7 @@ body {
 }
 
 .sitelogo-field {
-  padding-top: 15px
+  padding-top: 18px
 }
 
 .first-object {
@@ -57,9 +57,17 @@ text-decoration: none;
 }
 
 
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+@media screen and (max-width: 375px) {
+  .sidenav {
+    width: 80px;
+  }
+  .sidenav a {
+    font-size: 14px;}
+
+  .content {
+    margin-left: 115px;
+    padding: 90px 20px 40px 0px;
+    }
 }
 
 p {
@@ -70,7 +78,7 @@ p {
   .sidenav {
     width: 100px;
     position: fixed;
-    top: 95px;
+    top: 99px;
     left: 25px;
     line-height: 33px;
     overflow-x: hidden;
@@ -94,11 +102,10 @@ text-decoration: none;
   text-decoration: none;
   }
 
-.content {
-margin-left: 165px;
-padding: 90px 60px 40px 20px;
-}
-
+  .content {
+  margin-left: 165px;
+  padding: 95px 60px 40px 20px;
+  }
 
 .content a {
  color:#1E90FF;
