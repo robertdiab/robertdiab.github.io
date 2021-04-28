@@ -30,15 +30,19 @@ body {
 }
 
 .sitelogo {
-  font-size: 1.65rem;
+  font-size: 1.55rem;
   font-weight: 500;
   padding-top: 4px;
   padding-left: 8px;
 }
 
 .sitelogo-pic img {
-width:35px;
-height:35px;
+width:32px;
+height:32px;
+padding-top: 2px;
+padding-left: 7px;
+padding-right: 9px;
+padding-bottom:10px;
 }
 
 .sitelogo a {
@@ -54,20 +58,6 @@ text-decoration: none;
 .sitelogo a:active {
  color:#000000;
  text-decoration: none;
-}
-
-
-@media screen and (max-width: 375px) {
-  .sidenav {
-    width: 80px;
-  }
-  .sidenav a {
-    font-size: 14px;}
-
-  .content {
-    margin-left: 115px;
-    padding: 90px 20px 40px 0px;
-    }
 }
 
 p {
@@ -103,7 +93,7 @@ text-decoration: none;
   }
 
   .content {
-  margin-left: 165px;
+  margin-left: 168px;
   padding: 95px 60px 40px 20px;
   }
 

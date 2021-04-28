@@ -30,15 +30,19 @@ body {
 }
 
 .sitelogo {
-  font-size: 1.65rem;
+  font-size: 1.1rem;
   font-weight: 500;
   padding-top: 4px;
   padding-left: 8px;
 }
 
 .sitelogo-pic img {
-width:35px;
-height:35px;
+width:25px;
+height:25px;
+padding-top: 5px;
+padding-left: 5px;
+padding-right: 9px;
+padding-bottom:10px;
 }
 
 .sitelogo a {
@@ -62,29 +66,30 @@ text-decoration: none;
     width: 80px;
   }
   .sidenav a {
-    font-size: 14px;}
+    font-size: 13px;}
 
   .content {
-    margin-left: 115px;
+    margin-left: 110px;
     padding: 90px 20px 40px 0px;
     }
 }
 
 p {
   color: rgba(0, 0, 0, 0.8);
-  line-height: 27px;
+  line-height: 25px;
+  font-size: .8rem;
   }
 
   .sidenav {
     width: 100px;
     position: fixed;
     top: 95px;
-    left: 25px;
-    line-height: 33px;
+    left: 20px;
+    line-height: 28px;
     overflow-x: hidden;
     padding: 0px 0px;
     font-weight: 400;
-    font-size: 1.05rem;
+    font-size: 1rem;
   }
 
 .sidenav a {
@@ -147,7 +152,7 @@ text-decoration: none;
 }
 
 .post-title {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   font-weight: 500;
 }
 
@@ -207,7 +212,7 @@ text-decoration: none;
 blockquote {
   width:90%;
   margin:20px auto;
-  padding:0px 30px 0px 30px;
+  padding:0px 30px 0px 12px;
   border-left:6px solid #e5e4e2;
   line-height:27px;
   position: relative;
