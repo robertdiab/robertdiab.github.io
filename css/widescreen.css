@@ -37,9 +37,9 @@ body {
 }
 
 .sitelogo-pic img {
-width:38px;
-height:38px;
-padding-top: 1px;
+width:36px;
+height:36px;
+padding-top: 2px;
 padding-left: 8px;
 padding-right: 2px;
 padding-bottom:10px;
@@ -93,7 +93,7 @@ text-decoration: none;
   }
 
   .content {
-  margin-left: 170px;
+  margin-left: 168px;
   padding: 95px 60px 40px 20px;
   }
 
