@@ -92,11 +92,6 @@ text-decoration: none;
   text-decoration: none;
   }
 
-  .content {
-  margin-left: 168px;
-  padding: 95px 60px 40px 20px;
-  }
-
 .content a {
  color:#1E90FF;
  text-decoration: none;
@@ -136,9 +131,16 @@ text-decoration: none;
   color: grey;
 }
 
+.nonpost-content {
+  padding: 78px 60px 40px 20px;
+  margin-left: 169px;
+}
+
 .post-content {
   font-size: 1rem;
   font-weight: normal;
+  padding: 96px 60px 40px 20px;
+  margin-left: 169px;
 }
 
 .post-title {
@@ -168,6 +170,8 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
+  padding: 96px 60px 40px 20px;
+  margin-left: 169px;
 }
 
 .archive-page-title {
@@ -178,7 +182,6 @@ text-decoration: none;
 .archive__group-year-header {
   font-size: 1.2rem;
   font-weight: 500;
-
 }
 
 .archive__group-month {

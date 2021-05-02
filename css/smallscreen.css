@@ -66,13 +66,8 @@ text-decoration: none;
     width: 80px;
   }
   .sidenav a {
-    font-size: 14px;}
-
-  .content {
-    margin-left: 108px;
-    padding: 90px 20px 40px 0px;
-    }
-
+    font-size: 14px;
+  }
   h1,h2,h3 {
     font-size: .9rem;
   }
@@ -150,9 +145,16 @@ text-decoration: none;
   color: grey;
 }
 
+.nonpost-content {
+  padding: 76px 30px 40px 15px;
+  margin-left: 96px;
+}
+
 .post-content {
   font-size: 1rem;
   font-weight: normal;
+  padding: 90px 42px 40px 15px;
+  margin-left: 94px;
 }
 
 .post-title {
@@ -182,6 +184,8 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
+  padding: 89px 38px 40px 15px;
+  margin-left: 96px;
 }
 
 .archive-page-title {
