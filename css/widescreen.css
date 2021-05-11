@@ -11,7 +11,7 @@ body {
       width: 100%;
       display: block;
       background-color: white;
-      height: 68px;
+      height: 74px;
       top: 0px;
       z-index: 3;
       text-align: left;
@@ -22,7 +22,7 @@ body {
 }
 
 .sitelogo-field {
-  padding-top: 18px
+  padding-top: 22px
 }
 
 .first-object {
@@ -30,18 +30,19 @@ body {
 }
 
 .sitelogo {
-  font-size: 1.60rem;
+  font-size: 1.65rem;
+  letter-spacing: .01rem;
   font-weight: 500;
   padding-top: 4px;
   padding-left: 8px;
 }
 
 .sitelogo-pic img {
-width:36px;
-height:36px;
-padding-top: 2px;
-padding-left: 8px;
-padding-right: 2px;
+width:34px;
+height:34px;
+padding-top: 0px;
+padding-left: 12px;
+padding-right: 4px;
 padding-bottom:10px;
 }
 
@@ -68,7 +69,7 @@ p {
   .sidenav {
     width: 100px;
     position: fixed;
-    top: 99px;
+    top: 107px;
     left: 25px;
     line-height: 33px;
     overflow-x: hidden;
@@ -93,17 +94,17 @@ text-decoration: none;
   }
 
 .content a {
- color:#1E90FF;
+ color:#2196F3;
  text-decoration: none;
 }
 
 .content a:hover {
-color:#1E90FF;
+color:#2196F3;
 text-decoration: none;
 }
 
 .content a:active {
- color:#1E90FF;
+ color:#2196F3;
  text-decoration: none;
 }
 
@@ -132,19 +133,20 @@ text-decoration: none;
 }
 
 .nonpost-content {
-  padding: 78px 60px 40px 20px;
-  margin-left: 169px;
+  padding: 86px 60px 40px 20px;
+  margin-left: 179px;
 }
 
 .post-content {
   font-size: 1rem;
   font-weight: normal;
-  padding: 95px 60px 40px 20px;
-  margin-left: 169px;
+  padding: 105px 60px 40px 20px;
+  margin-left: 177px;
 }
 
 .post-title {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
+  letter-spacing: 0.01rem;
   font-weight: 500;
 }
 
@@ -164,14 +166,14 @@ text-decoration: none;
 }
 
 .read-more a:active {
- color:#1E90FF;
+ color:#417dc1;
  text-decoration: none;
 }
 
 .archive {
   line-height: 30px;
-  padding: 93px 60px 40px 20px;
-  margin-left: 169px;
+  padding: 101px 60px 40px 20px;
+  margin-left: 177px;
 }
 
 .archive-page-title {
@@ -217,11 +219,11 @@ blockquote {
 }
 
 .page-nav a:hover {
-color:#1E90FF;
+color:#417dc1;
 text-decoration: none;
 }
 
 .page-nav a:active {
- color:#1E90FF;
+ color:#417dc1;
  text-decoration: none;
 }
