@@ -22,7 +22,7 @@ body {
 }
 
 .sitelogo-field {
-  padding-top: 22px
+  padding-top: 21px
 }
 
 .first-object {
@@ -30,16 +30,16 @@ body {
 }
 
 .sitelogo {
-  font-size: 1.65rem;
+  font-size: 1.67rem;
   letter-spacing: .01rem;
-  font-weight: 500;
-  padding-top: 4px;
+  font-weight: 400;
+  padding-top: 5px;
   padding-left: 8px;
 }
 
 .sitelogo-pic img {
-width:34px;
-height:34px;
+width:36.5px;
+height:36.5px;
 padding-top: 0px;
 padding-left: 12px;
 padding-right: 4px;
@@ -134,7 +134,7 @@ text-decoration: none;
 
 .nonpost-content {
   padding: 86px 60px 40px 20px;
-  margin-left: 179px;
+  margin-left: 178px;
 }
 
 .post-content {
@@ -145,9 +145,9 @@ text-decoration: none;
 }
 
 .post-title {
-  font-size: 1.7rem;
-  letter-spacing: 0.01rem;
-  font-weight: 500;
+  font-size: 1.6rem;
+  letter-spacing: 0.005rem;
+  font-weight: 400;
 }
 
 .read-more {
@@ -172,28 +172,29 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
-  padding: 101px 60px 40px 20px;
-  margin-left: 177px;
+  padding: 86px 60px 40px 20px;
+  margin-left: 180px;
 }
 
 .archive-page-title {
   font-size: 1.4rem;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .archive__group-year-header {
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 400;
 }
 
-.archive__group-month {
-    font-size: 1rem;
+.archive__group-month-header {
+    font-size: 1.2rem;
+    font-weight: 400;
     color: grey;
 }
 
 .archive__post-title {
     font-size: 1.2rem;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .archive__post-date {

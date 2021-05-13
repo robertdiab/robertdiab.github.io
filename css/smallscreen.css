@@ -30,8 +30,8 @@ body {
 }
 
 .sitelogo {
-  font-size: 1.3rem;
-  font-weight: 500;
+  font-size: 1.4rem;
+  font-weight: 400;
   padding-top: 4px;
   padding-left: 8px;
 }
@@ -41,7 +41,7 @@ width:34px;
 height:34px;
 padding-top: 1px;
 padding-left: 7px;
-padding-right: 2px;
+padding-right: 3px;
 padding-bottom:10px;
 }
 
@@ -147,19 +147,19 @@ text-decoration: none;
 
 .nonpost-content {
   padding: 75px 30px 40px 15px;
-  margin-left: 99px;
+  margin-left: 103px;
 }
 
 .post-content {
   font-size: 1rem;
   font-weight: normal;
   padding: 90px 42px 40px 15px;
-  margin-left: 98px;
+  margin-left: 103px;
 }
 
 .post-title {
-  font-size: 1.3rem;
-  font-weight: 500;
+  font-size: 1.2rem;
+  font-weight: 400;
 }
 
 .read-more {
@@ -185,32 +185,34 @@ text-decoration: none;
 .archive {
   line-height: 30px;
   padding: 89px 38px 40px 15px;
-  margin-left: 96px;
+  margin-left: 101px;
 }
 
 .archive-page-title {
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .archive__group-year-header {
   font-size: 1rem;
-  font-weight: 500;
+  font-weight: 400;
 
 }
 
-.archive__group-month {
+.archive__group-month-header {
     font-size: 1rem;
+    font-weight: 400;
     color: grey;
 }
 
 .archive__post-title {
     font-size: 1rem;
-    font-weight: 500;
+    font-weight: 400;
+    line-height: 22px;
 }
 
 .archive__post-date {
-    font-size: .8rem;
+    font-size: .7rem;
 }
 
 .archive__post-read-time {
