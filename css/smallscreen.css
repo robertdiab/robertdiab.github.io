@@ -123,16 +123,18 @@ text-decoration: none;
 
 .content img[src*="image"] {
   border-radius: 10px;
+  float: left;
 }
 
 .content img[src*="image"] {
-  max-width: 70%
+  max-width: 80%
 }
 
 .content img[src*="image"] {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 40px;
 }
 
 .content img[src*="image"]  {
@@ -146,14 +148,14 @@ text-decoration: none;
 }
 
 .nonpost-content {
-  padding: 75px 30px 40px 15px;
+  padding: 74px 30px 40px 15px;
   margin-left: 103px;
 }
 
 .post-content {
   font-size: 1rem;
   font-weight: normal;
-  padding: 90px 42px 40px 15px;
+  padding: 88px 42px 40px 15px;
   margin-left: 103px;
 }
 
@@ -184,7 +186,7 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
-  padding: 89px 38px 40px 15px;
+  padding: 73px 38px 40px 15px;
   margin-left: 101px;
 }
 
@@ -242,3 +244,44 @@ text-decoration: none;
  color:#417dc1;
  text-decoration: none;
 }
+
+.readings {
+  font-weight: 700;
+}
+
+.float-container {
+    padding-top: 0px;
+}
+
+.float-child1 {
+    width: 100%;
+    float: left;
+    padding: 0px;
+}
+
+.float-child2 {
+    width: 100%;
+    float: left;
+    padding: 0px;
+}
+
+.canon {
+  float: left;
+}
+
+.readings img[src*="image"] {
+  border-radius: 0px;
+  margin-bottom: 20px;
+}
+
+.readings img[src*="image"] {
+  max-width: 60%;
+  }
+
+.readings img[src*="image"] {
+  float: left;
+}
+
+.readings img[src*="image"]  {
+  box-shadow: 0 0 5px .2px grey;
+  }
