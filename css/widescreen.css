@@ -1,8 +1,9 @@
+@import 'fonts.css';
+
 body {
-  font-family: -apple-system, system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  max-width: 870px;
+  font-family: 'Roboto'; sans-serif;
+  max-width: 850px;
   line-height: 27px;
-  letter-spacing: .01em;
 }
 
 .hdsection {
@@ -21,7 +22,7 @@ body {
 }
 
 .sitelogo-field {
-  padding-top: 21px
+  padding-top: 19px
 }
 
 .first-object {
@@ -29,11 +30,12 @@ body {
 }
 
 .sitelogo {
-  font-size: 1.7rem;
-  letter-spacing: .01rem;
+  font-size: 1.67rem;
+  letter-spacing: .005rem;
   font-weight: 400;
-  padding-top: 5px;
+  padding-top: 7px;
   padding-left: 8px;
+
 }
 
 .sitelogo-pic img {
@@ -67,7 +69,7 @@ text-decoration: none;
 p {
   color: rgba(0, 0, 0, 0.8);
   line-height: 30px;
-  font-size: 1.1rem;
+  font-size: 1.08rem;
   }
 
   .sidenav {
@@ -118,7 +120,7 @@ text-decoration: none;
 }
 
 .content img[src*="image"] {
-  max-width: 50%
+  max-width: 50%;
 }
 
 .content img[src*="image"] {
@@ -138,30 +140,40 @@ text-decoration: none;
   color: grey;
 }
 
-.post-content {
-  padding: 104px 60px 40px 20px;
-  margin-left: 180px;
+.nonpost-content {
+  padding: 85px 60px 40px 20px;
+  margin-left: 183px;
 }
 
-.nonpost-content {
-  padding: 86px 60px 40px 20px;
-  margin-left: 180px;
+.nonpost-content p {
+  font-family: 'NotoSans', sans-serif;
 }
 
 .nonpost-content h3 {
   font-size: 19px;
-  font-weight: 500;
+  font-weight: 600;
+  font: 'Roboto';
+}
+
+.post-content {
+  padding: 105px 60px 40px 20px;
+  margin-left: 181px;
+}
+
+.post-content p {
+  font-family: 'NotoSans', sans-serif;
 }
 
 .post-title {
-  font-size: 1.7rem;
+  font-size: 1.67rem;
   letter-spacing: 0.005rem;
   font-weight: 400;
+  line-height: 31px;
 }
 
 .post-content h3 {
   font-size: 19px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .read-more {
@@ -187,7 +199,7 @@ text-decoration: none;
 .archive {
   line-height: 30px;
   padding: 86px 60px 40px 20px;
-  margin-left: 180px;
+  margin-left: 185px;
 }
 
 .archive-page-title {
@@ -196,23 +208,24 @@ text-decoration: none;
 }
 
 .archive__group-year-header {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-weight: 400;
 }
 
 .archive__group-month-header {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-weight: 400;
     color: grey;
 }
 
 .archive__post-title {
     font-size: 1.4rem;
+    line-height: 40px;
     font-weight: 400;
 }
 
 .archive__post-date {
-    font-size: .8rem;
+    font-size: .9rem;
 }
 
 .archive__post-read-time {
@@ -245,8 +258,8 @@ text-decoration: none;
 
 
 .readings {
-  font-size: 1.1rem;
-  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
 
 }
 
