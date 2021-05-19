@@ -77,11 +77,13 @@ p {
     position: fixed;
     top: 107px;
     left: 25px;
-    line-height: 35px;
+    line-height: 36px;
     overflow-x: hidden;
     padding: 0px 0px;
     font-weight: 400;
     font-size: 1.1rem;
+    font-family: 'NotoSans', sans-serif;
+    color: rgba(0, 0, 0, 0.8);
   }
 
 .sidenav a {

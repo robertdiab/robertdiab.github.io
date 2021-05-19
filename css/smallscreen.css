@@ -87,13 +87,15 @@ p {
   .sidenav {
     width: 100px;
     position: fixed;
-    top: 95px;
+    top: 92px;
     left: 15px;
     line-height: 27px;
     overflow-x: hidden;
     padding: 0px 0px;
     font-weight: 400;
     font-size: 1.3rem;
+    font-family: 'NotoSans', sans-serif;
+    color: rgba(0, 0, 0, 0.8);
   }
 
 .sidenav a {
@@ -199,7 +201,7 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
-  padding: 75px 30px 40px 15px;
+  padding: 73px 30px 40px 15px;
   margin-left: 80px;
 }
 
