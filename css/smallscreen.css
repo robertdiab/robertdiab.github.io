@@ -30,7 +30,7 @@ body {
 }
 
 .sitelogo {
-  font-size: 1.2rem;
+  font-size: 21px;
   font-weight: 400;
   padding-top: 4px;
   padding-left: 6px;
@@ -47,7 +47,7 @@ padding-bottom:10px;
 
 .greytext {
   color: #808080;
-  font-size: 1.15rem;
+  font-size: 17px;
 }
 
 .sitelogo a {
@@ -81,7 +81,7 @@ text-decoration: none;
 p {
   color: rgba(0, 0, 0, 0.8);
   line-height: 25px;
-  font-size: .9rem;
+  font-size: 15px;
   }
 
   .sidenav {
@@ -93,7 +93,7 @@ p {
     overflow-x: hidden;
     padding: 0px 0px;
     font-weight: 400;
-    font-size: 1.3rem;
+    font-size: 20px;
     font-family: 'NotoSans', sans-serif;
     color: rgba(0, 0, 0, 0.8);
   }
@@ -163,19 +163,19 @@ text-decoration: none;
 }
 
 .nonpost-content {
-  padding: 74px 30px 40px 15px;
-  margin-left: 82px;
+  padding: 72px 30px 40px 15px;
+  margin-left: 87px;
 }
 
 .post-content {
   font-size: 1rem;
   font-weight: normal;
   padding: 88px 30px 40px 15px;
-  margin-left: 81px;
+  margin-left: 86px;
 }
 
 .post-title {
-  font-size: 1.2rem;
+  font-size: 1.38rem;
   font-weight: 400;
 }
 
@@ -202,7 +202,7 @@ text-decoration: none;
 .archive {
   line-height: 30px;
   padding: 73px 30px 40px 15px;
-  margin-left: 80px;
+  margin-left: 86px;
 }
 
 .archive-page-title {
