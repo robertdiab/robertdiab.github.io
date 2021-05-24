@@ -51,7 +51,7 @@ padding-bottom:10px;
 }
 
 .sitelogo a {
- color:#000000;
+ color: rgba(0, 0, 0, .8);
  text-decoration: none;
 }
 
@@ -82,6 +82,20 @@ p {
   font-size: 15px;
   }
 
+p a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #007AFC;
+  }
+
+p a:hover { color: #007AFC;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #007AFC;
+  }
+
+
   .sidenav {
     width: 100px;
     position: fixed;
@@ -97,12 +111,12 @@ p {
   }
 
 .sidenav a {
- color:#000000;
+ color: rgba(0, 0, 0, 0.8);
  text-decoration: none;
 }
 
 .sidenav a:hover {
-color:#000000;
+color: grey;
 text-decoration: none;
 }
 
@@ -112,17 +126,15 @@ text-decoration: none;
   }
 
 .content a {
- color:#2196F3;
- text-decoration: none;
 }
 
 .content a:hover {
-color:#2196F3;
+color:#007AFC;
 text-decoration: none;
 }
 
 .content a:active {
- color:#2196F3;
+ color:#007AFC;
  text-decoration: none;
 }
 
@@ -152,17 +164,20 @@ text-decoration: none;
   color: grey;
 }
 
+.nonpost-content {
+  padding: 72px 30px 40px 15px;
+  margin-left: 87px;
+}
+
 .nonpost-content p {
   font-family: 'NotoSans', sans-serif;
 }
 
-.post-content p {
+.nonpost-content h3 {
+  font-size: 16.5px;
+  font-weight: 600;
   font-family: 'NotoSans', sans-serif;
-}
-
-.nonpost-content {
-  padding: 72px 30px 40px 15px;
-  margin-left: 87px;
+  color: rgba(0, 0, 0, 0.75);
 }
 
 .post-content {
@@ -172,9 +187,25 @@ text-decoration: none;
   margin-left: 87px;
 }
 
+.post-content p {
+  font-family: 'NotoSans', sans-serif;
+}
+
 .post-title {
   font-size: 1.38rem;
   font-weight: 400;
+}
+
+.post-title a {
+   color: #007AFC;
+   text-decoration: none;
+  }
+
+.post-content h3 {
+  font-size: 16.5px;
+  font-weight: 600;
+  font-family: 'NotoSans', sans-serif;
+  color: rgba(0, 0, 0, 0.75);
 }
 
 .read-more {
@@ -202,6 +233,11 @@ text-decoration: none;
   padding: 73px 30px 40px 15px;
   margin-left: 87px;
 }
+
+.archive a {
+   color: #007AFC;
+   text-decoration: none;
+  }
 
 .archive-page-title {
   font-size: 1.2rem;

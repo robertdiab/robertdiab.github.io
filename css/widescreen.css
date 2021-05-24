@@ -52,7 +52,7 @@ padding-bottom:10px;
 }
 
 .sitelogo a {
- color:#000000;
+ color: rgba(0, 0, 0, .8);
  text-decoration: none;
 }
 
@@ -72,27 +72,40 @@ p {
   font-size: 16.5px;
   }
 
+p a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #007AFC;
+}
+
+p a:hover { color: #007AFC;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #007AFC;
+}
+
   .sidenav {
     width: 100px;
     position: fixed;
     top: 107px;
     left: 25px;
-    line-height: 38px;
+    line-height: 36px;
     overflow-x: hidden;
     padding: 0px 0px;
     font-weight: 400;
-    font-size: 19px;
+    font-size: 18px;
     font-family: 'NotoSans', sans-serif;
     color: rgba(0, 0, 0, 0.8);
   }
 
 .sidenav a {
- color:#000000;
+ color: rgba(0, 0, 0, 0.8);
  text-decoration: none;
 }
 
 .sidenav a:hover {
-color:#000000;
+color: grey;
 text-decoration: none;
 }
 
@@ -102,17 +115,14 @@ text-decoration: none;
   }
 
 .content a {
- color:#2196F3;
- text-decoration: none;
 }
 
 .content a:hover {
-color:#2196F3;
-text-decoration: none;
+color:#007AFC;
 }
 
 .content a:active {
- color:#2196F3;
+ color:#007AFC;
  text-decoration: none;
 }
 
@@ -154,7 +164,8 @@ text-decoration: none;
 .nonpost-content h3 {
   font-size: 19px;
   font-weight: 600;
-  font: 'Roboto';
+  font-family: 'NotoSans', sans-serif;
+  color: rgba(0, 0, 0, 0.75);
 }
 
 .post-content {
@@ -173,9 +184,16 @@ text-decoration: none;
   line-height: 35px;
 }
 
+.post-title a {
+   color: #007AFC;
+   text-decoration: none;
+  }
+
 .post-content h3 {
   font-size: 19px;
   font-weight: 600;
+  font-family: 'NotoSans', sans-serif;
+  color: rgba(0, 0, 0, 0.75);
 }
 
 .read-more {
@@ -203,6 +221,11 @@ text-decoration: none;
   padding: 86px 60px 40px 20px;
   margin-left: 147px;
 }
+
+.archive a {
+   color: #007AFC;
+   text-decoration: none;
+  }
 
 .archive-page-title {
   font-size: 1.4rem;
