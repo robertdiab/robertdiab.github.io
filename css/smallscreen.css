@@ -1,7 +1,7 @@
 @import 'fonts.css';
 
 body {
-  font-family: 'Roboto'; sans-serif;
+  font-family: 'Bitter'; serif;
   max-width: 850px;
   line-height: 27px;
 }
@@ -30,7 +30,7 @@ body {
 }
 
 .sitelogo {
-  font-size: 21px;
+  font-size: 20px;
   font-weight: 400;
   padding-top: 4px;
   padding-left: 6px;
@@ -47,7 +47,7 @@ padding-bottom:10px;
 
 .greytext {
   color: #808080;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 .sitelogo a {
@@ -101,12 +101,12 @@ p a:hover { color: #007AFC;
     position: fixed;
     top: 92px;
     left: 15px;
-    line-height: 32px;
+    line-height: 29px;
     overflow-x: hidden;
     padding: 0px 0px;
     font-weight: 400;
-    font-size: 16px;
-    font-family: 'NotoSans', sans-serif;
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
     color: rgba(0, 0, 0, 0.8);
   }
 
@@ -165,30 +165,29 @@ text-decoration: none;
 }
 
 .nonpost-content {
-  padding: 72px 30px 40px 15px;
+  padding: 70px 30px 40px 15px;
   margin-left: 87px;
 }
 
 .nonpost-content p {
-  font-family: 'NotoSans', sans-serif;
+  font-family: 'Bitter', serif;
 }
 
 .nonpost-content h3 {
   font-size: 16.5px;
-  font-weight: 600;
+  font-weight: 500;
+  font-style: bold;
   font-family: 'NotoSans', sans-serif;
-  color: rgba(0, 0, 0, 0.75);
+  color: grey;
 }
 
 .post-content {
-  font-size: 1rem;
-  font-weight: normal;
   padding: 88px 30px 40px 15px;
   margin-left: 87px;
 }
 
 .post-content p {
-  font-family: 'NotoSans', sans-serif;
+  font-family: 'Bitter', serif;
 }
 
 .post-title {
@@ -203,9 +202,10 @@ text-decoration: none;
 
 .post-content h3 {
   font-size: 16.5px;
-  font-weight: 600;
+  font-weight: 500;
+  font-style: bold;
   font-family: 'NotoSans', sans-serif;
-  color: rgba(0, 0, 0, 0.75);
+  color: grey;
 }
 
 .read-more {
