@@ -7,7 +7,32 @@
     <description>Recent content on Robert Diab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 09:53:16 -0700</lastBuildDate><atom:link href="https://www.robertdiab.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 09:49:34 -0700</lastBuildDate><atom:link href="https://www.robertdiab.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Epic vs Apple and the search for the right analogy</title>
+      <link>https://www.robertdiab.ca/posts/epic-v-apple/</link>
+      <pubDate>Thu, 27 May 2021 09:49:34 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/epic-v-apple/</guid>
+      <description>&lt;p&gt;As often happens in court cases in involving cyberspace, it all comes down to finding the right analogy to the world before the web.&lt;/p&gt;
+&lt;p&gt;Kyle Orland, in &lt;a href=&#34;https://arstechnica.com/gaming/2021/05/the-epic-v-apple-case-could-hinge-on-the-definition-of-the-marketplace/&#34;&gt;Ars Technica&lt;/a&gt;, boils down the Epic v Apple trial to two issues:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What is the relevant competitive market and what should the court do if Apple is found to be unfairly monopolizing that market?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Epic’s case hinges on an analogy between Apple’s restrictive practices on its iOS App Store (a 30% cut, no-steering provisions, etc.) and what happened in a well-known case from US Supreme Court in 1992.&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Eastman Kodak Co. v. Image Technical Servs., Inc.&lt;/em&gt;, the Court held that despite Kodak not being a dominant player in the market for photocopiers (like Apple in phones), its behaviour in the market for repair parts — restricting supply, forcing customers to buy exclusively from Kodak — was unlawfully anti-competitive.&lt;/p&gt;
+&lt;p&gt;But Apple says: no, that’s not the right analogy. Yes, it’s true that people who want to buy apps on their iPhones or iPads are forced to use the App Store (in contrast to the the Mac, where you can get apps from App Store &lt;em&gt;and also&lt;/em&gt; from anywhere else). But iPhone customers are not like Kodak customers because if they want access to the app in question, they can simply use a different device — an Android, an Xbox, etc.&lt;/p&gt;
+&lt;p&gt;The relevant market, says Apple, is the whole field of device platforms competing for the world’s gamers or users.&lt;/p&gt;
+&lt;p&gt;No, says Epic, the relevant market is the billion or so people in the world who use an iPhone, and Apple holds them hostage just as Kodak did by wiping out the aftermarket for parts.&lt;/p&gt;
+&lt;p&gt;Are Apple’s customers like Kodak’s customers? Or are they in a fundamentally different position?&lt;/p&gt;
+&lt;p&gt;Conceding this to be a central question, one of Apple’s lawyers asserted: “This is not a case where there’s one device out there and if there’s a part missing you’re out of luck, you can&amp;rsquo;t use that device…”&lt;/p&gt;
+&lt;p&gt;Ben Thompson &lt;a href=&#34;https://stratechery.com/2021/app-store-arguments/&#34;&gt;points out&lt;/a&gt; that appellate decisions have narrowed the scope of &lt;em&gt;Eastman Kodak&lt;/em&gt; to cases where customers don’t know they’re buying into a walled garden when they buy a product — and that if they do know and still freely to choose to buy the product, the company is free to reap benefits from its monopolistic position (charging higher fees, setting rules), but it cannot be anti-competitive. The company cannot prevent other parties from offering competing products and services.&lt;/p&gt;
+&lt;p&gt;Which brings us back to the question of analogy.&lt;/p&gt;
+&lt;p&gt;If people aren’t likely to leave the Apple ecosystem to use their favourite apps on other devices — because it’s ever harder to leave once you’re in Apple’s walled garden — are its customers not like those of Kodak? Sure, they bought their iPhone knowing it would entail submitting to Apple’s monopoly on app purchases, but did they have a real choice?&lt;/p&gt;
+&lt;p&gt;I wouldn’t be surprised if Judge Gonzales Rogers — explicitly or impliedly — sees the App Store as more like the Kodak case than not and forces Apple to give users and developers some measure of choice here they didn’t have before.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Canada&#39;s Plan for Compelled Discoverability</title>
       <link>https://www.robertdiab.ca/posts/compelled-discoverability/</link>
