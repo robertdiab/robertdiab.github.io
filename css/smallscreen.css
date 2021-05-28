@@ -93,8 +93,8 @@ text-decoration: none;
 
 p {
   color: rgba(0, 0, 0, 0.8);
-  line-height: 25px;
-  font-size: 15px;
+  line-height: 28px;
+  font-size: 18px;
   }
 
 p a {
@@ -155,14 +155,14 @@ text-decoration: none;
 }
 
 .nonpost-content p {
-  font-family: 'NotoSans', serif;
+  font-family: 'PT Serif', serif;
 }
 
 .nonpost-content h3 {
-  font-size: 16.5px;
+  font-size: 19px;
   font-weight: 500;
   font-style: bold;
-  font-family: 'Bitter', sans-serif;
+  font-family: 'Bitter', serif;
   color: grey;
 }
 
@@ -172,7 +172,7 @@ text-decoration: none;
 }
 
 .post-content p {
-  font-family: 'NotoSans', serif;
+  font-family: 'PT Serif', serif;
 }
 
 .post-title {
@@ -186,10 +186,10 @@ text-decoration: none;
   }
 
 .post-content h3 {
-  font-size: 16.5px;
+  font-size: 19px;
   font-weight: 500;
   font-style: bold;
-  font-family: 'Bitter', sans-serif;
+  font-family: 'Bitter', serif;
   color: grey;
 }
 

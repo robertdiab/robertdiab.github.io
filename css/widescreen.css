@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Bitter'; serif;
-  max-width: 800px;
+  max-width: 815px;
   line-height: 27px;
 }
 
@@ -92,8 +92,8 @@ text-decoration: none;
 
 p {
   color: rgba(0, 0, 0, 0.8);
-  line-height: 28px;
-  font-size: 16.5px;
+  line-height: 31px;
+  font-size: 19px;
   }
 
 p a {
@@ -155,14 +155,14 @@ color:#007AFC;
 }
 
 .nonpost-content p {
-  font-family: 'NotoSans', serif;
+  font-family: 'PT Serif', serif;
 }
 
 .nonpost-content h3 {
   font-size: 21px;
   font-weight: 500;
   font-style: bold;
-  font-family: 'Bitter', sans-serif;
+  font-family: 'Bitter', serif;
   color: grey;
 }
 
@@ -172,7 +172,7 @@ color:#007AFC;
 }
 
 .post-content p {
-  font-family: 'NotoSans', serif;
+  font-family: 'PT Serif', serif;
 }
 
 .post-title {
@@ -191,7 +191,7 @@ color:#007AFC;
   font-size: 21px;
   font-weight: 500;
   font-style: bold;
-  font-family: 'Bitter', sans-serif;
+  font-family: 'Bitter', serif;
   color: grey;
 }
 
