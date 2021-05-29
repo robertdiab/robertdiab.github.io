@@ -179,7 +179,8 @@ color:#007AFC;
   font-size: 30px;
   letter-spacing: 0.005rem;
   font-weight: 400;
-  line-height: 35px;
+  line-height: 37px;
+  max-width: 480px;
 }
 
 .post-title a {
