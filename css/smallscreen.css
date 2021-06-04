@@ -1,78 +1,40 @@
 @import 'fonts.css';
 
 body {
-  font-family: 'Bitter'; serif;
-  max-width: 850px;
   line-height: 27px;
 }
 
 .hdsection {
       width: 100%;
       background-color: white;
-      height: 54px;
-      text-align: left;
+      height: 120px;
       border-bottom: solid;
       border-color: #d3d3d3;
       border-width: thin;
 }
 
-.sitelogo-field {
-  padding-top: 9px
-}
+.sitelogo-field img {
+    display: block;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
-.first-object {
-  float: left;
-}
 
-.sitelogo {
-  font-size: 20px;
-  font-weight: 400;
-  padding-top: 4px;
-  padding-left: 6px;
-}
-
-.sitelogo-pic img {
-width:28px;
-height:28px;
-padding-top: 2px;
-padding-left: 2px;
-padding-right: 3px;
-}
 
 .greytext {
   color: #808080;
-  font-size: 20px;
 }
-
-.sitelogo a {
- color: rgba(0, 0, 0, .8);
- text-decoration: none;
-}
-
-.sitelogo a:hover {
- color:#000000;
-text-decoration: none;
-}
-
-.sitelogo a:active {
- color:#000000;
- text-decoration: none;
-}
-
-
-@media screen and (max-width: 440px)
-  h1,h2,h3 {
-    font-size: .9rem;
-  }
 
 .sidenav {
-  float: left;
-  line-height: 29px;
-  padding: 27px 9px;
+  float: right;
+  line-height: 33px;
+  padding: 32px 18px;
+  padding-left: 33px;
   font-weight: 400;
-  font-size: 13px;
-  font-family: 'Roboto', sans-serif;
-  color: rgba(0, 0, 0, 0.8);
+  font-size: 17px;
+  font-family: 'Bitter', san-serif;
+  color: #333333;
 }
 
 .sidenav a {
@@ -93,8 +55,8 @@ text-decoration: none;
 
 p {
   color: rgba(0, 0, 0, 0.8);
-  line-height: 28px;
-  font-size: 18px;
+  line-height: 27px;
+  font-size: 17px;
   }
 
 p a {
@@ -104,7 +66,7 @@ p a {
     text-decoration-color: #007AFC;
   }
 
-p a:hover { color: #007AFC;
+p a:hover { color: grey;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-decoration-color: #007AFC;
@@ -114,12 +76,12 @@ p a:hover { color: #007AFC;
 }
 
 .content a:hover {
-color:#007AFC;
+color:grey;
 text-decoration: none;
 }
 
 .content a:active {
- color:#007AFC;
+ color:grey;
  text-decoration: none;
 }
 
@@ -147,15 +109,20 @@ text-decoration: none;
   font-size: .8rem;
   font-weight: normal;
   color: grey;
+  font-family: 'NotoSans';
 }
 
 .nonpost-content {
-  padding: 12px 30px 40px 15px;
-  margin-left: 86px;
+  padding: 17px 30px 40px 17px;
+  float: center;
+  max-width: 665px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .nonpost-content p {
-  font-family: 'PT Serif', serif;
+  font-family: 'NotoSans', serif;
+  font-size: 17px;
 }
 
 .nonpost-content h3 {
@@ -167,21 +134,29 @@ text-decoration: none;
 }
 
 .post-content {
-  padding: 30px 30px 40px 15px;
-  margin-left: 86px;
+  padding: 33px 30px 40px 17px;
+  float: center;
+  max-width: 665px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .post-content p {
-  font-family: 'PT Serif', serif;
+  font-family: 'NotoSans', serif;
 }
 
 .post-title {
-  font-size: 1.38rem;
+  font-size: 25px;
+  letter-spacing: 0.005rem;
   font-weight: 400;
+  line-height: 37px;
+  font-family: 'Bitter';
+  max-width: 460px;
+  color: #333333;
 }
 
 .post-title a {
-   color: #007AFC;
+   color: #333333;
    text-decoration: none;
   }
 
@@ -215,12 +190,13 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
-  padding: 14px 30px 40px 15px;
-  margin-left: 86px;
-}
+  padding: 20px 60px 40px 0px;
+  margin-left: 20px;
+  font-family: 'Bitter';
+  }
 
 .archive a {
-   color: #007AFC;
+   color: #333333;
    text-decoration: none;
   }
 
@@ -242,13 +218,14 @@ text-decoration: none;
 }
 
 .archive__post-title {
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 400;
-    line-height: 22px;
+    line-height: 24px;
 }
 
 .archive__post-date {
     font-size: .7rem;
+    color:grey;
 }
 
 .archive__post-read-time {
@@ -265,6 +242,7 @@ blockquote {
 }
 
 .page-nav a {
+font-family: 'Bitter', serif;
  color:grey;
  text-decoration: none;
 }
@@ -281,35 +259,29 @@ text-decoration: none;
 
 .readings {
   font-weight: 700;
+  max-width: 200px;
+
 }
 
 .float-container {
-    padding-top: 0px;
 }
 
 .float-child1 {
     width: 100%;
-    float: left;
-    padding: 0px;
 }
 
 .float-child2 {
     width: 100%;
     float: left;
-    padding: 0px;
-}
-
-.canon {
-  float: left;
 }
 
 .readings img[src*="image"] {
-  border-radius: 0px;
+  border-radius: 5px;
   margin-bottom: 20px;
 }
 
 .readings img[src*="image"] {
-  max-width: 60%;
+  max-width: 100%;
   }
 
 .readings img[src*="image"] {
