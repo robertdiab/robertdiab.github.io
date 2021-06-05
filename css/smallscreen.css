@@ -85,7 +85,6 @@ text-decoration: none;
 
 .content img[src*="image"] {
   border-radius: 10px;
-  float: left;
 }
 
 .content img[src*="image"] {
