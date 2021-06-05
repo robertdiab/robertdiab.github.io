@@ -2,7 +2,7 @@
 
 body {
   float: center;
-  max-width: 840px;
+  max-width: 750px;
   min-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -15,11 +15,19 @@ body {
       width: 100%;
       display: block;
       background-color: white;
-      height: 170px;
+      height: 153px;
       border-bottom: solid;
       border-color: #d3d3d3;
       border-width: thin;
 }
+
+.sitelogo-field img {
+      display: block;
+      height: 120px;
+      padding-top: 18px;
+      margin-left: auto;
+      margin-right: auto;
+    }
 
 .greytext {
   color: #808080;
@@ -111,7 +119,7 @@ color:grey;
 }
 
 .nonpost-content {
-  padding: 17px 160px 40px 30px;
+  padding: 23px 160px 40px 30px;
   float: center;
   max-width: 665px;
   margin-left: auto;
@@ -187,7 +195,7 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
-  padding: 18px 60px 40px 20px;
+  padding: 21px 60px 40px 20px;
   margin-left: 40px;
   font-family: 'Bitter'
 }
@@ -291,28 +299,4 @@ text-decoration: none;
 
 .readings img[src*="image"]  {
   box-shadow: 0 0 5px .2px grey;
-  }
-
-  .sitelogo-field img {
-    display: block;
-    width: 75%;
-    padding-top: 10px;
-    max-height: 140px;
-    min-height: 140px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-@media screen and (min-width: 700px) {
-
-  .sitelogo-field img {
-      display: block;
-      width: 65%;
-      padding-top: 10px;
-      max-height: 150px;
-      min-height: 145px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
   }
