@@ -15,7 +15,7 @@ body {
       width: 100%;
       display: block;
       background-color: white;
-      height: 150px;
+      height: 145px;
       border-bottom: solid;
       border-color: #d3d3d3;
       border-width: thin;
@@ -23,8 +23,8 @@ body {
 
 .sitelogo-field img {
       display: block;
-      height: 108px;
-      padding-top: 25px;
+      height: 80px;
+      padding-top: 32px;
       margin-left: auto;
       margin-right: auto;
     }
@@ -97,7 +97,7 @@ color:grey;
 }
 
 .content img[src*="image"] {
-  max-width: 50%;
+  max-width: 40%;
 }
 
 .content img[src*="image"] {
@@ -222,7 +222,7 @@ text-decoration: none;
 }
 
 .archive__post-title {
-    font-size: 1.4rem;
+    font-size: 1.25rem;
     line-height: 40px;
     font-weight: 400;
 }
@@ -299,4 +299,24 @@ text-decoration: none;
 
 .readings img[src*="image"]  {
   box-shadow: 0 0 5px .2px grey;
+  }
+
+
+.bottomhomelinks {
+  text-align: center;
+}
+.bottomhomelinks a {
+  font-family: 'Bitter', serif;
+   color:grey;
+   text-decoration: none;
+  }
+
+.bottomhomelinks a:hover {
+  color:#417dc1;
+  text-decoration: none;
+  }
+
+.bottomhomelinks a:active {
+   color:#417dc1;
+   text-decoration: none;
   }
