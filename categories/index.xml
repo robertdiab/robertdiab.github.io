@@ -8,6 +8,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.robertdiab.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Will iCloud Private Relay make us all anonymous?</title>
+      <link>https://www.robertdiab.ca/posts/icloud-private-relay/</link>
+      <pubDate>Fri, 11 Jun 2021 11:37:58 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/icloud-private-relay/</guid>
+      <description>&lt;p&gt;Apple has unveiled a new feature on both the Mac and its mobile platforms, iCloud Private Relay, that offers both more privacy than a VPN and more speed than Tor networks.&lt;/p&gt;
+&lt;p&gt;It may well lead to a quantum leap in the amount of online traffic that becomes anonymous.&lt;/p&gt;
+&lt;p&gt;Until now, the most common options for concealing your tracks online were to use a virtual private network or Tor (an open source app involving a series of relay servers around the world).&lt;/p&gt;
+&lt;p&gt;A VPN would shield your identity from your ISP or the sites you visit, but not from the VPN provider itself. You would have to trust the VPN or hope it wouldn’t be hacked. Using a Tor browser, you didn’t have to hand over your info to a VPN, but the relay process that shielded your IP address made surfing slow and cumbersome.&lt;/p&gt;
+&lt;p&gt;With iCloud Private Relay, no one has all the info necessary to tie your browsing history to your device or identity. Apple’s clever solution is to use a middleman, an unnamed set of ‘trusted content providers’. You give information to Apple’s servers and they turn it over to another set of servers that speak to the sites you wish to visit.&lt;/p&gt;
+&lt;p&gt;As Dave Hamilton at &lt;a href=&#34;https://www.macobserver.com/tips/deep-dive/digging-into-apples-icloud-private-relay/&#34;&gt;the Mac Observer&lt;/a&gt; puts it: “Apple doesn’t know what site(s) you’re visiting, and the third-party content provider doesn’t know who you are.”&lt;/p&gt;
+&lt;p&gt;And while Tor is slow, iCloud Private Relay is quick — according to early tests by Hamilton and &lt;a href=&#34;https://www.fastcompany.com/90643627/apple-privacy-wwdc-private-relay-vpn-icloud-plus-macos-monterey&#34;&gt;others&lt;/a&gt;. Many, many people will likely turn it on and forget about it.&lt;/p&gt;
+&lt;p&gt;What will it mean that much more traffic will now be concealed more effectively than before? Will it make any difference?&lt;/p&gt;
+&lt;p&gt;Will it give some people more fodder to argue for back doors to encryption?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Epic vs Apple and the Search for the Right Analogy</title>
       <link>https://www.robertdiab.ca/posts/epic-v-apple/</link>
       <pubDate>Thu, 27 May 2021 09:49:34 -0700</pubDate>
