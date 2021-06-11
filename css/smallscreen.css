@@ -289,3 +289,71 @@ text-decoration: none;
 .readings img[src*="image"]  {
   box-shadow: 0 0 5px .2px grey;
   }
+
+  .bottomhomelinks {
+    text-align: center;
+  }
+  .bottomhomelinks a {
+    font-family: 'Bitter', serif;
+     color:black;
+     text-decoration: none;
+    }
+
+  .bottomhomelinks a:hover {
+    color:#417dc1;
+    text-decoration: none;
+    }
+
+  .bottomhomelinks a:active {
+     color:#417dc1;
+     text-decoration: none;
+    }
+
+  /twitter/
+    .svg-icon {
+      width: 2em;
+      height: 2em;
+    }
+
+    .svg-icon path,
+    .svg-icon polygon,
+    .svg-icon rect {
+      fill: #4691f6;
+    }
+
+    .svg-icon circle {
+      stroke: #4691f6;
+      stroke-width: 1;
+    }
+
+    .svg-icon {
+    width: 2em;
+    height: 2em;
+  }
+
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+
+  .svg-icon {
+    width: 2em;
+    height: 2em;
+  }
+
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
