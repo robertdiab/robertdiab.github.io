@@ -58,26 +58,25 @@ p {
   font-size: 17px;
   }
 
-p a {
+  p a {
     color: inherit;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-decoration-color: #007AFC;
   }
 
-p a:hover { color: grey;
+  p a:hover { color: rgba(0, 0, 0, 0.8);
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-decoration-color: #007AFC;
   }
 
-.content a {
-}
+  .content a {
+  }
 
-.content a:hover {
-color:grey;
-text-decoration: none;
-}
+  .content a:hover {
+  color:#007AFC;
+  }
 
 .content a:active {
  color:grey;
@@ -132,7 +131,7 @@ text-decoration: none;
 }
 
 .post-content {
-  padding: 33px 30px 40px 17px;
+  padding: 32px 30px 40px 17px;
   float: center;
   max-width: 665px;
   margin-left: auto;
@@ -144,7 +143,7 @@ text-decoration: none;
 }
 
 .post-title {
-  font-size: 25px;
+  font-size: 24px;
   letter-spacing: 0.005rem;
   font-weight: 400;
   line-height: 37px;
@@ -309,10 +308,37 @@ text-decoration: none;
      text-decoration: none;
     }
 
-  /twitter/
-    .svg-icon {
-      width: 2em;
-      height: 2em;
+    .sharing-tw {
+      float:left;
+      width:15%;
+      overflow:hidden;
+      }
+
+    .sharing-fb {
+        float:left;
+        width: 15%;
+        overflow:hidden;
+      }
+
+      .svg-icon {
+        width: 1.3em;
+        height: 1.3em;
+      }
+
+      .svg-icon path,
+      .svg-icon polygon,
+      .svg-icon rect {
+        fill: #4691f6;
+      }
+
+      .svg-icon circle {
+        stroke: #4691f6;
+        stroke-width: 1;
+      }
+
+      .svg-icon {
+      width: 1.3em;
+      height: 1.3em;
     }
 
     .svg-icon path,
@@ -327,33 +353,17 @@ text-decoration: none;
     }
 
     .svg-icon {
-    width: 2em;
-    height: 2em;
-  }
+      width: 1.3em;
+      height: 1.3em;
+    }
 
-  .svg-icon path,
-  .svg-icon polygon,
-  .svg-icon rect {
-    fill: #4691f6;
-  }
+    .svg-icon path,
+    .svg-icon polygon,
+    .svg-icon rect {
+      fill: #4691f6;
+    }
 
-  .svg-icon circle {
-    stroke: #4691f6;
-    stroke-width: 1;
-  }
-
-  .svg-icon {
-    width: 2em;
-    height: 2em;
-  }
-
-  .svg-icon path,
-  .svg-icon polygon,
-  .svg-icon rect {
-    fill: #4691f6;
-  }
-
-  .svg-icon circle {
-    stroke: #4691f6;
-    stroke-width: 1;
-  }
+    .svg-icon circle {
+      stroke: #4691f6;
+      stroke-width: 1;
+    }
