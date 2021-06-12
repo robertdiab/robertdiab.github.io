@@ -8,6 +8,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.robertdiab.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>End of Passwords?</title>
+      <link>https://www.robertdiab.ca/posts/end-of-passwords/</link>
+      <pubDate>Sat, 12 Jun 2021 11:52:29 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/end-of-passwords/</guid>
+      <description>&lt;p&gt;In developer builds of its system updates, Apple is testing the new WebAuthn passkey standard.&lt;/p&gt;
+&lt;p&gt;When it’s out of beta, it may make passwords obsolete, for the most part.&lt;/p&gt;
+&lt;p&gt;Stephen Shankland at &lt;a href=&#34;https://www.cnet.com/news/apple-says-its-new-logon-tech-is-as-easy-as-passwords-but-far-more-secure/&#34;&gt;cnet&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To set up an account on a website or app using a passkey, you first choose a username for the new account, then use FaceID or Touch ID to confirm that it&amp;rsquo;s really you who&amp;rsquo;s using the device. You don&amp;rsquo;t ever pick a password. Your device handles generation and storage of the passkey, which iCloud Keychain synchronizes across all your Apple devices. […]&lt;/p&gt;
+&lt;p&gt;The tech behind Apple&amp;rsquo;s passkeys is built on the WebAuthn technology that emerged from the &lt;a href=&#34;https://fidoalliance.org&#34;&gt;FIDO (Fast Identity Online) Alliance&lt;/a&gt;, a consortium that&amp;rsquo;s been overhauling authentication with hardware security keys. Apple&amp;rsquo;s approach embraces a fundamental part of WebAuthn, the combination of public and private encryption keys that&amp;rsquo;s already built deeply into communication security and many other established processes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As this helpful &lt;a href=&#34;https://webauthn.guide&#34;&gt;WebAuthn Guide&lt;/a&gt; explains, the new standard:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…allows servers to integrate with the strong authenticators now built into devices, like Windows Hello or Apple’s Touch ID. Instead of a password, a private-public keypair (known as a credential) is created for a website. The private key is stored securely on the user’s device; a public key and randomly generated credential ID is sent to the server for storage. The server can then use that public key to prove the user’s identity.&lt;/p&gt;
+&lt;p&gt;The public key is not secret, because it is effectively useless without the corresponding private key. The fact that the server receives no secret has far-reaching implications for the security of users and organizations. Databases are no longer as attractive to hackers, because the public keys aren’t useful to them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Whether Apple will roll this out in the fall is unclear. But soon, they will, along with other members of the FIDO alliance behind the WebAuthn standard, including Google and Microsoft.&lt;/p&gt;
+&lt;p&gt;It’s nice to see encryption used in this ingenious way to make something so fundamental to our use of the web both more convenient and more secure. It&amp;rsquo;s rare that we get both.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Will iCloud Private Relay Make Us All Anonymous?</title>
       <link>https://www.robertdiab.ca/posts/icloud-private-relay/</link>
       <pubDate>Fri, 11 Jun 2021 11:37:58 -0700</pubDate>
