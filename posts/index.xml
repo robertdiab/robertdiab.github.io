@@ -16,7 +16,7 @@
       <guid>https://www.robertdiab.ca/posts/end-of-passwords/</guid>
       <description>&lt;p&gt;In developer builds of its system updates, Apple is testing the new WebAuthn passkey standard.&lt;/p&gt;
 &lt;p&gt;When it’s out of beta, it may make passwords obsolete, for the most part.&lt;/p&gt;
-&lt;p&gt;Stephen Shankland at &lt;a href=&#34;https://www.cnet.com/news/apple-says-its-new-logon-tech-is-as-easy-as-passwords-but-far-more-secure/&#34;&gt;cnet&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Stephen Shankland at &lt;a href=&#34;https://www.cnet.com/news/apple-says-its-new-logon-tech-is-as-easy-as-passwords-but-far-more-secure/&#34;&gt;Cnet&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;To set up an account on a website or app using a passkey, you first choose a username for the new account, then use FaceID or Touch ID to confirm that it&amp;rsquo;s really you who&amp;rsquo;s using the device. You don&amp;rsquo;t ever pick a password. Your device handles generation and storage of the passkey, which iCloud Keychain synchronizes across all your Apple devices. […]&lt;/p&gt;
 &lt;p&gt;The tech behind Apple&amp;rsquo;s passkeys is built on the WebAuthn technology that emerged from the &lt;a href=&#34;https://fidoalliance.org&#34;&gt;FIDO (Fast Identity Online) Alliance&lt;/a&gt;, a consortium that&amp;rsquo;s been overhauling authentication with hardware security keys. Apple&amp;rsquo;s approach embraces a fundamental part of WebAuthn, the combination of public and private encryption keys that&amp;rsquo;s already built deeply into communication security and many other established processes.&lt;/p&gt;
@@ -43,9 +43,10 @@
 &lt;p&gt;A VPN would shield your identity from your ISP or the sites you visit, but not from the VPN provider itself. You would have to trust the VPN with your info, or hope it wouldn’t be hacked. Using a Tor browser spared you from having to share info with a VPN, but the relay process that concealed your IP address made surfing slow and cumbersome.&lt;/p&gt;
 &lt;p&gt;The novelty of iCloud Private Relay is that no one has all the info necessary to tie your browsing history to your device or identity. Apple’s clever solution is to use a middleman, an unnamed set of ‘trusted content providers.’ You give certain information to Apple’s servers and they turn over &lt;em&gt;some&lt;/em&gt; of it to another set of servers that speak to the sites you wish to visit.&lt;/p&gt;
 &lt;p&gt;As Dave Hamilton at &lt;a href=&#34;https://www.macobserver.com/tips/deep-dive/digging-into-apples-icloud-private-relay/&#34;&gt;the Mac Observer&lt;/a&gt; puts it: “Apple doesn’t know what site(s) you’re visiting, and the third-party content provider doesn’t know who you are.”&lt;/p&gt;
-&lt;p&gt;And in contrast to Tor, iCloud Private Relay doesn&amp;rsquo;t cause a noticeable slow down — according to early tests by Hamilton and &lt;a href=&#34;https://www.fastcompany.com/90643627/apple-privacy-wwdc-private-relay-vpn-icloud-plus-macos-monterey&#34;&gt;others&lt;/a&gt;. Many, many people will likely turn it on and forget it&amp;rsquo;s there.&lt;/p&gt;
+&lt;p&gt;And in contrast to Tor, iCloud Private Relay doesn&amp;rsquo;t cause a noticeable slow down — according to early tests by Hamilton and &lt;a href=&#34;https://www.fastcompany.com/90643627/apple-privacy-wwdc-private-relay-vpn-icloud-plus-macos-monterey&#34;&gt;others&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;iCloud Private Relay is not a standard feature, but a paid add-on through iCloud Plus. But many people will have it, turn it on and forget it&amp;rsquo;s there.&lt;/p&gt;
 &lt;p&gt;What will it mean that much more traffic will now be concealed more effectively than before? Will it make any difference?&lt;/p&gt;
-&lt;p&gt;Will it give some people more fodder to argue for back doors to encryption?&lt;/p&gt;
+&lt;p&gt;At least one: it will close a major avenue for ad-tracking.&lt;/p&gt;
 </description>
     </item>
     
