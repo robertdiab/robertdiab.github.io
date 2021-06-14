@@ -223,8 +223,8 @@ text-decoration: none;
 
 .archive__post-title {
     font-size: 1.2rem;
-    max-width: 460px;
-    line-height: 40px;
+    max-width: 480px;
+    line-height: 30px;
     font-weight: 400;
 }
 
