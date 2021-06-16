@@ -2,12 +2,12 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on Robert Diab</title>
-    <link>https://www.robertdiab.ca/tags/</link>
-    <description>Recent content in Topics on Robert Diab</description>
+    <title>internet governance on Robert Diab</title>
+    <link>https://www.robertdiab.ca/tags/internet-governance/</link>
+    <description>Recent content in internet governance on Robert Diab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jun 2021 10:40:50 -0700</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 09:53:16 -0700</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/internet-governance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kate Crawford on the Social and Environmental Impact of AI</title>
       <link>https://www.robertdiab.ca/posts/crawford-atlas/</link>

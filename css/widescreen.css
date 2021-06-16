@@ -35,18 +35,15 @@ body {
 
 .sidenav {
   float: right;
-  line-height: 40px;
   overflow-x: hidden;
   padding: 32px 18px;
   padding-left: 26px;
-  font-weight: 400;
-  font-size: 18px;
   font-family: 'Bitter', san-serif;
   color: #333333;
 }
 
 .sidenav a {
- color: rgba(0, 0, 0, 0.8);
+ color: grey;
  text-decoration: none;
 }
 
@@ -59,6 +56,18 @@ text-decoration: none;
   color:#000000;
   text-decoration: none;
   }
+
+.navtitle {
+  font-size: 17px;
+  line-height: 36px;
+}
+
+.smallnav {
+  font-size: 16px;
+  color: grey;
+  line-height: 30px;
+}
+
 
 p {
   color: rgba(0, 0, 0, 0.8);
@@ -119,8 +128,7 @@ color:grey;
 }
 
 .nonpost-content {
-  padding: 21px 160px 40px 30px;
-  float: center;
+  padding: 0px 160px 40px 30px;
   max-width: 665px;
   margin-left: auto;
   margin-right: auto;
@@ -136,6 +144,7 @@ color:grey;
   font-style: bold;
   font-family: 'Bitter', serif;
   color: grey;
+  padding-top: 20px;
 }
 
 .post-content {
@@ -195,8 +204,7 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
-  padding: 21px 60px 40px 20px;
-  margin-left: 40px;
+  padding: 21px 60px 40px 60px;
   font-family: 'Bitter'
 }
 
@@ -219,6 +227,7 @@ text-decoration: none;
     font-size: 1.25rem;
     font-weight: 400;
     color: grey;
+    padding-top: 10px;
 }
 
 .archive__post-title {
@@ -226,6 +235,7 @@ text-decoration: none;
     max-width: 480px;
     line-height: 30px;
     font-weight: 400;
+    padding-top: 10px;
 }
 
 .archive__post-date {
@@ -236,6 +246,44 @@ text-decoration: none;
 .archive__post-read-time {
     font-size: .8rem;
 }
+
+.topic {
+line-height: 30px;
+padding: 21px 60px 40px 10px;
+font-family: 'Bitter'
+}
+
+.topic-page-title h2 {
+  font-size: 21px;
+  font-weight: 500;
+  font-style: bold;
+  padding-left: 40px;
+  font-family: 'Bitter', serif;
+  color: grey;
+}
+
+.topicword {
+  font-size: 19px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+
+.topic a {
+   color: #333333;
+   text-decoration: none;
+  }
+
+.topic-post {
+      font-size: 16px;
+      max-width: 380px;
+  }
+
+.topic__post-date {
+      font-size: .9rem;
+      color: grey;
+  }
+
 
 blockquote {
   width:90%;
