@@ -97,14 +97,15 @@ p {
 }
 
 .content img[src*="image"] {
-  max-width: 80%
+  max-width: 40%
 }
 
 .content img[src*="image"] {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 40px;
+  float: left;
+  margin-top: 5px;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
 
 .content img[src*="image"]  {
