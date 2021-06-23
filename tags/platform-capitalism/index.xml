@@ -40,8 +40,8 @@
       
       <guid>https://www.robertdiab.ca/posts/end-of-passwords/</guid>
       <description>&lt;p&gt;In developer builds of its system updates, Apple is testing the new WebAuthn passkey standard.&lt;/p&gt;
-&lt;p&gt;When it’s out of beta, it may make passwords obsolete, for the most part.&lt;/p&gt;
-&lt;p&gt;Stephen Shankland at &lt;a href=&#34;https://www.cnet.com/news/apple-says-its-new-logon-tech-is-as-easy-as-passwords-but-far-more-secure/&#34;&gt;Cnet&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;I suspect I&amp;rsquo;m not alone in hoping that, once it’s out of beta, it will make passwords obsolete, for the most part.&lt;/p&gt;
+&lt;p&gt;Stephen Shankland at &lt;a href=&#34;https://www.cnet.com/news/apple-says-its-new-logon-tech-is-as-easy-as-passwords-but-far-more-secure/&#34;&gt;CNET&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;To set up an account on a website or app using a passkey, you first choose a username for the new account, then use FaceID or Touch ID to confirm that it&amp;rsquo;s really you who&amp;rsquo;s using the device. You don&amp;rsquo;t ever pick a password. Your device handles generation and storage of the passkey, which iCloud Keychain synchronizes across all your Apple devices. […]&lt;/p&gt;
 &lt;p&gt;The tech behind Apple&amp;rsquo;s passkeys is built on the WebAuthn technology that emerged from the &lt;a href=&#34;https://fidoalliance.org&#34;&gt;FIDO (Fast Identity Online) Alliance&lt;/a&gt;, a consortium that&amp;rsquo;s been overhauling authentication with hardware security keys. Apple&amp;rsquo;s approach embraces a fundamental part of WebAuthn, the combination of public and private encryption keys that&amp;rsquo;s already built deeply into communication security and many other established processes.&lt;/p&gt;
@@ -52,7 +52,7 @@
 &lt;p&gt;The public key is not secret, because it is effectively useless without the corresponding private key. The fact that the server receives no secret has far-reaching implications for the security of users and organizations. Databases are no longer as attractive to hackers, because the public keys aren’t useful to them.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Whether Apple will roll this out in the fall is unclear. But soon, they will, along with other members of the FIDO alliance behind the WebAuthn standard, including Google and Microsoft.&lt;/p&gt;
-&lt;p&gt;It’s nice to see encryption used in this ingenious way to make something so fundamental to our use of the web both more convenient and more secure. It&amp;rsquo;s rare that we get both.&lt;/p&gt;
+&lt;p&gt;It’s nice to see encryption used in this new way to make something so fundamental to our use of the web both more convenient and more secure. It&amp;rsquo;s rare that we get both.&lt;/p&gt;
 </description>
     </item>
     
@@ -63,7 +63,7 @@
       
       <guid>https://www.robertdiab.ca/posts/icloud-private-relay/</guid>
       <description>&lt;p&gt;Apple has unveiled a new feature, on mobile platforms and the Mac, that offers more privacy than a VPN and more speed than Tor networks.&lt;/p&gt;
-&lt;p&gt;It may well lead to a quantum leap in the amount of traffic online that becomes anonymous.&lt;/p&gt;
+&lt;p&gt;I assume this will lead to a quantum leap in the amount of traffic online that becomes anonymous &amp;ndash; for reasons that have to do with both the convenience and the ingenuity of Apple&amp;rsquo;s solution to this long-standing problem.&lt;/p&gt;
 &lt;p&gt;Until now, the most common options for concealing your tracks on the web were to use a virtual private network or Tor (an open source app involving a series of relay servers around the world).&lt;/p&gt;
 &lt;p&gt;A VPN would shield your identity from your ISP or the sites you visit, but not from the VPN provider itself. You would have to trust the VPN with your info, or hope it wouldn’t be hacked. Using a Tor browser spared you from having to share info with a VPN, but the relay process that concealed your IP address made surfing slow and cumbersome.&lt;/p&gt;
 &lt;p&gt;The novelty of iCloud Private Relay is that no one has all the info necessary to tie your browsing history to your device or identity. Apple’s clever solution is to use a middleman, an unnamed set of ‘trusted content providers.’ You give certain information to Apple’s servers and they turn over &lt;em&gt;some&lt;/em&gt; of it to another set of servers that speak to the sites you wish to visit.&lt;/p&gt;
@@ -71,7 +71,7 @@
 &lt;p&gt;And in contrast to Tor, iCloud Private Relay doesn&amp;rsquo;t cause a noticeable slow down — according to early tests by Hamilton and &lt;a href=&#34;https://www.fastcompany.com/90643627/apple-privacy-wwdc-private-relay-vpn-icloud-plus-macos-monterey&#34;&gt;others&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;iCloud Private Relay is not a standard feature, but a paid add-on through iCloud Plus. But many people will have it, turn it on and forget it&amp;rsquo;s there.&lt;/p&gt;
 &lt;p&gt;What will it mean that much more traffic will now be concealed more effectively than before? Will it make any difference?&lt;/p&gt;
-&lt;p&gt;At least one: it will close a major avenue for ad-tracking.&lt;/p&gt;
+&lt;p&gt;At least one comes to mind: closing down a major avenue for ad-tracking.&lt;/p&gt;
 </description>
     </item>
     
@@ -82,15 +82,15 @@
       
       <guid>https://www.robertdiab.ca/posts/epic-v-apple/</guid>
       <description>&lt;p&gt;As often happens in court cases in involving cyberspace, it all comes down to finding the right analogy.&lt;/p&gt;
-&lt;p&gt;Kyle Orland, in &lt;a href=&#34;https://arstechnica.com/gaming/2021/05/the-epic-v-apple-case-could-hinge-on-the-definition-of-the-marketplace/&#34;&gt;Ars Technica&lt;/a&gt;, helpfully pinpoints the two main issues in Epic vs Apple: &amp;ldquo;What is the relevant competitive market and what should the court do if Apple is found to be unfairly monopolizing that market?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Kyle Orland, following the case closely for &lt;a href=&#34;https://arstechnica.com/gaming/2021/05/the-epic-v-apple-case-could-hinge-on-the-definition-of-the-marketplace/&#34;&gt;Ars Technica&lt;/a&gt;, says it turns on two issues: &amp;ldquo;What is the relevant competitive market and what should the court do if Apple is found to be unfairly monopolizing that market?&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Epic’s case hinges on an analogy between Apple’s restrictive practices on its iOS App Store (a 30% cut, no-steering provisions, etc.) and what happened in a well-known case from US Supreme Court in 1992.&lt;/p&gt;
 &lt;p&gt;In &lt;em&gt;Eastman Kodak Co. v. Image Technical Servs., Inc.&lt;/em&gt;, the Court held that despite Kodak not being a dominant player in the market for photocopiers (like Apple in phones), its behaviour in the market for repair parts — restricting supply, forcing customers to buy exclusively from Kodak — was unlawfully anti-competitive.&lt;/p&gt;
-&lt;p&gt;But Apple says: no, that’s not the right analogy. Yes, it’s true that people who want to buy apps on their iPhones or iPads are forced to use the App Store (in contrast to the the Mac, where you can get apps from App Store &lt;em&gt;and also&lt;/em&gt; from anywhere else). But iPhone customers are not like Kodak customers because if they want access to the app in question, they can simply use a different device — an Android, an Xbox, etc.&lt;/p&gt;
+&lt;p&gt;But Apple says: no, that’s not the right analogy. Yes, it’s true that people who want to buy apps on their iPhones or iPads are forced to use the App Store (in contrast to the Mac, where you can get apps from App Store &lt;em&gt;and also&lt;/em&gt; from elsewhere). But iPhone customers are not like Kodak customers. If they want access to the app in question, they can simply use a different device — an Android, an Xbox, etc.&lt;/p&gt;
 &lt;p&gt;The relevant market, says Apple, is the whole field of device platforms competing for the world’s gamers or users.&lt;/p&gt;
 &lt;p&gt;No, says Epic, the relevant market is the billion or so people in the world who use an iPhone, and Apple holds them hostage just as Kodak did by wiping out the aftermarket for parts.&lt;/p&gt;
 &lt;p&gt;Are Apple’s customers like Kodak’s customers? Or are they in a fundamentally different position?&lt;/p&gt;
 &lt;p&gt;Conceding this to be a central question, one of Apple’s lawyers asserted: “This is not a case where there’s one device out there and if there’s a part missing you’re out of luck, you can&amp;rsquo;t use that device…”&lt;/p&gt;
-&lt;p&gt;Ben Thompson &lt;a href=&#34;https://stratechery.com/2021/app-store-arguments/&#34;&gt;points out&lt;/a&gt; that appellate decisions have narrowed the scope of &lt;em&gt;Eastman Kodak&lt;/em&gt; to cases where customers don’t know they’re buying into a walled garden when they buy a product — and that if they do know and still freely to choose to buy the product, the company is free to reap benefits from its monopolistic position (charging higher fees, setting rules), but it cannot be anti-competitive. The company cannot prevent other parties from offering competing products and services.&lt;/p&gt;
+&lt;p&gt;Ben Thompson &lt;a href=&#34;https://stratechery.com/2021/app-store-arguments/&#34;&gt;points out&lt;/a&gt; that appellate decisions have narrowed the scope of &lt;em&gt;Eastman Kodak&lt;/em&gt; to cases where customers don’t know they’re buying into a walled garden when they buy a product — and that if they do know and still freely to choose to buy the product, the company is free to reap benefits from its monopolistic position (charging higher fees, setting rules), but it cannot be anti-competitive. The company can&amp;rsquo;t prevent other parties from offering competing products and services.&lt;/p&gt;
 &lt;p&gt;Which brings us back to the question of analogy.&lt;/p&gt;
 &lt;p&gt;If people aren’t likely to leave the Apple ecosystem to use their favourite apps on other devices — because it’s ever harder to leave once you’re in Apple’s walled garden — are its customers not like those of Kodak? Sure, they bought their iPhone knowing it would entail submitting to Apple’s monopoly on app purchases, but did they have a real choice?&lt;/p&gt;
 &lt;p&gt;I wouldn’t be surprised if Judge Gonzales Rogers — explicitly or impliedly — sees the App Store as more like the Kodak case than not and forces Apple to give users and developers some measure of choice here they didn’t have before.&lt;/p&gt;
@@ -104,7 +104,7 @@
       
       <guid>https://www.robertdiab.ca/posts/compelled-discoverability/</guid>
       <description>&lt;p&gt;Canada may soon be the first country to pass law compelling platforms like Youtube and Tik Tok to make content created by domestic users more discoverable. Surely this can’t be constitutional, you might think.&lt;/p&gt;
-&lt;p&gt;There are passionate voices arguing both sides of this question, but they appear to be talking  past one another.&lt;/p&gt;
+&lt;p&gt;There are passionate voices arguing both sides of the question, but they appear to be talking  past one another.&lt;/p&gt;
 &lt;p&gt;To be more precise, Bill C-10 wouldn’t compel discovery directly; it would empower the country’s broadcast authority, the Canadian Radio-television and Telecommunications Commission to do so, bringing Youtube and friends under the regulatory fold along with an older and very different set of entities.&lt;/p&gt;
 &lt;p&gt;To make a case that a law forcing YouTube to feature Canadian content in search results (or forcing Tik Tok to curate content streams, etc) is unconstitutional under Canada&amp;rsquo;s &lt;em&gt;Charter of Rights and Freedoms&lt;/em&gt;, a challenger would need to establish two things: (1) that such a law violates either a user’s freedom of expression or that of the platform itself; and (2) that the violation is not a reasonable limit on the freedom.&lt;/p&gt;
 &lt;p&gt;The case for violating free expression would rest on a long-standing claim that search index results are a form of speech. It’s a &lt;a href=&#34;https://robertmarksimpson.com/assets/pdfs/Search-Engines.pdf&#34;&gt;contested&lt;/a&gt; claim, but not one that Canadian courts have outright dismissed.&lt;/p&gt;
@@ -156,7 +156,7 @@
 &lt;p&gt;Police forces that do have them must create their own policies on when video can be released. In cases of videotaped deaths and injuries, the decision will lie with provincial watchdog bodies such as Ontario’s Special Investigative Unit – which currently take months to investigate before releasing any findings.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;A forthcoming &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3623440&#34;&gt;article&lt;/a&gt; in &lt;em&gt;Criminal Law Quarterly&lt;/em&gt; that I co-authored with Marshall Putnam argues for &lt;em&gt;Criminal Code&lt;/em&gt; amendments that would guide police and prosecutors in the use of camera evidence &amp;ndash; when to record, disclosure, privacy, etc.&lt;/p&gt;
-&lt;p&gt;Without codifying rules in federal law, camera uptake and use in Canada will be a confusing patchwork of law and practice, with unfair, inefficient outcomes.&lt;/p&gt;
+&lt;p&gt;Without codifying rules in federal law, we suggest, camera uptake and use in Canada will be a confusing patchwork of law and practice, with unfair, inefficient outcomes.&lt;/p&gt;
 </description>
     </item>
     
