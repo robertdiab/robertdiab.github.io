@@ -1,10 +1,164 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Robert Diab</title>
+    <title>Topics on Robert Diab</title>
     <link>https://www.robertdiab.ca/tags/</link>
-    <description>Recent content in Tags on Robert Diab</description>
+    <description>Recent content in Topics on Robert Diab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.robertdiab.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 10:40:50 -0700</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kate Crawford on the Social and Environmental Impact of AI</title>
+      <link>https://www.robertdiab.ca/posts/crawford-atlas/</link>
+      <pubDate>Mon, 14 Jun 2021 10:40:50 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/crawford-atlas/</guid>
+      <description>&lt;p&gt;I’m reading and learning a lot from Kate Crawford’s &lt;a href=&#34;https://yalebooks.yale.edu/book/9780300209570/atlas-ai&#34;&gt;Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence&lt;/a&gt; (Yale, 2021). It might be grouped with earlier books that give us a glimpse of the underside of computing, the hidden material conditions. Books like Andrew Blum’s &lt;a href=&#34;https://www.andrewblum.net/tubes-2&#34;&gt;Tubes: A Journey to the Centre of the Internet&lt;/a&gt; (Ecco, 2012) or Tung-Hui Hu’s &lt;a href=&#34;https://mitpress.mit.edu/books/prehistory-cloud&#34;&gt;A Prehistory of the Cloud&lt;/a&gt; (MIT, 2015).&lt;/p&gt;
+&lt;p&gt;Crawford’s title is misleading. It’s not a book about artificial intelligence; it’s about computation in the abstract — all forms of it: PC, mobil, mainframe, network, etc. She’s concerned with planetary environmental and social costs that remain hidden in much of our experience of technology, and in the stories of progress we tell about it. Her thesis (from the Introduction):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I argue that AI is neither artificial nor intelligent. Rather, artificial intelligence is both embodied and material, made from natural resources, fuel, human labor, infrastructures, logistics, histories, and classifications. AI systems are not autonomous, rational, or able to discern anything without extensive, computationally intensive training with large datasets or predefined rules and rewards. In fact, artificial intelligence as we know it depends entirely on a much wider set of political and social structures. And due to the capital required to build AI at scale and the ways of seeing that it optimizes AI systems are ultimately designed to serve existing dominant interests. In this sense, artificial intelligence is a registry of power.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Crawford sees AI (or computation) as the product of a series of “economic, political, cultural, and historical forces”. Her aim is to “connect AI within these broader structures and social systems,”  so as to “escape the notion that artificial intelligence is a purely technical domain.”&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At a fundamental level, AI is technical and social practices, institutions and infrastructures, politics and culture. Computational reason and embodied work are deeply interlinked: AI systems both reflect and produce social relations and understandings of the world.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As to why she chose the metaphor of an atlas as a framework, Crawford explains:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;By invoking an atlas, I’m suggesting that we need new ways to understand the empires of artificial intelligence. We need a theory of AI that accounts for the states and corporations that drive and dominate it, the extractive min- ing that leaves an imprint on the planet, the mass capture of data, and the profoundly unequal and increasingly exploitative labor practices that sustain it. These are the shifting tectonics of power in AI. A topographical approach offers different perspectives and scales, beyond the abstract promises of artificial intelligence or the latest machine learning models. The aim is to understand AI in a wider context by walking through the many different landscapes of computation and seeing how they connect.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’m only through two of the chapters thus far. The one on the environmental impact of AI’s tendency toward ‘extraction’ was eye-opening. Producing a laptop battery, let alone one for a Tesla or a Ford 150, involves an enormous amount of permanent waste and destruction through lithium mining. But it&amp;rsquo;s in keeping, as Crawford shows, with a long tradition of network tech doing serious environmental damage that extends at least as far back as the telegraph.&lt;/p&gt;
+&lt;p&gt;The chapter on labour draws interesting parallels between “the repetitive motions of robots and line machinery” and the “controlling of bodies in space and time” in the work farmed out to gig workers by Amazon, Facebook, and others.&lt;/p&gt;
+&lt;p&gt;Other chapters explore data harvesting in AI, prediction algorithms, and their use in state power. As a bonus, Crawford writes with journalistic flair and moves fluidly through well-chosen historical anecdotes. Can’t put it down.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The End of Passwords?</title>
+      <link>https://www.robertdiab.ca/posts/end-of-passwords/</link>
+      <pubDate>Sat, 12 Jun 2021 11:52:29 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/end-of-passwords/</guid>
+      <description>&lt;p&gt;In developer builds of its system updates, Apple is testing the new WebAuthn passkey standard.&lt;/p&gt;
+&lt;p&gt;When it’s out of beta, it may make passwords obsolete, for the most part.&lt;/p&gt;
+&lt;p&gt;Stephen Shankland at &lt;a href=&#34;https://www.cnet.com/news/apple-says-its-new-logon-tech-is-as-easy-as-passwords-but-far-more-secure/&#34;&gt;Cnet&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To set up an account on a website or app using a passkey, you first choose a username for the new account, then use FaceID or Touch ID to confirm that it&amp;rsquo;s really you who&amp;rsquo;s using the device. You don&amp;rsquo;t ever pick a password. Your device handles generation and storage of the passkey, which iCloud Keychain synchronizes across all your Apple devices. […]&lt;/p&gt;
+&lt;p&gt;The tech behind Apple&amp;rsquo;s passkeys is built on the WebAuthn technology that emerged from the &lt;a href=&#34;https://fidoalliance.org&#34;&gt;FIDO (Fast Identity Online) Alliance&lt;/a&gt;, a consortium that&amp;rsquo;s been overhauling authentication with hardware security keys. Apple&amp;rsquo;s approach embraces a fundamental part of WebAuthn, the combination of public and private encryption keys that&amp;rsquo;s already built deeply into communication security and many other established processes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As this helpful &lt;a href=&#34;https://webauthn.guide&#34;&gt;WebAuthn Guide&lt;/a&gt; explains, the new standard:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…allows servers to integrate with the strong authenticators now built into devices, like Windows Hello or Apple’s Touch ID. Instead of a password, a private-public keypair (known as a credential) is created for a website. The private key is stored securely on the user’s device; a public key and randomly generated credential ID is sent to the server for storage. The server can then use that public key to prove the user’s identity.&lt;/p&gt;
+&lt;p&gt;The public key is not secret, because it is effectively useless without the corresponding private key. The fact that the server receives no secret has far-reaching implications for the security of users and organizations. Databases are no longer as attractive to hackers, because the public keys aren’t useful to them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Whether Apple will roll this out in the fall is unclear. But soon, they will, along with other members of the FIDO alliance behind the WebAuthn standard, including Google and Microsoft.&lt;/p&gt;
+&lt;p&gt;It’s nice to see encryption used in this ingenious way to make something so fundamental to our use of the web both more convenient and more secure. It&amp;rsquo;s rare that we get both.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Will iCloud Private Relay Make Us All Anonymous?</title>
+      <link>https://www.robertdiab.ca/posts/icloud-private-relay/</link>
+      <pubDate>Fri, 11 Jun 2021 11:37:58 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/icloud-private-relay/</guid>
+      <description>&lt;p&gt;Apple has unveiled a new feature, on mobile platforms and the Mac, that offers more privacy than a VPN and more speed than Tor networks.&lt;/p&gt;
+&lt;p&gt;It may well lead to a quantum leap in the amount of traffic online that becomes anonymous.&lt;/p&gt;
+&lt;p&gt;Until now, the most common options for concealing your tracks on the web were to use a virtual private network or Tor (an open source app involving a series of relay servers around the world).&lt;/p&gt;
+&lt;p&gt;A VPN would shield your identity from your ISP or the sites you visit, but not from the VPN provider itself. You would have to trust the VPN with your info, or hope it wouldn’t be hacked. Using a Tor browser spared you from having to share info with a VPN, but the relay process that concealed your IP address made surfing slow and cumbersome.&lt;/p&gt;
+&lt;p&gt;The novelty of iCloud Private Relay is that no one has all the info necessary to tie your browsing history to your device or identity. Apple’s clever solution is to use a middleman, an unnamed set of ‘trusted content providers.’ You give certain information to Apple’s servers and they turn over &lt;em&gt;some&lt;/em&gt; of it to another set of servers that speak to the sites you wish to visit.&lt;/p&gt;
+&lt;p&gt;As Dave Hamilton at &lt;a href=&#34;https://www.macobserver.com/tips/deep-dive/digging-into-apples-icloud-private-relay/&#34;&gt;the Mac Observer&lt;/a&gt; puts it: “Apple doesn’t know what site(s) you’re visiting, and the third-party content provider doesn’t know who you are.”&lt;/p&gt;
+&lt;p&gt;And in contrast to Tor, iCloud Private Relay doesn&amp;rsquo;t cause a noticeable slow down — according to early tests by Hamilton and &lt;a href=&#34;https://www.fastcompany.com/90643627/apple-privacy-wwdc-private-relay-vpn-icloud-plus-macos-monterey&#34;&gt;others&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;iCloud Private Relay is not a standard feature, but a paid add-on through iCloud Plus. But many people will have it, turn it on and forget it&amp;rsquo;s there.&lt;/p&gt;
+&lt;p&gt;What will it mean that much more traffic will now be concealed more effectively than before? Will it make any difference?&lt;/p&gt;
+&lt;p&gt;At least one: it will close a major avenue for ad-tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epic vs Apple and the Search for the Right Analogy</title>
+      <link>https://www.robertdiab.ca/posts/epic-v-apple/</link>
+      <pubDate>Thu, 27 May 2021 09:49:34 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/epic-v-apple/</guid>
+      <description>&lt;p&gt;As often happens in court cases in involving cyberspace, it all comes down to finding the right analogy.&lt;/p&gt;
+&lt;p&gt;Kyle Orland, in &lt;a href=&#34;https://arstechnica.com/gaming/2021/05/the-epic-v-apple-case-could-hinge-on-the-definition-of-the-marketplace/&#34;&gt;Ars Technica&lt;/a&gt;, helpfully pinpoints the two main issues in Epic vs Apple: &amp;ldquo;What is the relevant competitive market and what should the court do if Apple is found to be unfairly monopolizing that market?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Epic’s case hinges on an analogy between Apple’s restrictive practices on its iOS App Store (a 30% cut, no-steering provisions, etc.) and what happened in a well-known case from US Supreme Court in 1992.&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Eastman Kodak Co. v. Image Technical Servs., Inc.&lt;/em&gt;, the Court held that despite Kodak not being a dominant player in the market for photocopiers (like Apple in phones), its behaviour in the market for repair parts — restricting supply, forcing customers to buy exclusively from Kodak — was unlawfully anti-competitive.&lt;/p&gt;
+&lt;p&gt;But Apple says: no, that’s not the right analogy. Yes, it’s true that people who want to buy apps on their iPhones or iPads are forced to use the App Store (in contrast to the the Mac, where you can get apps from App Store &lt;em&gt;and also&lt;/em&gt; from anywhere else). But iPhone customers are not like Kodak customers because if they want access to the app in question, they can simply use a different device — an Android, an Xbox, etc.&lt;/p&gt;
+&lt;p&gt;The relevant market, says Apple, is the whole field of device platforms competing for the world’s gamers or users.&lt;/p&gt;
+&lt;p&gt;No, says Epic, the relevant market is the billion or so people in the world who use an iPhone, and Apple holds them hostage just as Kodak did by wiping out the aftermarket for parts.&lt;/p&gt;
+&lt;p&gt;Are Apple’s customers like Kodak’s customers? Or are they in a fundamentally different position?&lt;/p&gt;
+&lt;p&gt;Conceding this to be a central question, one of Apple’s lawyers asserted: “This is not a case where there’s one device out there and if there’s a part missing you’re out of luck, you can&amp;rsquo;t use that device…”&lt;/p&gt;
+&lt;p&gt;Ben Thompson &lt;a href=&#34;https://stratechery.com/2021/app-store-arguments/&#34;&gt;points out&lt;/a&gt; that appellate decisions have narrowed the scope of &lt;em&gt;Eastman Kodak&lt;/em&gt; to cases where customers don’t know they’re buying into a walled garden when they buy a product — and that if they do know and still freely to choose to buy the product, the company is free to reap benefits from its monopolistic position (charging higher fees, setting rules), but it cannot be anti-competitive. The company cannot prevent other parties from offering competing products and services.&lt;/p&gt;
+&lt;p&gt;Which brings us back to the question of analogy.&lt;/p&gt;
+&lt;p&gt;If people aren’t likely to leave the Apple ecosystem to use their favourite apps on other devices — because it’s ever harder to leave once you’re in Apple’s walled garden — are its customers not like those of Kodak? Sure, they bought their iPhone knowing it would entail submitting to Apple’s monopoly on app purchases, but did they have a real choice?&lt;/p&gt;
+&lt;p&gt;I wouldn’t be surprised if Judge Gonzales Rogers — explicitly or impliedly — sees the App Store as more like the Kodak case than not and forces Apple to give users and developers some measure of choice here they didn’t have before.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Canada&#39;s Plan for Compelled Discoverability</title>
+      <link>https://www.robertdiab.ca/posts/compelled-discoverability/</link>
+      <pubDate>Mon, 17 May 2021 09:53:16 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/compelled-discoverability/</guid>
+      <description>&lt;p&gt;Canada may soon be the first country to pass law compelling platforms like Youtube and Tik Tok to make content created by domestic users more discoverable. Surely this can’t be constitutional, you might think.&lt;/p&gt;
+&lt;p&gt;There are passionate voices arguing both sides of this question, but they appear to be talking  past one another.&lt;/p&gt;
+&lt;p&gt;To be more precise, Bill C-10 wouldn’t compel discovery directly; it would empower the country’s broadcast authority, the Canadian Radio-television and Telecommunications Commission to do so, bringing Youtube and friends under the regulatory fold along with an older and very different set of entities.&lt;/p&gt;
+&lt;p&gt;To make a case that a law forcing YouTube to feature Canadian content in search results (or forcing Tik Tok to curate content streams, etc) is unconstitutional under Canada&amp;rsquo;s &lt;em&gt;Charter of Rights and Freedoms&lt;/em&gt;, a challenger would need to establish two things: (1) that such a law violates either a user’s freedom of expression or that of the platform itself; and (2) that the violation is not a reasonable limit on the freedom.&lt;/p&gt;
+&lt;p&gt;The case for violating free expression would rest on a long-standing claim that search index results are a form of speech. It’s a &lt;a href=&#34;https://robertmarksimpson.com/assets/pdfs/Search-Engines.pdf&#34;&gt;contested&lt;/a&gt; claim, but not one that Canadian courts have outright dismissed.&lt;/p&gt;
+&lt;p&gt;It would seem plausible to me to characterize what happens when I use Youtube as a kind of conversation. I express a preference in my search patterns; Youtube responds by serving me a curated set of choices.&lt;/p&gt;
+&lt;p&gt;Canada’s courts have &lt;a href=&#34;https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/1835/index.do&#34;&gt;suggested&lt;/a&gt; that free expression includes not only the right to say something but also the right to hear it. On this basis, an interruption in the conversation I have with YouTube violates the rights of both parties.&lt;/p&gt;
+&lt;p&gt;But people in favour of the Bill insist that there’s no interruption in compelling discoverability. On Monday, Janet Yale, head of the Broadcasting and Telecommunications Legislative Review panel, &lt;a href=&#34;https://nationalpost.com/news/politics/its-about-promotion-of-canadian-choices-academics-argue-that-bill-c-10-does-not-impede-freedom-of-speech&#34;&gt;told&lt;/a&gt; a parliament committee on the bill:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…it’s not about interfering with freedom of choice, it’s about promotion of Canadian choices … Nobody has to watch it if they don’t want to watch it. So there is actually no restriction on freedom of choice whatsoever.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;She’s wrong because the interference lies not in being forced to watch but in having the choice of what to watch interfered with. When I ask YouTube to show me content on X topic, I want the best videos in the world on X, not the best videos that happen to be Canadian.&lt;/p&gt;
+&lt;p&gt;Establishing a case for violating free expression does not seem too difficult. The fuzzier part comes in trying to predict whether a court (possibly our highest) will think this kind of limit on our rights is justified. Part of the analysis will turn on whether compelled discoverability advances a “pressing and substantial objective”.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://audiencelab.fcad.ryerson.ca/wp-content/uploads/2019/05/YouTube-Full-Report-FINAL_V7_May21.pdf&#34;&gt;evidence&lt;/a&gt; would seem to be clear that Canadian creators are doing exceedingly well on YouTube — including French Canadians &amp;ndash; with many among the most popular in their various niches. The reasonable limit case may be hard for the government to make out.&lt;/p&gt;
+&lt;p&gt;But we’ll have to wait for the lengthy, costly, and almost certainly inevitable litigation to find out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Comes After the Internet</title>
+      <link>https://www.robertdiab.ca/posts/what-comes-after-the-internet/</link>
+      <pubDate>Thu, 13 May 2021 08:51:22 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/what-comes-after-the-internet/</guid>
+      <description>&lt;p&gt;Matthew Ball on the coming &lt;a href=&#34;https://www.matthewball.vc/all/themetaverse&#34;&gt;Metaverse&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…the Metaverse has become the newest macro-goal for many of the world’s tech giants. As I outlined in February of 2019, it is the express goal of Epic Games, maker of the Unreal Engine and Fortnite. It is also the driver behind Facebook’s purchase of Oculus VR and its newly announced Horizon virtual world/meeting space, among many, many other projects, such as AR glasses and brain-to-machine communications. The tens of billions that will be spent on cloud gaming over the next decade, too, is based on the belief that such technologies will underpin our online-offline future.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Among its key features, Ball speculates, are persistence; synchronicity; concurrent participation across space; a straddling of online and offline worlds, open and closed platforms; and “unprecedented interoperability of data, digital items/assets, content, and so on across each of these experiences”.&lt;/p&gt;
+&lt;p&gt;The metaverse is not to be confused with “virtual reality”, “virtual space,” a game, or even “online experience itself”.&lt;/p&gt;
+&lt;p&gt;It will depend on a number of developments, including a greater &amp;ldquo;concurrency infrastructure&amp;rdquo; to host ever larger, mass, real-time events online; a more robust and resilient set of standards and protocols, narrowing the number of common file formats; and a more inviting set of “on-ramp experiences” to the ones that brought us online in the late 90s.&lt;/p&gt;
+&lt;p&gt;A fascinating vision of at least some of the changes at a macro level that we can expect to see in the evolution of digital and network tech in the coming decade or two.&lt;/p&gt;
+&lt;p&gt;One insight, among many, that stands out here:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip;it won’t directly come into existence; there will be no clean “Before Metaverse” and “After Metaverse”. Instead, it will slowly emerge over time as different products, services, and capabilities integrate and meld together.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Police Bodycam Use About to Rise in Canada</title>
+      <link>https://www.robertdiab.ca/posts/uptake-police-bodycams/</link>
+      <pubDate>Mon, 26 Apr 2021 08:38:23 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/uptake-police-bodycams/</guid>
+      <description>&lt;p&gt;After years of reluctance by police and government in Canada to embrace bodycams, Colin Freeze reports that things are beginning to change.&lt;/p&gt;
+&lt;p&gt;His informative &lt;a href=&#34;https://www.theglobeandmail.com/canada/article-police-are-increasingly-sold-on-bodycam-technology/&#34;&gt;piece&lt;/a&gt; (behind a paywall at the Globe) notes a series of changes on the ground across Canada in the wake of George Floyd&amp;rsquo;s murder, captured on video last summer.&lt;/p&gt;
+&lt;p&gt;Soon after that occurred, Trudeau announced $50 million in funding for RCMP bodycams. Forces in Ontario have recently announced $70 million in contracts, with two of the province&amp;rsquo;s largest forces &amp;ndash; Peel and Toronto &amp;ndash; budgeting $10 and $34 million respectively for body-worn cameras.&lt;/p&gt;
+&lt;p&gt;As Freeze points out, Canada lacks law regulating the use of bodycams, giving rise to a host of issues:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Police forces that do have them must create their own policies on when video can be released. In cases of videotaped deaths and injuries, the decision will lie with provincial watchdog bodies such as Ontario’s Special Investigative Unit – which currently take months to investigate before releasing any findings.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A forthcoming &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3623440&#34;&gt;article&lt;/a&gt; in &lt;em&gt;Criminal Law Quarterly&lt;/em&gt; that I co-authored with Marshall Putnam argues for &lt;em&gt;Criminal Code&lt;/em&gt; amendments that would guide police and prosecutors in the use of camera evidence &amp;ndash; when to record, disclosure, privacy, etc.&lt;/p&gt;
+&lt;p&gt;Without codifying rules in federal law, camera uptake and use in Canada will be a confusing patchwork of law and practice, with unfair, inefficient outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
