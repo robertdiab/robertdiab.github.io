@@ -6,7 +6,7 @@ body {
 
 .hdsection {
       background-color: white;
-      height: 110px;
+      height: 150px;
       border-bottom: solid;
       border-color: #d3d3d3;
       border-width: thin;
@@ -14,7 +14,8 @@ body {
 
 .sitelogo-field img {
     display: block;
-    height: 120px;
+    height: 140px;
+    margin-top: -20px;
     margin-left: 10px;
   }
 
@@ -24,11 +25,12 @@ body {
 
 .sidenav {
   float: right;
-  padding: 30px 19px;
+  padding: 30px 20px;
   font-weight: 400;
   font-family: 'Signika', sans-serif;
   font-weight: 300;
   color: #333333;
+
 }
 
 .sidenav a {
@@ -47,7 +49,7 @@ text-decoration: none;
 }
 
 .navtitle {
-  font-size: 17px;
+  font-size: 16.5px;
   line-height: 30px;
 }
 
@@ -64,7 +66,7 @@ text-decoration: none;
 p {
   color: rgba(0, 0, 0, 0.8);
   line-height: 28px;
-  font-size: 18px;
+  font-size: 17px;
   }
 
   p a {
@@ -134,7 +136,7 @@ p {
 }
 
 .nonpost-content h3 {
-  font-size: 19px;
+  font-size: 18px;
   font-weight: 300;
   font-family: 'Merriweather Sans', serif;
   color: #5E5E5E;
@@ -142,7 +144,7 @@ p {
 }
 
 .post-content {
-  padding: 32px 30px 40px 17px;
+  padding: 32px 30px 40px 18px;
   float: center;
   max-width: 665px;
   margin-left: auto;
@@ -174,7 +176,7 @@ p {
       }
 
 .post-content h3 {
-  font-size: 19px;
+  font-size: 18px;
   font-weight: 300;
   font-style: bold;
   font-family: 'Merriweather Sans', serif;
