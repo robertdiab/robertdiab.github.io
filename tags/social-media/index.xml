@@ -2,12 +2,12 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Robert Diab</title>
-    <link>https://www.robertdiab.ca/news/</link>
-    <description>Recent content in News on Robert Diab</description>
+    <title>social media on Robert Diab</title>
+    <link>https://www.robertdiab.ca/tags/social-media/</link>
+    <description>Recent content in social media on Robert Diab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 May 2021 10:11:54 -0700</lastBuildDate><atom:link href="https://www.robertdiab.ca/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 09:23:06 -0700</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kate Crawford on the Social and Environmental Impact of AI</title>
       <link>https://www.robertdiab.ca/posts/crawford-atlas/</link>
@@ -105,7 +105,7 @@
       <guid>https://www.robertdiab.ca/posts/compelled-discoverability/</guid>
       <description>&lt;p&gt;Canada may soon be the first country to pass law compelling platforms like Youtube and Tik Tok to make content created by domestic users more discoverable. Surely this can’t be constitutional, you might think.&lt;/p&gt;
 &lt;p&gt;There are passionate voices arguing both sides of the question, but they appear to be talking  past one another.&lt;/p&gt;
-&lt;p&gt;To be more precise, Bill C-10 wouldn’t compel discovery directly; it would empower the country’s broadcast authority, the Canadian Radio-television and Telecommunications Commission to do so, bringing Youtube and friends under the regulatory fold along with an older and very different set of entities.&lt;/p&gt;
+&lt;p&gt;To be more precise, Bill C-10 wouldn’t compel discovery directly; it would empower the country’s broadcast authority, the Canadian Radio-television and Telecommunications Commission, to do so. This would bring Youtube and friends under the regulatory fold along with an older and very different set of entities.&lt;/p&gt;
 &lt;p&gt;To make a case that a law forcing YouTube to feature Canadian content in search results (or forcing Tik Tok to curate content streams, etc) is unconstitutional under Canada&amp;rsquo;s &lt;em&gt;Charter of Rights and Freedoms&lt;/em&gt;, a challenger would need to establish two things: (1) that such a law violates either a user’s freedom of expression or that of the platform itself; and (2) that the violation is not a reasonable limit on the freedom.&lt;/p&gt;
 &lt;p&gt;The case for violating free expression would rest on a long-standing claim that search index results are a form of speech. It’s a &lt;a href=&#34;https://robertmarksimpson.com/assets/pdfs/Search-Engines.pdf&#34;&gt;contested&lt;/a&gt; claim, but not one that Canadian courts have outright dismissed.&lt;/p&gt;
 &lt;p&gt;It would seem plausible to me to characterize what happens when I use Youtube as a kind of conversation. I express a preference in my search patterns; Youtube responds by serving me a curated set of choices.&lt;/p&gt;
@@ -118,6 +118,37 @@
 &lt;p&gt;Establishing a case for violating free expression does not seem too difficult. The fuzzier part comes in trying to predict whether a court (possibly our highest) will think this kind of limit on our rights is justified. Part of the analysis will turn on whether compelled discoverability advances a “pressing and substantial objective”.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://audiencelab.fcad.ryerson.ca/wp-content/uploads/2019/05/YouTube-Full-Report-FINAL_V7_May21.pdf&#34;&gt;evidence&lt;/a&gt; would seem to be clear that Canadian creators are doing exceedingly well on YouTube — including French Canadians &amp;ndash; with many among the most popular in their various niches. The reasonable limit case may be hard for the government to make out.&lt;/p&gt;
 &lt;p&gt;But we’ll have to wait for the lengthy, costly, and almost certainly inevitable litigation to find out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Governance by Data</title>
+      <link>https://www.robertdiab.ca/posts/governance-by-data/</link>
+      <pubDate>Thu, 13 May 2021 10:11:54 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/governance-by-data/</guid>
+      <description>&lt;p&gt;Fleur Johns was kind enough to send me a pre-print copy of her new article “&lt;a href=&#34;https://www.annualreviews.org/doi/abs/10.1146/annurev-lawsocsci-120920-085138&#34;&gt;Governance by Data&lt;/a&gt;” in the &lt;em&gt;Annual Review of Law and Social Science&lt;/em&gt;. From the abstract:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Law and social science scholars have long elucidated ways of governing built around state governance of populations and subjects. Yet many are now grappling with the growing prevalence of practices of governance that depart, to varying degrees, from received models. The profusion of digital data, and the deployment of machine learning in its analysis, are redirecting states’ and international organizations’ attention away from the governance of populations as such and toward the amassing, analysis, and mobilization of hybrid data repositories and real-time data flows for governance. Much of this work does not depend on state data sources or on conventional statistical models. The subjectivities nurtured by these techniques of governance are frequently not those of choosing individuals. Digital objects and mediators are increasingly prevalent at all scales.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The essay makes the larger and persuasive point that the impact of data collection and use by the state is more subtle and profound in its effects on us, in many ways, than are the algorithms of our favourite platforms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Politics of Recognition in the Age of Social Media</title>
+      <link>https://www.robertdiab.ca/posts/politics-recognition-social-media/</link>
+      <pubDate>Thu, 13 May 2021 09:23:06 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/politics-recognition-social-media/</guid>
+      <description>&lt;p&gt;William Davies, &lt;a href=&#34;https://newleftreview.org/issues/ii128/articles/william-davies-the-politics-of-recognition-in-the-age-of-social-media&#34;&gt;writing&lt;/a&gt; in the latest issue of the &lt;em&gt;New Left Review&lt;/em&gt;, explores how “transformations in the public sphere have led to a mutation in how recognition” of cultural, racial, or political identity “is demanded and supplied”:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The key condition for this is the digital platform, which has ushered in a new era of public participation in which recognition of status is never adequately achieved by anyone, so injustice feels ubiquitous. In the attention economy of social media, public actors may long for recognition, but have to settle instead for varying quantities of ‘reputation’, or simply the ‘reaction’ of immediate feedback.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The essay contains a thoughtful discussion of theories of recognition: Charles Taylor, Nancy Fraser, Alex Honneth. It also lends insight into how the “public sphere under platform capitalism differs from that of print capitalism”:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…public discourse is never divorced from the identity and status of the participants, save where identity is deliberately disguised as a political tactic, for trolling. An exchange on a platform leaves a trace, which remains attached to the digital identity of both parties, and serves as a type of investment (positive or negative) in their reputations. Opinion, judgement and critique no longer exist in any autonomous form, but become mediators of social relations and investments.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
