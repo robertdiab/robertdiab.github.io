@@ -1,8 +1,5 @@
 @import 'fonts.css';
 
-body {
-  line-height: 27px;
-}
 
 .hdsection {
       background-color: white;
@@ -50,17 +47,18 @@ text-decoration: none;
 
 .navtitle {
   font-size: 14.5px;
-  line-height: 26px;
+  line-height: 27px;
 }
 
 .smallnav {
   font-size: 13.5px;
-  line-height: 23px;
+  line-height: 26px;
   color: grey;
 }
 
 .recent-posts {
   max-width: 80px;
+  line-height: 21px;
 }
 
 p {
