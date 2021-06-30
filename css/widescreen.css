@@ -36,7 +36,7 @@ body {
   overflow-x: hidden;
   padding: 35px 18px;
   padding-left: 26px;
-  font-family: 'Signika', serif;
+  font-family: 'Merriweather Sans', serif;
   font-weight: 300;
   color: #333333;
 }
@@ -57,14 +57,14 @@ text-decoration: none;
   }
 
 .navtitle {
-  font-size: 18.5px;
-  line-height: 36px;
+  font-size: 17px;
+  line-height: 34px;
 }
 
 .smallnav {
-  font-size: 17px;
+  font-size: 15px;
   color: grey;
-  line-height: 30px;
+  line-height: 29px;
   }
 
 .recent-posts {
@@ -74,8 +74,8 @@ text-decoration: none;
 
 p {
   color: rgba(0, 0, 0, 0.8);
-  line-height: 30px;
-  font-size: 19px;
+  line-height: 33px;
+  font-size: 18px;
   }
 
 p a {
@@ -128,7 +128,7 @@ color: #007AFC;
   font-size: .95em;
   font-weight: 300;
   color: grey;
-  font-family: 'Signika';
+  font-family: 'Merriweather Sans';
 }
 
 .nonpost-content {
@@ -139,7 +139,7 @@ color: #007AFC;
 }
 
 .nonpost-content p {
-  font-family: 'Signika', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-weight: 300;
 }
 
@@ -161,7 +161,7 @@ color: #007AFC;
 }
 
 .post-content p {
-  font-family: 'Signika', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-weight: 300;
 }
 
@@ -217,7 +217,7 @@ text-decoration: none;
 .archive {
   line-height: 30px;
   padding: 21px 60px 40px 60px;
-  font-family: 'Signika', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
   font-weight: 300;
 }
 
@@ -247,13 +247,13 @@ text-decoration: none;
     max-width: 600px;
     line-height: 30px;
     padding-top: 10px;
-    font-family: 'Signika', serif;
+    font-family: 'Merriweather Sans', serif;
 }
 
 .archive__post-date {
     font-size: .95rem;
     color: grey;
-    font-family: 'Signika', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .archive__post-read-time {
@@ -263,7 +263,7 @@ text-decoration: none;
 .topic {
 line-height: 30px;
 padding: 21px 60px 40px 10px;
-font-family: 'Signika';
+font-family: 'Merriweather Sans';
 font-weight: 300;
 }
 
@@ -280,7 +280,7 @@ font-weight: 300;
   font-size: 20px;
   padding-top: 20px;
   padding-bottom: 10px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Merriweather', serif;
 }
 
 
@@ -310,7 +310,7 @@ blockquote {
 }
 
 .page-nav a {
-font-family: 'Signika', serif;
+font-family: 'Merriweather Sans', serif;
 font-weight: 300;
  color:grey;
  text-decoration: none;
@@ -371,7 +371,7 @@ text-decoration: none;
   text-align: center;
 }
 .bottomhomelinks a {
-  font-family: 'Signika', serif;
+  font-family: 'Merriweather Sans', serif;
   font-weight: 300;
    color:black;
    text-decoration: none;

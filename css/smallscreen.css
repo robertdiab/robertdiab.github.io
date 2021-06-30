@@ -27,7 +27,7 @@ body {
   float: right;
   padding: 30px 20px;
   font-weight: 400;
-  font-family: 'Signika', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
   font-weight: 300;
   color: #333333;
 
@@ -49,13 +49,13 @@ text-decoration: none;
 }
 
 .navtitle {
-  font-size: 16.5px;
-  line-height: 30px;
+  font-size: 14.5px;
+  line-height: 26px;
 }
 
 .smallnav {
-  font-size: 15px;
-  line-height: 26px;
+  font-size: 13.5px;
+  line-height: 23px;
   color: grey;
 }
 
@@ -65,8 +65,8 @@ text-decoration: none;
 
 p {
   color: rgba(0, 0, 0, 0.8);
-  line-height: 28px;
-  font-size: 17px;
+  line-height: 27px;
+  font-size: 16px;
   }
 
   p a {
@@ -118,7 +118,7 @@ p {
   font-size: .9em;
   font-weight: normal;
   color: grey;
-  font-family: 'Signika';
+  font-family: 'Merriweather Sans';
   font-weight: 300;
 }
 
@@ -131,7 +131,7 @@ p {
 }
 
 .nonpost-content p {
-  font-family: 'Signika', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-weight: 300;
 }
 
@@ -152,7 +152,7 @@ p {
 }
 
 .post-content p {
-  font-family: 'Signika', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-weight: 300;
 }
 
@@ -207,7 +207,7 @@ text-decoration: none;
   line-height: 30px;
   padding: 20px 60px 40px 0px;
   margin-left: 20px;
-  font-family: 'Signika', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
   font-weight: 300;
   }
 
@@ -222,23 +222,23 @@ text-decoration: none;
 }
 
 .archive__group-year-header {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 300;
 
 }
 
 .archive__group-month-header {
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 300;
     color: grey;
 }
 
 .archive__post-title {
-    font-size: 1.05rem;
+    font-size: .95rem;
     font-weight: 300;
     line-height: 24px;
     padding-top: 10px;
-    font-family: 'Signika', serif;
+    font-family: 'Merriweather Sans', serif;
 }
 
 .archive__post-date {
@@ -252,13 +252,13 @@ text-decoration: none;
 
 .topic {
 line-height: 30px;
-padding: 18px 40px 40px 0px;
-font-family: 'Signika';
+padding: 12px 40px 40px 0px;
+font-family: 'Merriweather Sans';
 font-weight: 300;
 }
 
 .topic-page-title h2 {
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: 300;
   font-style: bold;
   padding-left: 20px;
@@ -271,10 +271,10 @@ font-weight: 300;
 }
 
 .topicword {
-  font-size: 1.1em;
+  font-size: 1em;
   padding-top: 15px;
   padding-bottom: 5px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Merriweather', serif;
 }
 
 .topic a {
@@ -283,7 +283,7 @@ font-weight: 300;
   }
 
 .topic-post {
-      font-size: 1em;
+      font-size: .9em;
       max-width: 480px;
   }
 
@@ -302,8 +302,9 @@ blockquote {
 }
 
 .page-nav a {
-font-family: 'Signika', serif;
+font-family: 'Merriweather Sans', serif;
 font-weight: 300;
+font-size: .9em;
  color:grey;
  text-decoration: none;
 }
@@ -357,7 +358,7 @@ text-decoration: none;
     text-align: center;
   }
   .bottomhomelinks a {
-    font-family: 'Signika', serif;
+    font-family: 'Merriweather Sans', serif;
     font-weight: 300;
      color:black;
      text-decoration: none;
