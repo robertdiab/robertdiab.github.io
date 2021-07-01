@@ -57,19 +57,19 @@ text-decoration: none;
   }
 
 .navtitle {
-  font-size: 17px;
-  line-height: 34px;
+  font-size: 16px;
+  line-height: 33px;
 }
 
 .smallnav {
-  font-size: 15px;
+  font-size: 14.5px;
   color: grey;
-  line-height: 29px;
+  line-height: 28px;
   }
 
 .recent-posts {
   max-width: 100px;
-  line-height: 24px;
+  line-height: 23px;
 }
 
 
@@ -145,7 +145,7 @@ color: #007AFC;
 }
 
 .nonpost-content h3 {
-  font-size: 21px;
+  font-size: 20px;
   font-weight: 300;
   font-style: bold;
   font-family: 'Merriweather Sans', serif;
@@ -188,7 +188,7 @@ color: #007AFC;
     }
 
 .post-content h3 {
-  font-size: 21px;
+  font-size: 20px;
   font-weight: 300;
   font-style: bold;
   font-family: 'Merriweather Sans', serif;
@@ -244,7 +244,7 @@ text-decoration: none;
 }
 
 .archive__post-title {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     max-width: 600px;
     line-height: 30px;
     padding-top: 10px;
@@ -278,7 +278,7 @@ font-weight: 300;
 }
 
 .topicword {
-  font-size: 20px;
+  font-size: 18px;
   padding-top: 20px;
   padding-bottom: 10px;
   font-family: 'Merriweather', serif;
@@ -291,7 +291,7 @@ font-weight: 300;
   }
 
 .topic-post {
-      font-size: 18px;
+      font-size: 17px;
       max-width: 380px;
   }
 
