@@ -34,9 +34,9 @@ body {
 .sidenav {
   float: right;
   overflow-x: hidden;
-  padding: 35px 18px;
+  padding: 40px 18px;
   padding-left: 26px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Signika', serif;
   font-weight: 300;
   color: #333333;
 }
@@ -57,26 +57,25 @@ text-decoration: none;
   }
 
 .navtitle {
-  font-size: 17px;
-  line-height: 34px;
+  font-size: 18px;
+  line-height: 33px;
 }
 
 .smallnav {
-  font-size: 15px;
+  font-size: 16.5px;
   color: grey;
-  line-height: 29px;
+  line-height: 28px;
   }
 
 .recent-posts {
   max-width: 100px;
-  line-height: 24px;
+  line-height: 23px;
 }
-
 
 p {
   color: rgba(0, 0, 0, 0.8);
-  line-height: 33px;
-  font-size: 18px;
+  line-height: 30px;
+  font-size: 17.5px;
   }
 
 p a {
@@ -129,7 +128,7 @@ color: #007AFC;
   font-size: .95em;
   font-weight: 300;
   color: grey;
-  font-family: 'Merriweather Sans';
+  font-family: 'Signika';
 }
 
 .nonpost-content {
@@ -140,15 +139,15 @@ color: #007AFC;
 }
 
 .nonpost-content p {
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Noto Serif', sans-serif;
   font-weight: 300;
 }
 
 .nonpost-content h3 {
-  font-size: 21px;
+  font-size: 22px;
   font-weight: 300;
   font-style: bold;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Signika', serif;
   color: #5E5E5E;
   padding-top: 20px;
 }
@@ -162,7 +161,7 @@ color: #007AFC;
 }
 
 .post-content p {
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Noto Serif', sans-serif;
   font-weight: 300;
 }
 
@@ -173,7 +172,6 @@ color: #007AFC;
   font-weight: 400;
   line-height: 37px;
   font-family: 'Merriweather Sans', serif;
-  font-weight: 500;
   color: rgba(0, 0, 0, 0.8);
 }
 
@@ -188,10 +186,10 @@ color: #007AFC;
     }
 
 .post-content h3 {
-  font-size: 21px;
+  font-size: 22px;
   font-weight: 300;
   font-style: bold;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Signika', serif;
   color: #5E5E5E;
 }
 
@@ -218,7 +216,7 @@ text-decoration: none;
 .archive {
   line-height: 30px;
   padding: 21px 60px 40px 60px;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Signika', sans-serif;
   font-weight: 300;
 }
 
@@ -244,17 +242,17 @@ text-decoration: none;
 }
 
 .archive__post-title {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     max-width: 600px;
     line-height: 30px;
     padding-top: 10px;
-    font-family: 'Merriweather Sans', serif;
+    font-family: 'Signika', serif;
 }
 
 .archive__post-date {
     font-size: .95rem;
     color: grey;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Signika', sans-serif;
 }
 
 .archive__post-read-time {
@@ -264,7 +262,7 @@ text-decoration: none;
 .topic {
 line-height: 30px;
 padding: 21px 60px 40px 10px;
-font-family: 'Merriweather Sans';
+font-family: 'Signika';
 font-weight: 300;
 }
 
@@ -273,15 +271,15 @@ font-weight: 300;
   font-weight: 300;
   font-style: bold;
   padding-left: 40px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Signika', serif;
   color: grey;
 }
 
 .topicword {
-  font-size: 20px;
+  font-size: 18px;
   padding-top: 20px;
   padding-bottom: 10px;
-  font-family: 'Merriweather', serif;
+  font-family: 'Noto Serif', serif;
 }
 
 
@@ -291,7 +289,7 @@ font-weight: 300;
   }
 
 .topic-post {
-      font-size: 18px;
+      font-size: 17px;
       max-width: 380px;
   }
 
@@ -311,7 +309,7 @@ blockquote {
 }
 
 .page-nav a {
-font-family: 'Merriweather Sans', serif;
+font-family: 'Signika', serif;
 font-weight: 300;
  color:grey;
  text-decoration: none;
@@ -372,7 +370,7 @@ text-decoration: none;
   text-align: center;
 }
 .bottomhomelinks a {
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Signika', serif;
   font-weight: 300;
    color:black;
    text-decoration: none;

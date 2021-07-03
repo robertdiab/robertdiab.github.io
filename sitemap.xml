@@ -3,8 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.robertdiab.ca/</loc>
-    <lastmod>2021-06-14T10:40:50-07:00</lastmod>
+    <lastmod>2021-07-03T10:30:38-07:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://www.robertdiab.ca/posts/</loc>
+    <lastmod>2021-07-03T10:30:38-07:00</lastmod>
+  </url><url>
+    <loc>https://www.robertdiab.ca/posts/state-censorship/</loc>
+    <lastmod>2021-07-03T10:30:38-07:00</lastmod>
   </url><url>
     <loc>https://www.robertdiab.ca/tags/artificial-intelligence/</loc>
     <lastmod>2021-06-14T10:40:50-07:00</lastmod>
@@ -13,9 +19,6 @@
     <lastmod>2021-06-14T10:40:50-07:00</lastmod>
   </url><url>
     <loc>https://www.robertdiab.ca/tags/network-tech/</loc>
-    <lastmod>2021-06-14T10:40:50-07:00</lastmod>
-  </url><url>
-    <loc>https://www.robertdiab.ca/posts/</loc>
     <lastmod>2021-06-14T10:40:50-07:00</lastmod>
   </url><url>
     <loc>https://www.robertdiab.ca/tags/</loc>

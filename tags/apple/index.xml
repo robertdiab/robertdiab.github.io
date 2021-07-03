@@ -9,6 +9,42 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Jun 2021 11:52:29 -0700</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>What can the state do to censor the net? The case of India</title>
+      <link>https://www.robertdiab.ca/posts/state-censorship/</link>
+      <pubDate>Sat, 03 Jul 2021 10:30:38 -0700</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/state-censorship/</guid>
+      <description>&lt;p&gt;Recent events in India got me thinking about an enduring question in the politics of the internet: how much control do nation states have over net?&lt;/p&gt;
+&lt;p&gt;The question ties into a larger debate I&amp;rsquo;ve been pondering (and will explore more in the future): what might be called the Gurri-Deibert debate.&lt;/p&gt;
+&lt;p&gt;Martin Gurri&amp;rsquo;s &lt;a href=&#34;https://www.amazon.ca/Revolt-Public-Crisis-Authority-Millennium-ebook/dp/B07J2V3PG4&#34;&gt;work&lt;/a&gt; presents the net as a serious if not mortal threat to authoritarian regimes (the paradigm case being the Arab spring), while Deibert&amp;rsquo;s &lt;a href=&#34;https://houseofanansi.com/products/reset&#34;&gt;work&lt;/a&gt; presents it as a tool for unprecedented surveillance and control.&lt;/p&gt;
+&lt;p&gt;A closer look at India is one of many examples that makes clear the Gurri-Deibert debate can&amp;rsquo;t be settled on a global level &lt;em&gt;easily&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;As India shows, the answer to the question of how much of a threat the net poses to a regime, or how much damage a regime can do to fundamental rights using the net, depends on a host of factors.&lt;/p&gt;
+&lt;p&gt;Among them: the culture of freedom in a given country, the extent of the rule of law or the degree of corruption, and the government&amp;rsquo;s control over institutions.&lt;/p&gt;
+&lt;p&gt;India is also a good place to begin making sense of the levels of control a country can exert in censoring the net.&lt;/p&gt;
+&lt;p&gt;European and North American countries generally censor only to protect intellectual property or injury to reputation. And they do so by &lt;a href=&#34;https://digitalcommons.osgoode.yorku.ca/ohlj/vol56/iss2/1/&#34;&gt;order of a court&lt;/a&gt; or a regulatory body that applies a statutory or common law power.&lt;/p&gt;
+&lt;p&gt;India is a commonwealth country with a strong judiciary and a culture of the rule of law. But the government of Narendra Modi has been keen to repress dissent and criticism of its handling of the pandemic, of labour reform, and other issues.&lt;/p&gt;
+&lt;p&gt;For example, in April, it &lt;a href=&#34;https://www.nytimes.com/2021/04/25/business/india-covid19-twitter-facebook.html&#34;&gt;ordered&lt;/a&gt; Facebook, Twitter, and Instagram to take down content critical of the government on Covid. As the NY Times reports:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Squabbles over online speech in India are growing common. The Indian government&amp;hellip; has become increasingly aggressive at stifling dissent. It has arrested activists and journalists, and pressured media organizations to hew to its line. It has cut off mobile internet access in troubled areas. After a standoff with China, it blocked a number of apps owned by Chinese companies.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What can Modi do to quell online dissent, short of shutting down the net altogether?&lt;/p&gt;
+&lt;p&gt;At least a few things &amp;ndash; pointing to gradations of censorship, short of a full shut down.&lt;/p&gt;
+&lt;p&gt;According to &lt;a href=&#34;https://techcrunch.com/2021/06/07/twitter-restricts-accounts-in-india-to-comply-with-government-legal-request/&#34;&gt;TechCrunch&lt;/a&gt;, India passed law earlier this year compelling social media companies to &amp;ldquo;acknowledge takedown requests of unlawful, misinformation and violent content within 24 hours and deliver a complete redressal within 15 days.&amp;rdquo; And in &amp;ldquo;sensitive cases such as those surrounding explicit sexual content, firms will be required to take down the content within 24 hours.&amp;rdquo; Firms have also had to set up &amp;ldquo;nodal contact and resident grievance officers whose names and contact details will be shared with New Delhi to effectively address on-ground concerns.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;All pretty standard so far. That is: pass laws that force private companies to engage in censorship, which works in-country but not beyond it.&lt;/p&gt;
+&lt;p&gt;Modi may be using these laws aggressively, insisting that legitimate dissent is &amp;ldquo;misinformation&amp;rdquo; under the law. And social media companies can resist demands to remove content by questioning the legality of requests.&lt;/p&gt;
+&lt;p&gt;But aside from these public arguments, what more could Modi do? How much more control can a state exert?&lt;/p&gt;
+&lt;p&gt;Due to the level of government scrutiny among civil society groups in India, one would hope the answer is: not much more.&lt;/p&gt;
+&lt;p&gt;But, in technical terms, the fine work by the folks at &lt;a href=&#34;https://citizenlab.ca/&#34;&gt;CitizenLab&lt;/a&gt; in Toronto point us to the next steps that other regimes have taken.&lt;/p&gt;
+&lt;p&gt;As Lex Gill, Jon Penney, and their co-authors have &lt;a href=&#34;https://citizenlab.ca/2018/04/planet-netsweeper/&#34;&gt;shown&lt;/a&gt;, governments have used software from private companies like Canada&amp;rsquo;s Netsweeper Inc, to filter net content in countries that include Afghanistan, Bahrain, India, Kuwait, Pakistan, Qatar, Somalia, Sudan, UAE, and Yemen. (See also CitizenLab&amp;rsquo;s &lt;a href=&#34;https://citizenlab.ca/2018/03/bad-traffic-sandvines-packetlogic-devices-deploy-government-spyware-turkey-syria/%E2%80%8B&#34;&gt;report&lt;/a&gt; on the use of tech by San Franciso&amp;rsquo;s Sandvine Inc in Turkey and Egypt.)&lt;/p&gt;
+&lt;p&gt;Governments in these cases contract with private companies for technology involving &amp;lsquo;deep packet inspection.&amp;rsquo; A &lt;a href=&#34;https://dspace.library.uvic.ca/bitstream/handle/1828/5024/Parsons_Christopher_PhD_2013.pdf?sequence=6&amp;amp;isAllowed=y%E2%80%8B&#34;&gt;doctoral thesis&lt;/a&gt; by Christopher Parsons (also at CitizenLab) from 2013 is informative on how DPI works and how it can impact fundamental freedoms.&lt;/p&gt;
+&lt;p&gt;As Parson&amp;rsquo;s explains, a government or internet service provider (acting at the gov&amp;rsquo;s direction) can deploy a &amp;lsquo;DPI appliance&amp;rsquo; to intercept or &amp;ldquo;‘close’ transmissions by informing the applications on peoples’ computers that the transmission has failed.&amp;rdquo; It can also be used to monitor the web for types of communication and to make copies of the data sent and received.&lt;/p&gt;
+&lt;p&gt;As Milton Mueller has &lt;a href=&#34;https://pdfs.semanticscholar.org/17d8/e798bacba1d93f72d09c03f53857cd62222e.pdf%E2%80%8B&#34;&gt;noted&lt;/a&gt;, DPI helps governments do a number of things to control the flow of traffic online: manage bandwidth, profile users, surveil, and police for copyright or content.&lt;/p&gt;
+&lt;p&gt;In short, there are gradations of control short of China&amp;rsquo;s &lt;a href=&#34;https://hir.harvard.edu/building-the-fire-wall/&#34;&gt;Great Firewall&lt;/a&gt;. And how measures are deployed and against whom depends in large part on the regime, the population, and its culture.&lt;/p&gt;
+&lt;p&gt;This settles nothing about the Gurri-Deibert debate, but it&amp;rsquo;s a good place to start.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kate Crawford on the Social and Environmental Impact of AI</title>
       <link>https://www.robertdiab.ca/posts/crawford-atlas/</link>
       <pubDate>Mon, 14 Jun 2021 10:40:50 -0700</pubDate>
@@ -25,7 +61,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;As to why she chose the metaphor of an atlas as a framework, Crawford explains:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;By invoking an atlas, I’m suggesting that we need new ways to understand the empires of artificial intelligence. We need a theory of AI that accounts for the states and corporations that drive and dominate it, the extractive min- ing that leaves an imprint on the planet, the mass capture of data, and the profoundly unequal and increasingly exploitative labor practices that sustain it. These are the shifting tectonics of power in AI. A topographical approach offers different perspectives and scales, beyond the abstract promises of artificial intelligence or the latest machine learning models. The aim is to understand AI in a wider context by walking through the many different landscapes of computation and seeing how they connect.&lt;/p&gt;
+&lt;p&gt;By invoking an atlas, I’m suggesting that we need new ways to understand the empires of artificial intelligence. We need a theory of AI that accounts for the states and corporations that drive and dominate it, the extractive mining that leaves an imprint on the planet, the mass capture of data, and the profoundly unequal and increasingly exploitative labor practices that sustain it. These are the shifting tectonics of power in AI. A topographical approach offers different perspectives and scales, beyond the abstract promises of artificial intelligence or the latest machine learning models. The aim is to understand AI in a wider context by walking through the many different landscapes of computation and seeing how they connect.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I’m only through two of the chapters thus far. The one on the environmental impact of AI’s tendency toward ‘extraction’ was eye-opening. Producing a laptop battery, let alone one for a Tesla or a Ford 150, involves an enormous amount of permanent waste and destruction through lithium mining. But it&amp;rsquo;s in keeping, as Crawford shows, with a long tradition of network tech doing serious environmental damage that extends at least as far back as the telegraph.&lt;/p&gt;
 &lt;p&gt;The chapter on labour draws interesting parallels between “the repetitive motions of robots and line machinery” and the “controlling of bodies in space and time” in the work farmed out to gig workers by Amazon, Facebook, and others.&lt;/p&gt;
