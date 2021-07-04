@@ -34,9 +34,9 @@ body {
 .sidenav {
   float: right;
   overflow-x: hidden;
-  padding: 40px 12px;
-  padding-left: 50px;
-  font-family: 'Signika', serif;
+  padding: 35px 18px;
+  padding-left: 26px;
+  font-family: 'Merriweather Sans', serif;
   font-weight: 300;
   color: #333333;
 }
@@ -57,12 +57,12 @@ text-decoration: none;
   }
 
 .navtitle {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 33px;
 }
 
 .smallnav {
-  font-size: 16.5px;
+  font-size: 14.5px;
   color: grey;
   line-height: 27px;
   }
@@ -72,10 +72,11 @@ text-decoration: none;
   line-height: 23px;
 }
 
+
 p {
   color: rgba(0, 0, 0, 0.8);
   line-height: 29px;
-  font-size: 17.5px;
+  font-size: 17px;
   }
 
 p a {
@@ -128,7 +129,7 @@ color: #007AFC;
   font-size: .95em;
   font-weight: 300;
   color: grey;
-  font-family: 'Signika';
+  font-family: 'Merriweather Sans';
 }
 
 .nonpost-content {
@@ -139,15 +140,15 @@ color: #007AFC;
 }
 
 .nonpost-content p {
-  font-family: 'Noto Serif', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-weight: 300;
 }
 
 .nonpost-content h3 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 300;
   font-style: bold;
-  font-family: 'Signika', serif;
+  font-family: 'Merriweather Sans', serif;
   color: #5E5E5E;
   padding-top: 20px;
 }
@@ -161,7 +162,7 @@ color: #007AFC;
 }
 
 .post-content p {
-  font-family: 'Noto Serif', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-weight: 300;
 }
 
@@ -170,8 +171,9 @@ color: #007AFC;
   letter-spacing: 0.005rem;
   max-width: 600px;
   font-weight: 400;
-  line-height: 36px;
+  line-height: 37px;
   font-family: 'Merriweather Sans', serif;
+  font-weight: 500;
   color: rgba(0, 0, 0, 0.8);
 }
 
@@ -186,10 +188,10 @@ color: #007AFC;
     }
 
 .post-content h3 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 300;
   font-style: bold;
-  font-family: 'Signika', serif;
+  font-family: 'Merriweather Sans', serif;
   color: #5E5E5E;
 }
 
@@ -216,7 +218,7 @@ text-decoration: none;
 .archive {
   line-height: 30px;
   padding: 21px 60px 40px 60px;
-  font-family: 'Signika', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
   font-weight: 300;
 }
 
@@ -246,13 +248,13 @@ text-decoration: none;
     max-width: 600px;
     line-height: 30px;
     padding-top: 10px;
-    font-family: 'Signika', serif;
+    font-family: 'Merriweather Sans', serif;
 }
 
 .archive__post-date {
     font-size: .95rem;
     color: grey;
-    font-family: 'Signika', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .archive__post-read-time {
@@ -262,7 +264,7 @@ text-decoration: none;
 .topic {
 line-height: 30px;
 padding: 21px 60px 40px 10px;
-font-family: 'Signika';
+font-family: 'Merriweather Sans';
 font-weight: 300;
 }
 
@@ -271,7 +273,7 @@ font-weight: 300;
   font-weight: 300;
   font-style: bold;
   padding-left: 40px;
-  font-family: 'Signika', serif;
+  font-family: 'Merriweather Sans', serif;
   color: grey;
 }
 
@@ -279,7 +281,7 @@ font-weight: 300;
   font-size: 18px;
   padding-top: 20px;
   padding-bottom: 10px;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Merriweather', serif;
 }
 
 
@@ -309,7 +311,7 @@ blockquote {
 }
 
 .page-nav a {
-font-family: 'Signika', serif;
+font-family: 'Merriweather Sans', serif;
 font-weight: 300;
  color:grey;
  text-decoration: none;
@@ -370,7 +372,7 @@ text-decoration: none;
   text-align: center;
 }
 .bottomhomelinks a {
-  font-family: 'Signika', serif;
+  font-family: 'Merriweather Sans', serif;
   font-weight: 300;
    color:black;
    text-decoration: none;
