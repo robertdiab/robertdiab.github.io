@@ -34,8 +34,8 @@ body {
 .sidenav {
   float: right;
   overflow-x: hidden;
-  padding: 40px 18px;
-  padding-left: 26px;
+  padding: 40px 20px;
+  padding-left: 50px;
   font-family: 'Signika', serif;
   font-weight: 300;
   color: #333333;
@@ -64,7 +64,7 @@ text-decoration: none;
 .smallnav {
   font-size: 16.5px;
   color: grey;
-  line-height: 28px;
+  line-height: 27px;
   }
 
 .recent-posts {
@@ -74,7 +74,7 @@ text-decoration: none;
 
 p {
   color: rgba(0, 0, 0, 0.8);
-  line-height: 30px;
+  line-height: 29px;
   font-size: 17.5px;
   }
 
@@ -109,7 +109,7 @@ color: #007AFC;
 }
 
 .content img[src*="image"] {
-  max-width: 28%;
+  max-width: 25%;
 }
 
 .content img[src*="image"] {
@@ -168,9 +168,9 @@ color: #007AFC;
 .post-title {
   font-size: 28px;
   letter-spacing: 0.005rem;
-  max-width: 660px;
+  max-width: 600px;
   font-weight: 400;
-  line-height: 37px;
+  line-height: 36px;
   font-family: 'Merriweather Sans', serif;
   color: rgba(0, 0, 0, 0.8);
 }
