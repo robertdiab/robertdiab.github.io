@@ -22,7 +22,7 @@
 
 .sidenav {
   float: right;
-  padding: 30px 20px;
+  padding: 32px 20px;
   font-weight: 400;
   font-family: 'Merriweather Sans', sans-serif;
   font-weight: 300;
@@ -63,8 +63,8 @@ text-decoration: none;
 
 p {
   color: #4a4a46;
-  line-height: 27px;
-  font-size: 20px;
+  line-height: 29px;
+  font-size: 21px;
   }
 
   p a {
@@ -135,14 +135,14 @@ p {
 
 .nonpost-content h3 {
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   font-family: 'Merriweather Sans', serif;
-  color: #5E5E5E;
+  color: #333333;
   padding-top: 15px;
 }
 
 .post-content {
-  padding: 32px 30px 40px 18px;
+  padding: 31px 30px 40px 18px;
   float: center;
   max-width: 665px;
   margin-left: auto;
@@ -174,11 +174,12 @@ p {
       }
 
 .post-content h3 {
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 19px;
+  font-weight: 400;
   font-style: bold;
   font-family: 'Merriweather Sans', serif;
-  color: #5E5E5E;
+  color: #333333;
+  padding-top: 14px;
 }
 
 .read-more {
@@ -203,7 +204,7 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
-  padding: 20px 60px 40px 0px;
+  padding: 19px 60px 40px 0px;
   margin-left: 20px;
   font-family: 'Merriweather Sans', sans-serif;
   font-weight: 300;
@@ -221,14 +222,14 @@ text-decoration: none;
 
 .archive__group-year-header {
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: 400;
 
 }
 
 .archive__group-month-header {
     font-size: 1rem;
-    font-weight: 300;
-    color: grey;
+    font-weight: 400;
+    color: #333333;
 }
 
 .archive__post-title {
@@ -250,7 +251,7 @@ text-decoration: none;
 
 .topic {
 line-height: 30px;
-padding: 12px 40px 40px 0px;
+padding: 15px 40px 40px 0px;
 font-family: 'Merriweather Sans';
 font-weight: 300;
 }

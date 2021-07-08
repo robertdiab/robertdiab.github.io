@@ -2,7 +2,7 @@
 
 body {
   float: center;
-  max-width: 940px;
+  max-width: 950px;
   min-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -75,7 +75,7 @@ text-decoration: none;
 
 p {
   color: #4a4a46;
-  line-height: 34px;
+  line-height: 33px;
   font-size: 23px;
   }
 
@@ -148,7 +148,7 @@ img[alt$="<"] {
 
 .nonpost-content h3 {
   font-size: 23px;
-  font-weight: 300;
+  font-weight: 400;
   font-style: bold;
   font-family: 'Merriweather Sans', serif;
   color: #5E5E5E;
@@ -173,7 +173,7 @@ img[alt$="<"] {
   letter-spacing: 0.005rem;
   max-width: 600px;
   font-weight: 400;
-  line-height: 37px;
+  line-height: 38px;
   font-family: 'Merriweather Sans', serif;
   font-weight: 500;
   color: rgba(0, 0, 0, 0.8);
@@ -191,10 +191,11 @@ img[alt$="<"] {
 
 .post-content h3 {
   font-size: 23px;
-  font-weight: 300;
+  font-weight: 400;
   font-style: bold;
   font-family: 'Merriweather Sans', serif;
-  color: #5E5E5E;
+  color: #333333;
+  padding-top: 15px;
 }
 
 .read-more {
@@ -235,14 +236,14 @@ text-decoration: none;
 
 .archive__group-year-header {
   font-size: 1.2rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .archive__group-month-header {
     font-size: 1.3rem;
-    color: grey;
+    color: #333333;
     padding-top: 10px;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .archive__post-title {
