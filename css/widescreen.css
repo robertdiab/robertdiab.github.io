@@ -75,7 +75,7 @@ text-decoration: none;
 
 p {
   color: #4a4a46;
-  line-height: 34px;
+  line-height: 32px;
   font-size: 23px;
   }
 
@@ -195,6 +195,7 @@ img[alt$="<"] {
   font-style: bold;
   font-family: 'Merriweather Sans', serif;
   color: #5E5E5E;
+  padding-top: 15px;
 }
 
 .read-more {
