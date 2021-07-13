@@ -111,6 +111,15 @@ color: #007AFC;
   font-family: 'NotoSans', serif;
 }
 
+.post-content h3 {
+  font-size: 21px;
+  font-weight: 500;
+  font-style: bold;
+  font-family: 'Bitter', serif;
+  color: #333333;
+  padding-top: 15px;
+}
+
 .bottomhomelinks {
   text-align: center;
   font-size: 20px;
