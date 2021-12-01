@@ -1,0 +1,134 @@
+@import 'fonts.css';
+
+body {
+  line-height: 27px;
+}
+
+.hdsection {
+      width: 100%;
+      background-color: white;
+      height: 100px;
+      border-bottom: solid;
+      border-color: #d3d3d3;
+      border-width: thin;
+}
+
+.sitelogo-field img {
+    display: block;
+    height: 115px;
+    margin-top: -10px;
+    margin-left: 10px;
+  }
+
+p {
+  color: #4a4a46;
+  line-height: 26px;
+  font-size: 15px;
+  }
+
+  p a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #007AFC;
+  }
+
+  p a:hover { color: rgba(0, 0, 0, 0.8);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #007AFC;
+  }
+
+  .content a {
+  }
+
+  .content a:hover {
+  color:#007AFC;
+  }
+
+.content a:active {
+ color:grey;
+ text-decoration: none;
+}
+
+.content img[src*="image"] {
+  border-radius: 10px;
+  float: right;
+}
+
+.content img[src*="image"] {
+  max-width: 40%;
+}
+
+.content img[src*="image"] {
+  display: block;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: -10px;
+  margin-bottom: 20px;
+}
+
+.content img[src*="image"]  {
+  box-shadow: 0 0 10px .2px grey;
+  }
+
+.nonpost-content {
+  padding: 0px 30px 40px 20px;
+  float: center;
+  max-width: 665px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nonpost-content p {
+  font-family: 'NotoSans', serif;
+  font-size: 15px;
+}
+
+.nonpost-content h3 {
+  font-size: 19px;
+  font-weight: 400;
+  font-family: 'Bitter', serif;
+  color: #333333;
+  padding-top: 15px;
+}
+
+.post-content {
+  padding: 15px 30px 40px 20px;
+  float: center;
+  max-width: 665px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-content p {
+  font-family: 'NotoSans', serif;
+}
+
+.post-content h3 {
+  font-size: 19px;
+  font-weight: 400;
+  font-family: 'Bitter', serif;
+  color: #333333;
+  padding-top: 15px;
+}
+
+.bottomhomelinks {
+  text-align: center;
+  font-size: 18px;
+}
+.bottomhomelinks a {
+  font-family: 'NotoSans', serif;
+  color: #4a4a46;
+  text-decoration: none;
+  }
+
+.bottomhomelinks a:hover {
+  color:#007AFC;
+  text-decoration: none;
+  }
+
+.bottomhomelinks a:active {
+   color:#007AFC;
+   text-decoration: none;
+  }

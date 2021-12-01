@@ -1,0 +1,10 @@
+baseURL = "https://www.robertdiab.ca/"
+languageCode = "en-us"
+title = "Robert Diab"
+
+[params]
+custom_css = ["css/custom.css"]
+keywords = "technology law policy network internet governance encryption privacy artificial intelligence"
+copyright = "© Robert Diab 2021"
+contentTypeName = "posts"
+description = "Associate Professor, Faculty of Law, Thompson Rivers University"

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+
+    {{- partial "head.html" . -}}
+
+    <body>
+
+      <div class="hdsection">
+        {{- partial "header.html" . -}}
+      </div>
+
+        <div class="content">
+        {{- block "main" . }}{{- end }}
+        </div>
+
+    </body>
+</html>

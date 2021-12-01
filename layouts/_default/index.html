@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<div class=post-content>
+
+  {{ range first 1 (where .Site.RegularPages "Type" "posts" ) }}
+
+<p>{{ .Content }}</p>
+<br>
+{{end}}
+
+
+</div>
+
+{{end}}

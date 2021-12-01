@@ -1,0 +1,27 @@
+
+
+{{ $title2 := "Writing" }}
+{{ $title3 := "Research" }}
+{{ $title4 := "About" }}
+{{ $title5 := "Full publication list" }}
+
+
+{{ if .IsHome }}<div class="sitelogo-field">
+<a href=" / "><img src="/images/nRD2.svg"></a>
+</div>{{end}}
+
+{{if eq .Section "posts"}}<div class="sitelogo-field">
+<a href=" / ">Robert Diab </a>
+</div></span>{{end}}
+
+{{ if eq .Title $title2 }}<div class="sitelogo-field">
+<a href=" / "><img src="/images/nRD2-w.svg"></a>
+</div>{{end}}
+
+{{ if eq .Title $title3 }}<div class="sitelogo-field">
+<a href=" / "><img src="/images/nRD2-r.svg"></a>
+</div>{{end}}
+
+{{ if eq .Title $title5 }}<div class="sitelogo-field">
+<a href=" / "><img src="/images/nRD2-r.svg"></a>
+</div>{{end}}
