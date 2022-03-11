@@ -64,7 +64,7 @@ color: #007AFC;
 }
 
 .content img[src*="image"] {
-  max-width: 25%;
+  max-width: 23%;
 }
 
 .content img[src*="image"] {
@@ -109,15 +109,6 @@ color: #007AFC;
 
 .post-content p {
   font-family: 'NotoSans', serif;
-}
-
-.post-content h3 {
-  font-size: 21px;
-  font-weight: 500;
-  font-style: bold;
-  font-family: 'Bitter', serif;
-  color: #333333;
-  padding-top: 15px;
 }
 
 .bottomhomelinks {

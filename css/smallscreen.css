@@ -57,7 +57,7 @@ p {
 }
 
 .content img[src*="image"] {
-  max-width: 40%;
+  max-width: 30%;
 }
 
 .content img[src*="image"] {
@@ -103,14 +103,6 @@ p {
 
 .post-content p {
   font-family: 'NotoSans', serif;
-}
-
-.post-content h3 {
-  font-size: 19px;
-  font-weight: 400;
-  font-family: 'Bitter', serif;
-  color: #333333;
-  padding-top: 15px;
 }
 
 .bottomhomelinks {
