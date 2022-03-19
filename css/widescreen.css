@@ -29,8 +29,8 @@ body {
 
 p {
   color: #4a4a46;
-  line-height: 27px;
-  font-size: 16px;
+  line-height: 32px;
+  font-size: 19px;
   }
 
 p a {
@@ -91,7 +91,7 @@ color: #007AFC;
 }
 
 .nonpost-content h3 {
-  font-size: 21px;
+  font-size: 23px;
   font-weight: 500;
   font-style: bold;
   font-family: 'Bitter', serif;
