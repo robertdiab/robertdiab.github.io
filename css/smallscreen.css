@@ -1,5 +1,7 @@
 @import 'fonts.css';
 
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400&family=Inconsolata:wdth,wght@101.3,337&display=swap');
+
 body {
   line-height: 27px;
 }
@@ -23,7 +25,7 @@ body {
 p {
   color: #4a4a46;
   line-height: 28px;
-  font-size: 17px;
+  font-size: 19px;
   }
 
   p a {
@@ -81,14 +83,14 @@ p {
 }
 
 .nonpost-content p {
-  font-family: 'NotoSans', serif;
-  font-size: 15px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 18px;
 }
 
 .nonpost-content h3 {
-  font-size: 19px;
+  font-size: 23px;
   font-weight: 400;
-  font-family: 'Bitter', serif;
+  font-family: 'Alegreya Sans', sans-serif;
   color: #333333;
   padding-top: 15px;
 }
@@ -102,15 +104,15 @@ p {
 }
 
 .post-content p {
-  font-family: 'NotoSans', serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 
 .bottomhomelinks {
   text-align: center;
-  font-size: 18px;
+  font-size: 21px;
 }
 .bottomhomelinks a {
-  font-family: 'NotoSans', serif;
+  font-family: 'Alegreya Sans', sans-serif;
   color: #4a4a46;
   text-decoration: none;
   }
