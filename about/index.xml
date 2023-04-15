@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on robertdiab.ca</title>
+    <link>https://robertdiab.ca/about/</link>
+    <description>Recent content in About on robertdiab.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <atom:link href="https://robertdiab.ca/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+  </channel>
+</rss>

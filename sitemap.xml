@@ -1,22 +1,230 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://robertdiab.ca/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <url>
-    <loc>https://www.robertdiab.ca/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://www.robertdiab.ca/categories/</loc>
-  </url><url>
-    <loc>https://www.robertdiab.ca/full-list/</loc>
-  </url><url>
-    <loc>https://www.robertdiab.ca/posts/</loc>
-  </url><url>
-    <loc>https://www.robertdiab.ca/research/</loc>
-  </url><url>
-    <loc>https://www.robertdiab.ca/posts/bio/</loc>
-  </url><url>
-    <loc>https://www.robertdiab.ca/tags/</loc>
-  </url><url>
-    <loc>https://www.robertdiab.ca/writing/</loc>
+    <loc>https://robertdiab.ca/categories/ai/</loc>
+    <lastmod>2023-04-14T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/blog/</loc>
+    <lastmod>2023-04-14T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/blog/archives/2023/04/14/crawfords-atlas-of-ai/</loc>
+    <lastmod>2023-04-14T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/categories/data/</loc>
+    <lastmod>2023-04-14T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/</loc>
+    <lastmod>2023-04-14T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/sur-rec-cclr/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/cameron-diab/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/searching-short/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/apprehension/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/commission/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/opioid/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/content/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/pathways/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/teaching/juris/</loc>
+    <lastmod>2021-08-24T00:00:00+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/teaching/evidence/</loc>
+    <lastmod>2021-08-24T00:00:00+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/teaching/</loc>
+    <lastmod>2021-08-24T00:00:00+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/striking/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/takedown/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/artist/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/decryption/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/password/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/dworkin/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/teaching/crim1/</loc>
+    <lastmod>2019-01-01T00:00:00+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/border/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/fail/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/harbinger/</loc>
+    <lastmod>2015-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/guantanamo/</loc>
+    <lastmod>2008-08-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/403/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/404/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/archives/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/resources/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
