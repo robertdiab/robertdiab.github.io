@@ -216,19 +216,7 @@
   </url>
   
   <url>
-    <loc>https://robertdiab.ca/resources/emacs-starter-kit/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://robertdiab.ca/archives/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://robertdiab.ca/resources/github/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
