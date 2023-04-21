@@ -2,14 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://robertdiab.ca/categories/ai/</loc>
-    <lastmod>2023-04-14T10:49:46-05:00</lastmod>
+    <loc>https://robertdiab.ca/blog/archives/2023/04/21/a-canadian-privacy-law-primer/</loc>
+    <lastmod>2023-04-21T10:49:46-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://robertdiab.ca/blog/</loc>
+    <lastmod>2023-04-21T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/categories/charter/</loc>
+    <lastmod>2023-04-21T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/categories/digital/</loc>
+    <lastmod>2023-04-21T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/categories/pipeda/</loc>
+    <lastmod>2023-04-21T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/categories/privacy/</loc>
+    <lastmod>2023-04-21T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/</loc>
+    <lastmod>2023-04-21T10:49:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/categories/ai/</loc>
     <lastmod>2023-04-14T10:49:46-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -24,13 +66,6 @@
   
   <url>
     <loc>https://robertdiab.ca/categories/data/</loc>
-    <lastmod>2023-04-14T10:49:46-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://robertdiab.ca/</loc>
     <lastmod>2023-04-14T10:49:46-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -81,6 +116,13 @@
   <url>
     <loc>https://robertdiab.ca/publications/opioid/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/priv-primer/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -5,10 +5,47 @@
     <description>Recent content in Blogs on robertdiab.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Apr 2023 10:49:46 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2023 10:49:46 -0500</lastBuildDate>
     
     <atom:link href="https://robertdiab.ca/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    
+    
+    <item>
+      <title>A Canadian Privacy Law Primer</title>
+      <link>https://robertdiab.ca/blog/archives/2023/04/21/a-canadian-privacy-law-primer/</link>
+      <pubDate>Fri, 21 Apr 2023 10:49:46 -0500</pubDate>
+      
+      <guid>https://robertdiab.ca/blog/archives/2023/04/21/a-canadian-privacy-law-primer/</guid>
+      <description>&lt;p&gt;I was recently invited by &lt;a href=&#34;https://theconversation.com/ca&#34;&gt;The Conversation&lt;/a&gt; to write a short piece providing a general overview of Canadian privacy law, in roughly 800 words:&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Despite early predictions that the internet would spell the end of privacy, it continues to be vital to who we are. Without it, we couldn’t sustain &lt;a href=&#34;https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/why-we-care-about-privacy/&#34;&gt;relationships&lt;/a&gt; or maintain our &lt;a href=&#34;https://doi.org/10.1007/s13347-016-0220-8&#34;&gt;dignity&lt;/a&gt; or &lt;a href=&#34;https://via.library.depaul.edu/cgi/viewcontent.cgi?article=1416&amp;amp;context=law-review&#34;&gt;sense of self&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Yet our privacy is constantly threatened on various fronts, from ubiquitous surveillance and data collection by tech platforms, retailers, the police and other &lt;a href=&#34;https://technologyandsociety.org/ubiquitous-surveillance-and-security/&#34;&gt;state agencies&lt;/a&gt;, and of course hackers and &lt;a href=&#34;https://www.cbc.ca/news/politics/supreme-court-conviction-photos-coach-1.6774410&#34;&gt;criminals&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;tc-read-more id=&#34;119158&#34;&gt;&lt;/tc-read-more&gt;&lt;/p&gt;
+&lt;p&gt;Does privacy law in Canada do enough to protect us from these threats?&lt;/p&gt;
+&lt;p&gt;To help you decide, it may help to clarify the main features of the legal landscape &amp;ndash; when public and private actors can infringe your privacy and what happens when they do.&lt;/p&gt;
+&lt;h2 id=&#34;a-constitutional-right-to-privacy&#34;&gt;A Constitutional right to privacy&lt;/h2&gt;
+&lt;p&gt;Canadians enjoy a host of fundamental rights under the &lt;em&gt;Charter of Rights and Freedoms&lt;/em&gt; against the police and other government institutions. The word &amp;ldquo;privacy&amp;rdquo; appears nowhere in the document. But
+&lt;a href=&#34;https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art8.html&#34;&gt;section 8&lt;/a&gt; of the &lt;em&gt;Charter&lt;/em&gt; gives Canadians a right to be &amp;ldquo;secure against unreasonable search or seizure.”&lt;/p&gt;
+&lt;p&gt;Our highest court drew upon Fourth Amendment &lt;a href=&#34;https://supreme.justia.com/cases/federal/us/389/347/#350&#34;&gt;case law&lt;/a&gt; in the United States  to &lt;a href=&#34;https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/5274/index.do&#34;&gt;hold that police&lt;/a&gt; engage section 8 when they search or seize something over which we have “a reasonable expectation of privacy.”&lt;/p&gt;
+&lt;p&gt;Courts have held that we have privacy interest in anything that reveals intimate information about us, our lifestyle choices, or our &amp;ldquo;&lt;a href=&#34;https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/1049/index.do&#34;&gt;biographical core&lt;/a&gt;.&amp;rdquo; This includes obvious things, like the content of our pockets, homes and digital devices &amp;ndash; but also less obvious things like our DNA, breath samples or &lt;a href=&#34;https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/14233/index.do&#34;&gt;subscriber information&lt;/a&gt; attached to the account we have with our internet service provider.&lt;/p&gt;
+&lt;p&gt;Where we do have a reasonable expectation of privacy in a place or thing, police generally need a warrant to search or seize it. In many cases, however, they don’t. They need only be authorized by law to carry out the search at issue. The law, in turn, must be reasonable in the sense of striking an appropriate balance between law enforcement interests and personal privacy.&lt;/p&gt;
+&lt;p&gt;When police obtain evidence without a warrant, or act without authority, a court can exclude the evidence at that person’s criminal trial &amp;ndash; though, in some cases, it may &lt;a href=&#34;https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/7799/index.do&#34;&gt;decline to do so&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;privacy-in-the-private-sphere&#34;&gt;Privacy in the private sphere&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;Charter&lt;/em&gt; sets limits on what state actors can do to infringe our privacy, but more often our privacy is threatened by private entities who gather data or information from us in health care, retail, or on social media. What are the guardrails in place here and what are the consequences for violating them?&lt;/p&gt;
+&lt;p&gt;We have federal and provincial statutes to deal with privacy incursions by commercial actors, and in some cases we can sue a civilian or a business in court for the tort of &lt;a href=&#34;https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96373_01&#34;&gt;breach of privacy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The most important of these many tools &amp;ndash; for our lives online &amp;ndash; is the federal &lt;em&gt;Personal Information Protection and Electronic Documents Act&lt;/em&gt; (PIPEDA), which contains rules about collecting, using, and disclosing personal information by private sector entities in Canada.&lt;/p&gt;
+&lt;p&gt;PIPEDA applies to a wide range of commercial activity across all provinces, from large retailers to online platforms. British Columbia, Alberta, and Quebec have their own substantially similar privacy laws that cover matters to which PIPEDA does not apply.&lt;/p&gt;
+&lt;p&gt;The main obligation in PIPEDA is that a company may not collect, use, or disclose information about us &amp;ndash; unless they have our informed consent and use or share it for an identified purpose. The Act empowers individuals to access information about themselves and to correct inaccuracies. The Privacy Commissioner of Canada enforces the Act, but has often complained of the &lt;a href=&#34;https://policyoptions.irpp.org/magazines/june-2018/enforcement-powers-key-pipeda-reform/&#34;&gt;weak tools&lt;/a&gt; at their disposal for doing so.&lt;/p&gt;
+&lt;h2 id=&#34;a-better-future-for-personal-privacy&#34;&gt;A better future for personal privacy?&lt;/h2&gt;
+&lt;p&gt;Currently, Parliament is debating passage of &lt;a href=&#34;https://www.parl.ca/legisinfo/en/bill/44-1/c-27&#34;&gt;Bill C-27&lt;/a&gt;, which would largely replace PIPEDA with the &lt;em&gt;Consumer Privacy Protection Act&lt;/em&gt; (CPPA).&lt;/p&gt;
+&lt;p&gt;The new Act will impose more stringent penalties for breaches and give authorities more enforcement tools. But it may also expand the scope of what private entities can do with our data, by permitting uses held to have benefits &amp;ldquo;proportionate to&amp;rdquo; the impact on or loss of privacy they might entail.&lt;/p&gt;
+&lt;p&gt;At least &lt;a href=&#34;https://srinstitute.utoronto.ca/news/how-will-bill-c-27-affect-the-governance-of-online-platforms&#34;&gt;one commentator&lt;/a&gt; believes the Privacy Commissioner of Canada will continue to permit data collection by social media companies and search engines for advertising purposes under the CPPA. But the Act will require companies to be more explicit with us about how they intend to use our data.&lt;/p&gt;
+&lt;p&gt;The CPPA also includes a novel &amp;lsquo;right of deletion&amp;rsquo; for  information obtained in contravention in the Act or where consent is withdrawn. Yet this would not amount to a &amp;lsquo;right to be forgotten,&amp;rsquo; given an exception in the Act for search engines acting with a ‘legitimate interest’.&lt;/p&gt;
+&lt;p&gt;This covers only some of the many tools in Canadian law for protecting personal privacy. But if this survey makes one thing clear, it&amp;rsquo;s that for Canadians, privacy is far from dead.&lt;/p&gt;
+</description>
+    </item>
     
     
     
