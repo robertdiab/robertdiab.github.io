@@ -114,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://robertdiab.ca/publications/cameron-diab/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://robertdiab.ca/publications/searching-short/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -184,6 +177,13 @@
   </url>
   
   <url>
+    <loc>https://robertdiab.ca/teaching/hrsj/</loc>
+    <lastmod>2021-08-24T00:00:00+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://robertdiab.ca/teaching/</loc>
     <lastmod>2021-08-24T00:00:00+11:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -228,6 +228,13 @@
   <url>
     <loc>https://robertdiab.ca/publications/dworkin/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/teaching/ac/</loc>
+    <lastmod>2019-01-01T00:00:00+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
