@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://robertdiab.ca/publications/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+    <loc>https://robertdiab.ca/blog/</loc>
+    <lastmod>2023-12-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://robertdiab.ca/</loc>
+    <lastmod>2023-12-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/categories/scholarship/</loc>
+    <lastmod>2023-12-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/blog/archives/2023/12/29/thoughts-on-posner-on-what-law-profs-should-be-doing/</loc>
+    <lastmod>2023-12-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -38,13 +59,6 @@
   
   <url>
     <loc>https://robertdiab.ca/blog/archives/2023/04/21/a-canadian-privacy-law-primer/</loc>
-    <lastmod>2023-04-21T10:49:46-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://robertdiab.ca/blog/</loc>
     <lastmod>2023-04-21T10:49:46-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
