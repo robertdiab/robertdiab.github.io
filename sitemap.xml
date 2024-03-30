@@ -3,14 +3,28 @@
   
   <url>
     <loc>https://robertdiab.ca/publications/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://robertdiab.ca/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/socialmediasuit/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robertdiab.ca/publications/tiktok/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -149,13 +163,6 @@
   </url>
   
   <url>
-    <loc>https://robertdiab.ca/publications/opioid/</loc>
-    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://robertdiab.ca/publications/priv-primer/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -165,13 +172,6 @@
   <url>
     <loc>https://robertdiab.ca/publications/content/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://robertdiab.ca/publications/pathways/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
