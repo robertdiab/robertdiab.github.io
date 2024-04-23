@@ -58,6 +58,17 @@ body {
           text-decoration: none; /* Remove underline */
       }}
 
+      .book-info {
+        line-height: 1.6; /* adjust line height as needed */
+        color: white !important; /* slightly lighter text color */
+        font-size: 18px; /* default font size */
+      }
+
+      .book-info h2 {
+        color: #81BEF7 !important;
+        font-weight: 300 !important;
+      }
+
   }
 
 .container {
@@ -257,4 +268,5 @@ main {
 
 .book-info h2 {
   color: #2274A5;
+  font-weight: 300 !important;
 }
