@@ -136,6 +136,7 @@ main {
 
 .bio img {
     max-width: 70%;
+    border-radius: 14px;
     height: auto;
     margin-bottom: 5px;
 }
