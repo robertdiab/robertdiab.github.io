@@ -21,7 +21,7 @@ body {
     font-family: 'Inria Sans', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FAF9F6; /* white background */
+    background-color: #ffffff; /* white background */
     font-size: 16.5px; /* default font size */
     font-weight: 300;
 }
@@ -104,7 +104,7 @@ header::before {
     width: 100%; /* Set the width to cover the header */
     height: 100%; /* Set the height to cover the header */
     background-image: url('images/banner5.jpg'); /* Specify the image URL */
-    border-radius: 14px;
+    border-radius: 8px;
     background-size: cover; /* Ensure the image covers the entire header */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     background-position: center center; /* Center the image */
@@ -165,7 +165,7 @@ main {
 
 .bio img {
     max-width: 42%;
-    border-radius: 14px;
+    border-radius: 7px;
     height: auto;
     margin-bottom: 5px;
     margin-top: 17px;
@@ -209,11 +209,11 @@ main {
                   height: auto;
                   margin-bottom: 5px;
                   margin-top: 10px;
-                  padding-right: 20px;
+                  padding-right: 10px;
                 }
 
 #resource2 img {
-                 max-width: 240px;
+                 max-width: 235px;
                   min-width: 40px;
                   height: auto;
                   margin-bottom: 5px;
