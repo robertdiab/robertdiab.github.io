@@ -115,6 +115,10 @@ nav ul li a {
     margin-right: 15px;
 }
 
+nav ul li a.active {
+      color: #2274A5;
+}
+
 /* Media query for smaller screens */
 @media screen and (max-width: 568px) {
     nav ul li {

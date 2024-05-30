@@ -153,6 +153,10 @@ nav ul li a {
     font-size: 23px; /* Menu items */
 }
 
+nav ul li a.active {
+      color: #2274A5;
+}
+
 main {
     padding: 20px;
     display: flex;
