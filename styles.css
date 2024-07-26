@@ -22,7 +22,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff; /* white background */
-    font-size: 16.5px; /* default font size */
+    font-size: 17.5px; /* default font size */
     font-weight: 300;
 }
 
@@ -164,7 +164,8 @@ main {
 }
 
 .bio {
-    width: 28%;
+    width: 26%;
+    padding-top: 6px;
 }
 
 .bio img {
@@ -213,7 +214,7 @@ main {
                   height: auto;
                   margin-bottom: 5px;
                   margin-top: 10px;
-                  padding-right: 10px;
+                  padding-right: 0px;
                 }
 
 #resource2 img {
@@ -250,6 +251,7 @@ main {
     font-weight: 300;
     font-size: 24px; /* Headings */
     color: #2274A5;
+    margin-left: 10px;
 
 }
 
@@ -264,6 +266,7 @@ main {
 .publication-list ul li,
 .recent-writing ul li {
     margin-bottom: 14px;
+    margin-left: 10px;
 }
 
 .book-info {

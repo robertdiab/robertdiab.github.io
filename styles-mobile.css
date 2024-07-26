@@ -136,6 +136,7 @@ main {
 
 .bio {
     width: 34%;
+    padding-top: 8px;
 }
 
 .bio img {
@@ -182,7 +183,8 @@ main {
                   height: auto;
                   margin-bottom: 5px;
                   margin-top: 10px;
-                  padding-right: 6px;
+                  margin-right: 5px;
+                  padding-right: 0px;
                 }
 
 #resource2 img {
