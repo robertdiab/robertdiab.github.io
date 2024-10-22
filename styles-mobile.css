@@ -197,6 +197,16 @@ main {
                   padding-top: 135px;
                 }
 
+#resource3 img {
+                                   max-width: 125px;
+                                   min-width: 40px;
+                                   height: auto;
+                                   margin-bottom: 5px;
+                                   margin-top: 10px;
+                                   padding-right: 0px;
+                                                }
+
+
 #teaching1 img {
                     max-width: 120px;
                     min-width: 40px;

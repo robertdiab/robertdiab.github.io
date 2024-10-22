@@ -164,10 +164,9 @@ main {
 }
 
 .bio {
-    width: 26%;
+    width: 23%;
     padding-top: 6px;
-}
-
+}3
 .bio img {
     max-width: 42%;
     border-radius: 7px;
@@ -177,7 +176,7 @@ main {
 }
 
 .bio-text {
-    margin-right: 10px;
+    margin-right: 7px;
     font-weight: 300; /* normal font weight */
     font-style: normal; /* normal font style */
     text-rendering: optimizeLegibility;
@@ -226,6 +225,16 @@ main {
                   padding-right: 20px;
                 }
 
+#resource3 img {
+                   max-width: 210px;
+                   min-width: 40px;
+                   height: auto;
+                   margin-bottom: 5px;
+                   margin-top: 10px;
+                   padding-right: 0px;
+                                }
+
+
 #teaching1 img {
     max-width: 220px;
     min-width: 40px;
@@ -237,7 +246,7 @@ main {
 
 
 .publications {
-    width: 66%;
+    width: 74%;
     color: #1c1c1c; /* slightly lighter text color */
 }
 
