@@ -16,14 +16,30 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+/* inria-serif-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 300;
+  src: url(fonts/inria-serif-v16-latin-300.woff2) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* inria-serif-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/inria-serif-v16-latin-regular.woff2) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
 body {
-    font-family: 'Inria Sans', sans-serif;
+    font-family: 'Inria Serif', serif;
     margin: 0;
     padding: 0;
     background-color: #ffffff; /* white background */
-    font-size: 17.5px; /* default font size */
-    font-weight: 300;
+    font-size: 18px; /* default font size */
+    font-weight: 400;
 }
 
 /* Dark mode styles */
@@ -36,7 +52,15 @@ body {
         color: white; /* White text color */
     }
 
+    h2, h3, h4 {
+      color: #81BEF7 !important;
+    }
+
     .bio-text {
+        color: white;
+      }
+
+      .post {
         color: white;
       }
 
@@ -46,6 +70,11 @@ body {
 
       #vitals {
           color: white;
+          font-size: 19.4px;
+      }
+
+      .books {
+        font-size: 19.4px;
       }
 
       .publication-list h2,
@@ -57,6 +86,11 @@ body {
           color: #81BEF7; /* Link color */
           text-decoration: none; /* Remove underline */
       }}
+
+      #coordinates {
+        color: white;
+      }
+
 
       .book-info {
         line-height: 1.6; /* adjust line height as needed */
@@ -92,8 +126,8 @@ header {
 }
 
 header h1 {
-  font-weight: lighter;
-  font-size: 28px;
+  font-weight: 400;
+  font-size: 36px;
 }
 
 header::before {
@@ -108,7 +142,7 @@ header::before {
     background-size: cover; /* Ensure the image covers the entire header */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     background-position: center center; /* Center the image */
-    opacity: 0.05; /* Set the opacity to 20% */
+    opacity: 0.08; /* Set the opacity to 20% */
     z-index: -1; /* Ensure the pseudo-element is behind the header content */
 }
 
@@ -150,7 +184,7 @@ nav ul li {
 nav ul li a {
     color: #333; /* dark links */
     text-decoration: none;
-    font-size: 23px; /* Menu items */
+    font-size: 24px; /* Menu items */
 }
 
 nav ul li a.active {
@@ -163,10 +197,66 @@ main {
     justify-content: space-between;
 }
 
+.post
+{
+    width: 180%;
+    padding-right: 20px;
+}
+
+
+.post h2 {
+    font-weight: 400;
+    font-size: 30px; /* Headings */
+    color: #2274A5;
+    font-family: "Inria Serif";
+    margin-right: 10px;
+    line-height: 1.4em;
+    width: 80%;
+}
+
+.post h3 {
+    font-weight: 300;
+    font-size: 26px; /* Headings */
+    color: #2274A5;
+    font-family: Inria Sans;
+    margin-right: 10px;
+}
+
+/*date*/
+.post h4 {
+    font-family: Inria Sans;
+    font-weight: 300;
+    font-size: 18.5px; /* Headings */
+    margin-right: 10px;
+}
+
+
+.post-text {
+    line-height: 1.7em;
+    font-size: 18.5px;
+    font-family: "Inria Serif";
+    padding-right: 40px;
+    font-weight: 400;
+}
+
+.right-index-margin
+{
+    line-height: 1.4em;
+    width: 40%;
+}
+
+#coordinates {
+  padding-top: 10px;
+  padding-right: 10px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
 .bio {
     width: 23%;
     padding-top: 6px;
-}3
+}
+
 .bio img {
     max-width: 42%;
     border-radius: 7px;
@@ -277,6 +367,13 @@ main {
 .recent-writing ul li {
     margin-bottom: 14px;
     margin-left: 10px;
+    font-size: 12px !important;
+}
+
+.publication-list ul li,
+.recent-writing ul li,
+.books {
+  font-size: 19px !important;
 }
 
 .book-info {
