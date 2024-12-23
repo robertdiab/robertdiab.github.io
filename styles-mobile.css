@@ -70,8 +70,8 @@ header {
 }
 
 header h1 {
-  font-weight: 300;
-  font-size: 26px;
+  font-weight: 400;
+  font-size: 28px;
 }
 
 header::before {
@@ -128,8 +128,8 @@ nav ul li {
 nav ul li a {
     color: #333; /* dark links */
     text-decoration: none;
-    font-size: 18px; /* menu items */
-    margin-right: 15px;
+    font-size: 20px; /* menu items */
+    margin-right: 5px;
 }
 
 nav ul li a.active {
@@ -143,8 +143,49 @@ nav ul li a.active {
 
 #coordinates {
   padding-top: 20px;
-  font-size: 15px;
+  font-size: 14px;
 }
+
+.publication-list ul li,
+.recent-writing ul li {
+    margin-bottom: 12px;
+    font-size: 15.5px !important;
+}
+
+.post h2 {
+    font-weight: 400;
+    font-size: 24px; /* Headings */
+    color: #2274A5;
+    font-family: "Inria Serif";
+    margin-right: 10px;
+    line-height: 1.4em;
+    width: 80%;
+}
+
+.post h3 {
+    font-weight: 300;
+    font-size: 18px; /* Headings */
+    color: #2274A5;
+    font-family: Inria Sans;
+    margin-right: 10px;
+}
+
+/*date*/
+.post h4 {
+    font-family: Inria Sans;
+    font-weight: 300;
+    font-size: 14px; /* Headings */
+    margin-right: 10px;
+}
+
+.post-text {
+    line-height: 1.7em;
+    font-size: 15px;
+    font-family: "Inria Serif";
+    padding-right: 40px;
+    font-weight: 400;
+}
+
 
 /* Media query for smaller screens */
 @media screen and (max-width: 568px) {
@@ -161,30 +202,6 @@ main {
     justify-content: space-between;
 }
 
-.post
-{
-    width: 180%;
-    padding-right: 5px;
-}
-
-
-.post h2 {
-    font-weight: 400;
-    font-size: 21px; /* Headings */
-    color: #2274A5;
-    font-family: "Inria Serif";
-    margin-right: 10px;
-    line-height: 1.4em;
-    width: 80%;
-}
-
-.post h3 {
-    font-weight: 300;
-    font-size: 18px; /* Headings */
-    color: #2274A5;
-    font-family: Inria Sans;
-    margin-right: 10px;
-}
 
 /*date*/
 .post h4 {
@@ -233,7 +250,7 @@ main {
 }
 
 #coordinates {
-  font-size: 12px;
+  font-size: 12.5px;
 }
 
 #vitals {
@@ -297,10 +314,6 @@ main {
                     padding-right: 20px;
 }
 
-.books {
-
-font-size: 17px !important;
-                    }
 
 .publications {
     width: 64%;
@@ -316,7 +329,7 @@ font-size: 17px !important;
 .publication-list h2,
 .recent-writing h2 {
     font-weight: 300;
-    font-size: 22px;
+    font-size: 20px;
     color: #2274A5; /* dark text color */
 
 }
@@ -327,13 +340,16 @@ font-size: 17px !important;
     padding: 0;
     margin: 0;
     line-height: 1.6; /* adjust line height as needed */
+
 }
 
 .publication-list ul li,
 .recent-writing ul li {
     margin-bottom: 12px;
-    font-size: 14px;
+    font-size: 14px !important;
 }
+
+
 
 .book-info {
   line-height: 1.6; /* adjust line height as needed */

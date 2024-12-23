@@ -226,7 +226,7 @@ main {
 .post h4 {
     font-family: Inria Sans;
     font-weight: 300;
-    font-size: 18.5px; /* Headings */
+    font-size: 18px; /* Headings */
     margin-right: 10px;
 }
 
@@ -367,13 +367,12 @@ main {
 .recent-writing ul li {
     margin-bottom: 14px;
     margin-left: 10px;
-    font-size: 12px !important;
+    font-size: 18px !important;
 }
 
 .publication-list ul li,
-.recent-writing ul li,
-.books {
-  font-size: 19px !important;
+.recent-writing ul li, {
+  font-size: 18.5px !important;
 }
 
 .book-info {
