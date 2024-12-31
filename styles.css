@@ -88,7 +88,10 @@ body {
       #coordinates {
         color: white;
       }
-
+      
+      #coordinates h3 {
+        color: white !important;
+      }
 
       .book-info {
         line-height: 1.6; /* adjust line height as needed */
