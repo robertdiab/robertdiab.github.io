@@ -88,7 +88,7 @@ body {
       #coordinates {
         color: white;
       }
-      
+
       #coordinates h3 {
         color: white !important;
       }
@@ -186,7 +186,7 @@ nav ul li {
 nav ul li a {
     color: #333; /* dark links */
     text-decoration: none;
-    font-size: 23.5px; /* Menu items */
+    font-size: 22.5px; /* Menu items */
     font-weight: 300;
 }
 
@@ -288,11 +288,11 @@ main {
     }
 
 #vitals img {
-   max-width: 75px;
-    min-width: 50px;
+   max-width: 120px;
+    min-width: 60px;
     height: auto;
     margin-bottom: 5px;
-    margin-top: 25px;
+    margin-top: 20px;
     padding-right: 10px;
   }
 

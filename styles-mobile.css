@@ -269,7 +269,7 @@ main {
     }
 
 #vitals img {
-   max-width: 65px;
+   max-width: 100px;
     min-width: 40px;
     height: auto;
     margin-bottom: 5px;
