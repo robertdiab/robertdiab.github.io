@@ -246,6 +246,11 @@ main {
   text-underline-offset: .2em;
 }
 
+blockquote {
+  margin-left: 0;
+  border-left: 3px solid #81BEF7;
+	padding-left: 1em; }
+
 .right-index-margin
 {
     line-height: 1.4em;
@@ -257,6 +262,16 @@ main {
   padding-right: 10px;
   font-size: 15px;
   font-weight: 300;
+}
+
+#coordinates h3 {
+  font-size: 16.5px;
+  font-weight: 300;
+}
+
+#coordinates-oldposts {
+  width:60%;
+  padding-left: 110px;
 }
 
 .bio {
@@ -287,14 +302,14 @@ main {
   font-size: 18px !important;
     }
 
-#vitals img {
-   max-width: 120px;
-    min-width: 60px;
-    height: auto;
-    margin-bottom: 5px;
-    margin-top: 20px;
-    padding-right: 10px;
-  }
+  #vitals img {
+       max-width: 120px;
+        min-width: 60px;
+        height: auto;
+        margin-bottom: 5px;
+        margin-top: 20px;
+        padding-right: 10px;
+      }
 
 #caption {
   font-style: italic;
@@ -376,6 +391,21 @@ main {
     margin-left: 10px;
     font-size: 17px !important;
 }
+
+.publications-oldposts {
+  width: 110%;
+  line-height: 1.7;
+  font-size: 17px;
+  }
+
+  .publications-oldposts li {
+    margin-bottom: 1.4em;
+    }
+
+    .publications-oldposts h2 {
+      font-size: 21px;
+      }
+
 
 /*teaching text*/
 .publications-teaching ul {

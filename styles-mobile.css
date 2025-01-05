@@ -189,8 +189,15 @@ nav ul li a.active {
     font-weight: 300;
 }
 
+/*Pub & writing items in ipad mini*/
+#coordinates-oldposts {
+  padding-left: 10px;
+  width: 120%;
+}
+
 
 /* Media query for smaller screens */
+
 @media screen and (max-width: 568px) {
     nav ul li {
         display: block; /* Display menu items vertically on smaller screens */
@@ -203,6 +210,17 @@ main {
     padding: 15px;
     display: flex;
     justify-content: space-between;
+}
+
+
+.post h2 {
+    font-weight:300;
+    font-size: 20px; /* Headings */
+    color: #2274A5;
+    font-family: "Merriweather Sans";
+    margin-right: 10px;
+    line-height: 1.4em;
+    width: 90%;
 }
 
 .post h3 {
@@ -259,8 +277,19 @@ main {
 }
 
 #coordinates {
-  font-size: 12.5px;
+  font-size: 13px;
 }
+
+#coordinates h3 {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+#coordinates-oldposts {
+  padding-left: 1px;
+  width: 100%;
+}
+
 
 #vitals {
   padding-top: 10px !important;
@@ -381,3 +410,7 @@ main {
   font-weight: 300;
   font-size: 17px;
 }
+
+.publications-oldposts h2 {
+  font-size: 21px;
+  }
