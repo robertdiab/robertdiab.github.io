@@ -35,7 +35,7 @@ body {
     font-family: "Merriweather Sans", serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff; /* white background */
+    background-color: #ffffff; /* #DFDFDF background */
     font-size: 17.5px; /* default font size */
     font-weight: 300;
 }
@@ -47,7 +47,7 @@ body {
     background-color: #333333; /* Dark background */
 
     header h1, nav ul li a {
-        color: white; /* White text color */
+        color: #DFDFDF; /* #DFDFDF text color */
     }
 
     h2, h3, h4 {
@@ -55,19 +55,19 @@ body {
     }
 
     .bio-text {
-        color: white;
+        color: #DFDFDF;
       }
 
       .post {
-        color: white;
+        color: #DFDFDF;
       }
 
       .publications {
-          color: white;
+          color: #DFDFDF;
       }
 
       #vitals {
-          color: white;
+          color: #DFDFDF;
           font-size: 19.4px;
       }
 
@@ -86,16 +86,16 @@ body {
       }}
 
       #coordinates {
-        color: white;
+        color: #DFDFDF;
       }
 
       #coordinates h3 {
-        color: white !important;
+        color: #DFDFDF !important;
       }
 
       .book-info {
         line-height: 1.6; /* adjust line height as needed */
-        color: white !important; /* slightly lighter text color */
+        color: #DFDFDF !important; /* slightly lighter text color */
         font-size: 18px; /* default font size */
       }
 

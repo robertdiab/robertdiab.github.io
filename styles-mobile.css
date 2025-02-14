@@ -43,7 +43,7 @@ body {
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #333333; /* Dark background */
-        color: #ffffff; /* White text color */
+        color: #DFDFDF; /* White text color */
     }}
 
 .container {
