@@ -1,0 +1,416 @@
+/* merriweather-sans-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url(fonts/merriweather-sans-v26-latin-300.woff2) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* merriweather-sans-300italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Merriweather Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: url(fonts/merriweather-sans-v26-latin-300italic.woff2) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* merriweather-sans-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/merriweather-sans-v26-latin-regular.woff2) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* merriweather-sans-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Merriweather Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(fonts/merriweather-sans-v26-latin-italic.woff2) format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+body {
+    font-family: "Merriweather Sans", serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* white background */
+    font-size: 13.5px; /* default font size */
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #333333; /* Dark background */
+        color: #DFDFDF; /* White text color */
+    }}
+
+.container {
+    max-width: 650px; /* limit width to 900 pixels */
+    margin: 0 auto; /* center the container horizontally */
+}
+
+
+.logo-link {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit color from parent (usually black) */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    position: relative; /* Ensure positioning context for the pseudo-element */
+    font-weight: 300;
+    color: #333; /* Set the text color */
+}
+
+header h1 {
+  font-weight: 300;
+  font-size: 28px;
+}
+
+header::before {
+    content: ""; /* Add content to the pseudo-element */
+    position: absolute; /* Position the pseudo-element */
+    top: 0;
+    left: 0;
+    width: 100%; /* Set the width to cover the header */
+    height: 100%; /* Set the height to cover the header */
+    background-image: url('images/banner.jpg'); /* Specify the image URL */
+    background-size: cover; /* Ensure the image covers the entire header */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center center; /* Center the image */
+    opacity: 0.07; /* Set the opacity to 20% */
+    z-index: -1; /* Ensure the pseudo-element is behind the header content */
+}
+
+figure {
+    display: inline-block; /* Ensure the figure behaves as an inline-block element */
+    text-align: left; /* Align the figure to the left */
+    margin: 0; /* Remove any default margin */
+    max-width: 50px;
+}
+
+figcaption {
+    text-align: left; /* Center-align the caption */
+    font-style: italic; /* Optionally italicize the caption */
+    font-size: 12px; /* Optionally adjust the font size */
+    margin-top: 5px; /* Optionally add some space between the image and the caption */
+    width: 110px;
+}
+
+a {
+    color: #2274A5; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: none; /* Underline on hover */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    color: #2274A5;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #333; /* dark links */
+    text-decoration: none;
+    font-size: 18px; /* menu items */
+    margin-right: 5px;
+}
+
+nav ul li a.active {
+      color: #2274A5;
+}
+
+.right-index-margin {
+    line-height: 1.7em;
+    width: 20%;
+}
+
+#coordinates {
+  padding-top: 20px;
+  font-size: 14px;
+}
+
+/*Pub & writing items in ipad mini*/
+.publication-list ul li,
+.recent-writing ul li {
+    margin-bottom: 12px;
+    font-size: 16px !important;
+}
+
+.post u {
+  text-decoration-thickness: 5%;
+}
+
+.post h2 {
+    font-weight:300;
+    font-size: 23px; /* Headings */
+    color: #2274A5;
+    font-family: "Merriweather Sans";
+    margin-right: 10px;
+    line-height: 1.4em;
+    width: 90%;
+}
+
+.post h3 {
+    font-weight: 300;
+    font-size: 18px; /* Headings */
+    color: #2274A5;
+    font-family: "Merriweather Sans";
+    margin-right: 10px;
+}
+
+/*date*/
+.post h4 {
+    font-family: "Merriweather Sans";
+    font-weight: 300;
+    font-size: 14px; /* Headings */
+    margin-right: 10px;
+}
+
+.post-text {
+    line-height: 1.7em;
+    font-size: 15px;
+    font-family: "Merriweather Sans";
+    padding-right: 40px;
+    font-weight: 300;
+}
+
+/*Pub & writing items in ipad mini*/
+#coordinates-oldposts {
+  padding-left: 10px;
+  width: 120%;
+}
+
+
+/* Media query for smaller screens */
+
+@media screen and (max-width: 568px) {
+    nav ul li {
+        display: block; /* Display menu items vertically on smaller screens */
+        margin-right: 0; /* Remove right margin to avoid extra space */
+        margin-bottom: 10px; /* Add some bottom margin for spacing */
+        margin-top:7px;
+    }
+
+main {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.post h2 {
+    font-weight:300;
+    font-size: 20px; /* Headings */
+    color: #2274A5;
+    font-family: "Merriweather Sans";
+    margin-right: 10px;
+    line-height: 1.4em;
+    width: 90%;
+}
+
+.post h3 {
+    font-weight: 300;
+    font-size: 18px; /* Headings */
+    line-height: 1.45;
+    color: #2274A5;
+    font-family: "Merriweather Sans";
+    margin-right: 10px;
+}
+/*date*/
+.post h4 {
+    font-family: "Merriweather Sans";
+    font-weight: 300;
+    font-size: 14px; /* Headings */
+    margin-right: 10px;
+}
+
+.post-text {
+    line-height: 1.7em;
+    font-size: 14px;
+    font-family: "Merriweather Sans";
+    padding-right: 10px;
+    font-weight: 300;
+}
+
+
+.bio {
+    width: 34%;
+    padding-top: 8px;
+}
+
+.bio img {
+    max-width: 70%;
+    border-radius: 7px;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.bio-text {
+    margin-right: 10px;
+    font-weight: 300; /* normal font weight */
+    font-style: normal; /* normal font style */
+    text-rendering: optimizeLegibility;
+    color: #1c1c1c; /* slightly lighter text color */
+    line-height: 1.5; /* adjust line height as needed */
+}
+
+.right-index-margin
+{
+    line-height: 1.4em;
+    width: 20%;
+    padding-right: 5px;
+}
+
+#coordinates {
+  font-size: 13px;
+}
+
+#coordinates h3 {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+#coordinates-oldposts {
+  padding-left: 1px;
+  width: 100%;
+}
+
+
+#vitals {
+  padding-top: 10px !important;
+  font-weight: 300;
+  font-size: 15px !important;
+    }
+
+#vitals img {
+   max-width: 100px;
+    min-width: 40px;
+    height: auto;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    padding-right: 20px;
+  }
+
+#caption {
+  font-style: italic;
+  max-width: 100px;
+  font-weight: 300;
+  font-size: 12px; /* default font size */
+}
+
+#resource1 img {
+                 max-width: 120px;
+                  min-width: 40px;
+                  height: auto;
+                  margin-bottom: 5px;
+                  margin-top: 10px;
+                  margin-right: 5px;
+                  padding-right: 0px;
+                }
+
+#resource2 img {
+                 max-width: 125px;
+                  min-width: 40px;
+                  height: auto;
+                  margin-bottom: 5px;
+                  margin-top: 10px;
+                  padding-right: 20px;
+                  padding-top: 135px;
+                }
+
+#resource3 img {
+                                   max-width: 125px;
+                                   min-width: 40px;
+                                   height: auto;
+                                   margin-bottom: 5px;
+                                   margin-top: 10px;
+                                   padding-right: 0px;
+                                                }
+
+
+#teaching1 img {
+                    max-width: 120px;
+                    min-width: 40px;
+                    height: auto;
+                    margin-bottom: 5px;
+                    margin-top: 10px;
+                    padding-right: 20px;
+}
+
+/*What follows is publications small screen -- for ipad mini or larger, it's in 'styles.css'*/
+
+.publications {
+    width: 64%;
+    margin-left: 5px;
+    color: #1c1c1c; /* slightly lighter text color */
+}
+
+/*publications small screen*/
+.publication-list,
+.recent-writing {
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+/*publications small screen*/
+.publication-list h2,
+.recent-writing h2 {
+    font-weight: 300;
+    font-size: 18.5px;
+    line-height: 1.4;
+    color: #2274A5; /* dark text color */
+
+}
+
+/*publications small screen*/
+.publication-list ul,
+.recent-writing ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    line-height: 1.6; /* adjust line height as needed */
+}
+
+.publication-list ul li,
+.recent-writing ul li {
+    margin-bottom: 12px;
+    font-size: 14px !important;
+
+}
+
+.book-info {
+  line-height: 1.6; /* adjust line height as needed */
+  color: #1c1c1c; /* slightly lighter text color */
+  font-size: 14px; /* default font size */
+}
+
+/*teaching text*/
+.publications-teaching ul {
+  line-height: 1.7;
+  font-size: 14px;
+}
+
+/*teaching headings*/
+.publications-teaching, h2 {
+  font-weight: 300;
+  font-size: 17px;
+}
+
+.publications-oldposts h2 {
+  font-size: 21px;
+  }
