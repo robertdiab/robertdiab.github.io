@@ -195,6 +195,10 @@ nav ul li a.active {
   width: 120%;
 }
 
+nav ul li a {
+    font-size: 20px !important; /* menu items */
+}
+
 
 /* Media query for smaller screens */
 
@@ -292,18 +296,22 @@ main {
 
 
 #vitals {
-  padding-top: 10px !important;
+  padding-top: 5px !important;
   font-weight: 300;
-  font-size: 15px !important;
+  font-size: 16px !important;
+    }
+
+  #vitals h2 {
+      font-size: 18px;
     }
 
 #vitals img {
-   max-width: 100px;
+   max-width: 85px;
+   border-radius: 3px;
     min-width: 40px;
     height: auto;
     margin-bottom: 5px;
     margin-top: 10px;
-    padding-right: 20px;
   }
 
 #caption {
@@ -339,7 +347,7 @@ main {
                                    height: auto;
                                    margin-bottom: 5px;
                                    margin-top: 10px;
-                                   padding-right: 0px;
+                                   margin-right: 0px;
                                                 }
 
 
@@ -349,7 +357,7 @@ main {
                     height: auto;
                     margin-bottom: 5px;
                     margin-top: 10px;
-                    padding-right: 20px;
+
 }
 
 /*What follows is publications small screen -- for ipad mini or larger, it's in 'styles.css'*/
