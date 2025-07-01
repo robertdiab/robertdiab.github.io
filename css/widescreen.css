@@ -1,0 +1,784 @@
+@import 'fonts.css';
+
+body {
+  float: center;
+  margin: 0;
+  max-width: 900px;
+  min-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 27px;
+}
+
+.sitelogo-field h1 {
+  padding-bottom: 0px;
+  font-size: 32px;
+  color: #333;
+  font-family: 'Merriweather Sans';
+  font-weight: 300;
+
+}
+
+.sitelogo-field, a {
+  color: inherit;
+  text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    color: #333;
+    font-family: 'Merriweather Sans';
+    font-size: 22.5px; /* Menu items */
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 2px;
+}
+
+nav ul li a {
+    color: #333; /* dark links */
+    text-decoration: none;
+    font-size: 22.5px; /* Menu items */
+    font-weight: 300;
+}
+
+nav ul li a.active {
+      color: #2274A5;
+}
+
+nav ul li p1 {
+  color: #333;
+  margin-left: 7px;
+}
+
+
+nav ul li-2 {
+    display: inline;
+    margin-right: 5px;
+    margin-left: -1px;
+}
+
+nav ul li-2 a {
+    color: #333; /* dark links */
+    text-decoration: none;
+    font-size: 22.5px; /* Menu items */
+    font-weight: 300;
+}
+
+nav ul li-2 a.active {
+      color: #2274A5;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 14px;
+    position: relative; /* Ensure positioning context for the pseudo-element */
+    font-weight: 300;
+    color: #333; /* Set the text color */
+}
+
+header::before {
+    content: ""; /* Add content to the pseudo-element */
+    position: absolute; /* Position the pseudo-element */
+    top: 0;
+    left: 0;
+    width: 100%; /* Set the width to cover the header */
+    height: 100%; /* Set the height to cover the header */
+    background-image: url(/images/banner5.jpg); /* Specify the image URL */
+    border-radius: 8px;
+    background-size: cover; /* Ensure the image covers the entire header */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center center; /* Center the image */
+    opacity: 0.08; /* Set the opacity to 20% */
+    z-index: -1; /* Ensure the pseudo-element is behind the header content */
+}
+
+
+p a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #007AFC;
+}
+
+.greytext {
+  color: #808080;
+}
+
+.sidenav {
+  float: right;
+  overflow-x: hidden;
+  padding: 30px 20px;
+  font-family: 'Merriweather Sans';
+  font-weight: 300;
+  line-height: 1.7em;
+  color: #333333;
+  max-width: 150px;
+}
+
+.sidenav a {
+ color: #007AFC;
+ text-decoration: none;
+}
+
+.sidenav a:hover {
+color: black;
+text-decoration: none;
+}
+
+.sidenav a:active {
+  color:#000000;
+  text-decoration: none;
+  }
+
+.navtitle {
+  font-size: 16px;
+  line-height: 2.1em;
+}
+
+.smallnav {
+  font-size: 15px;
+  color: black;
+  max-width: 40%;
+  line-height: 1.65em;
+  }
+
+.smallnav p {
+    font-size: 15px;
+    color: black;
+    font-family: 'Merriweather Sans', sans-serif !important;
+    line-height: 1.65em;
+    }
+
+.recent-posts {
+  max-width: 130px;
+  line-height: 1.65em;
+  font-size: 14.5px;
+}
+
+.recent-posts a {
+  color: grey;
+}
+
+.earlier-posts {
+  max-width: 130px;
+  line-height: 1.65em;
+  font-size: 15px;
+}
+
+.earlier-posts a {
+  color: grey;
+}
+
+
+/*font, layout for research and writing*/
+p {
+  color: black;
+  font-family: 'Martel', sans-serif !important;
+  font-weight: 300 !important;
+  font-size: 17px;
+  line-height: 1.65em;
+  max-width: 650px;
+
+  }
+
+p a {
+  color: #007AFC;
+  text-decoration-color: #007AFC;
+}
+
+p a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #007AFC;
+}
+
+.content a {
+}
+
+.content a:hover {
+color: #007AFC;
+}
+
+.content a:active {
+ color:grey;
+ text-decoration: none;
+}
+
+/*font, layout for posts*/
+
+img[alt$=">"] {
+  float: right;
+  max-width: 30%;
+    box-shadow: 0 0 10px .2px grey;
+    border-radius: 5px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}
+
+img[alt$="<"] {
+  float: left;
+    box-shadow: 0 0 10px .2px grey;
+    border-radius: 5px;
+  max-width: 30%;
+  margin-right: 25px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.post-date {
+  font-size: .95em;
+  font-weight: 300;
+  line-height: 2.5em;
+  color: grey;
+  font-family: 'Merriweather Sans';
+}
+
+.nonpost-content {
+  padding: 0px 160px 40px 30px;
+  max-width: 730px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nonpost-content p {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+}
+
+.nonpost-content h3 {
+  font-size: 23px;
+  font-weight: 400;
+  font-style: bold;
+  font-family: 'Merriweather Sans', serif;
+  color: #5E5E5E;
+  padding-top: 20px;
+}
+
+.post-content {
+  padding: 40px 230px 40px 25px;
+  float: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-content p {
+  font-family: 'Martel', sans-serif;
+  font-weight: 300 !important;
+  font-size: 18px;
+  color: black;
+  line-height: 32px;
+}
+
+.post-title {
+  font-size: 28px;
+  letter-spacing: 0.005rem;
+  max-width: 580px;
+  line-height: 1.5em;
+  font-family: 'Merriweather Sans', serif;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.8);
+  margin-bottom: 5px;
+}
+
+.post-title a {
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: 300;
+  text-decoration: none;
+  }
+
+.post-title a:hover {
+    color: rgba(0, 0, 0, 0.8);
+     text-decoration: none;
+    }
+
+.post-content h3 {
+  font-size: 23px;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: bold;
+  font-family: 'Merriweather Sans', serif;
+  color: #333333;
+  padding-top: 15px;
+}
+
+.read-more {
+  font-size: .9rem;
+  font-weight: normal;
+}
+
+.read-more a {
+ color:#000000;
+ text-decoration: none;
+}
+
+.read-more a:hover {
+color:#1E90FF;
+text-decoration: none;
+}
+
+.read-more a:active {
+ color:#417dc1;
+ text-decoration: none;
+}
+
+.archive {
+  line-height: 30px;
+  padding: 21px 60px 40px 60px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 300;
+}
+
+.archive a {
+   color: #333333;
+   text-decoration: none;
+  }
+
+.archive-page-title {
+  font-size: 1.5rem;
+}
+
+.archive__group-year-header {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.archive__group-month-header {
+    font-size: 1.3rem;
+    color: #333333;
+    padding-top: 0px;
+    font-weight: 400;
+}
+
+.archive__post-title {
+    font-size: 18px;
+    max-width: 600px;
+    line-height: 30px;
+    padding-top: 5px;
+    font-family: 'Martel', serif;
+}
+
+.archive__post-date {
+    font-size: .95rem;
+    color: grey;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.archive__post-read-time {
+    font-size: .8rem;
+}
+
+.date-page-title h2 {
+  font-size: 21px;
+  font-weight: 300;
+  font-style: bold;
+  font-family: 'Merriweather Sans', serif;
+  color: grey;
+}
+
+.topic {
+line-height: 30px;
+padding: 21px 60px 40px 10px;
+font-family: 'Martel';
+font-weight: 300;
+}
+
+.topic-page-title h2 {
+  font-size: 21px;
+  font-weight: 300;
+  font-style: bold;
+  padding-left: 20px;
+  font-family: 'Merriweather Sans', serif;
+  color: grey;
+}
+
+.topicword {
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-family: 'Merriweather Sans', serif;
+}
+
+
+.topic a {
+   color: #333333;
+   text-decoration: none;
+  }
+
+.topic-post {
+      font-size: 16.5px;
+      max-width: 380px;
+  }
+
+.topic__post-date {
+      font-size: .9rem;
+      color: grey;
+  }
+
+blockquote {
+  width:90%;
+  margin:20px auto;
+  padding:0px 30px 0px 30px;
+  border-left:6px solid #e5e4e2;
+  line-height:27px;
+  position: relative;
+}
+
+.page-nav a {
+font-family: 'Merriweather Sans', serif;
+font-weight: 300;
+ color:grey;
+ text-decoration: none;
+}
+
+.page-nav a:hover {
+color:#417dc1;
+text-decoration: none;
+}
+
+.page-nav a:active {
+ color:#417dc1;
+ text-decoration: none;
+}
+
+.readings {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.float-container {
+    padding-top: 0px;
+}
+
+.float-child1 {
+    width: 45%;
+    float: left;
+    padding: 0px;
+}
+
+.float-child2 {
+    width: 45%;
+    float: right;
+    padding: 0px;
+}
+
+.readings img[src*="image"] {
+  border-radius: 0px;
+  margin-bottom: 20px;
+}
+
+.readings img[src*="image"] {
+  max-width: 60%;
+  }
+
+.readings img[src*="image"] {
+  float: left;
+}
+
+.readings img[src*="image"]  {
+  box-shadow: 0 0 5px .2px grey;
+  }
+
+
+.bottomhomelinks {
+  text-align: center;
+}
+.bottomhomelinks a {
+  font-family: 'Merriweather Sans', serif;
+  font-weight: 300;
+   color:black;
+   text-decoration: none;
+  }
+
+.bottomhomelinks a:hover {
+  color:#417dc1;
+  text-decoration: none;
+  }
+
+.bottomhomelinks a:active {
+   color:#417dc1;
+   text-decoration: none;
+  }
+
+
+.sharing-tw {
+  float:left;
+  width:10%;
+  overflow:hidden;
+  }
+
+.sharing-fb {
+    float:left;
+    width:10%;
+    overflow:hidden;
+  }
+
+  .svg-icon {
+    width: 1.3em;
+    height: 1.3em;
+  }
+
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+
+  .svg-icon {
+  width: 1.3em;
+  height: 1.3em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #4691f6;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
+
+.svg-icon {
+  width: 1.3em;
+  height: 1.3em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #4691f6;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  stroke-width: 1;
+}
+
+
+.container {
+    max-width: 900px; /* limit width to 900 pixels */
+    margin: 0 auto; /* center the container horizontally */
+}
+
+.logo-link {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit color from parent (usually black) */
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+
+    body {
+    background-color: #333333; /* Dark background */
+
+    header h1, nav ul li a {
+        color: white !important; /* White text color */
+    }
+
+    nav ul li p1 {
+      color: white !important;
+
+    }
+
+    header h1, nav ul li-2 a {
+        color: white !important; /* White text color */
+    }
+
+
+    h2, h3, h4 {
+      color: #81BEF7 !important;
+    }
+
+
+  a {
+          color: #81BEF7; /* Link color */
+          text-decoration: none; /* Remove underline */
+      }}
+
+
+      p {
+        color: white;
+
+        }
+
+      p a {
+        color: #81BEF7;
+        text-decoration-color: #81BEF7;
+      }
+
+      p a:hover {
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        text-decoration-color: #81BEF7;
+      }
+
+      .content p {
+        color: white;
+      }
+
+      .content a {
+      }
+
+      .content a:hover {
+      color: #81BEF7;
+      }
+
+      .content a:active {
+       color:grey;
+       text-decoration: none;
+      }
+
+      .sidenav {
+        color: white;
+      }
+
+
+      .sidenav a {
+         color: #81BEF7 !important;
+         text-decoration: none;
+        }
+
+        .sidenav a:hover {
+        color: white;
+        text-decoration: none;
+        }
+
+        .sidenav a:active {
+          color:#000000;
+          text-decoration: none;
+          }
+
+
+        .smallnav p {
+            font-size: 15px;
+            color: white;
+            line-height: 1.7em;
+            }
+
+
+        .recent-posts a {
+          color: #d3d3d3;
+        }
+
+        .sitelogo-field h1 {
+          color: white;
+        }
+
+        .sitelogo-field, a {
+          color: inherit;
+          text-decoration: none;
+        }
+
+        .post-title a {
+          color: #81BEF7;
+               }
+
+               .post-title {
+                color: #81BEF7;
+               }
+
+               .post-date {
+                 color: #d3d3d3;
+               }
+
+               .archive {
+                 line-height: 30px;
+                 padding: 21px 60px 40px 60px;
+                 font-family: 'Merriweather Sans', sans-serif;
+                 font-weight: 300;
+                 color: white;
+               }
+
+               .archive a {
+                  color: white;
+                                   }
+
+               .archive-page-title {
+                 font-size: 1.5rem;
+               }
+
+               .archive__group-year-header {
+                 font-size: 1.2rem;
+                 font-weight: 400;
+               }
+
+               .archive__group-month-header {
+                   font-size: 1.3rem;
+                   color: white;
+                   padding-top: 10px;
+                   font-weight: 400;
+               }
+
+               .archive__post-title {
+                    color: white;
+                   font-size: 1.2rem;
+                   max-width: 600px;
+                   line-height: 30px;
+                   padding-top: 10px;
+                   font-family: 'Merriweather Sans', serif;
+               }
+
+               .archive__post-date {
+                   font-size: .95rem;
+                   color: #d3d3d3;
+               }
+
+               .archive__post-read-time {
+                   font-size: .8rem;
+               }
+
+               .topic {
+               line-height: 30px;
+               padding: 21px 60px 40px 10px;
+               font-family: 'Merriweather Sans';
+               font-weight: 300;
+               color: white;
+               }
+
+               .topic-page-title h2 {
+                 font-size: 21px;
+                 font-weight: 300;
+                 font-style: bold;
+                 padding-left: 40px;
+                 font-family: 'Merriweather Sans', serif;
+                 color: white;
+               }
+
+               .topicword {
+                 color: white;
+                 font-size: 23px;
+                 padding-top: 20px;
+                 padding-bottom: 10px;
+                 font-family: 'Merriweather Sans', serif;
+               }
+
+
+               .topic a {
+                  color: white;
+                  text-decoration: none;
+                 }
+
+               .topic-post {
+                     font-size: 17px;
+                     max-width: 380px;
+                     color: white;
+                 }
+
+               .topic__post-date {
+                     font-size: .9rem;
+                     color: #d3d3d3;
+                 }
