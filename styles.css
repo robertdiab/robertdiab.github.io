@@ -76,6 +76,10 @@ body {
           font-size: 19.4px;
       }
 
+      #vitals h2 {
+        font-size: 19.4px;
+      }
+
       .books {
         font-size: 19.4px;
       }
@@ -309,12 +313,16 @@ blockquote {
     }
 
   #vitals img {
-       max-width: 120px;
+       max-width: 104px;
+       border-radius: 3px;
         min-width: 60px;
         height: auto;
         margin-bottom: 5px;
         margin-top: 20px;
-        padding-right: 10px;
+      }
+
+  #vitals h2 {
+  font-size: 19.4px;
       }
 
 #caption {
@@ -327,6 +335,7 @@ blockquote {
 
 #resource1 img {
                  max-width: 220px;
+                 border-radius: 5px;
                   min-width: 40px;
                   height: auto;
                   margin-bottom: 5px;
@@ -336,6 +345,7 @@ blockquote {
 
 #resource2 img {
                  max-width: 235px;
+                 border-radius: 5px;
                   min-width: 40px;
                   height: auto;
                   margin-bottom: 5px;
@@ -349,17 +359,19 @@ blockquote {
                    height: auto;
                    margin-bottom: 5px;
                    margin-top: 10px;
-                   padding-right: 25px;
+                   margin-right: 25px;
+                   border-radius: 5px;
                                 }
 
 
 #teaching1 img {
     max-width: 220px;
+    border-radius: 3px;
     min-width: 40px;
     height: auto;
     margin-bottom: 5px;
     margin-top: 10px;
-    padding-right: 20px;
+    margin-right: 20px;
                                 }
 .publications {
     width: 74%;
