@@ -25,7 +25,7 @@ body {
     text-decoration: none;
   }
 
-    nav ul li {
+nav ul li {
         display: block; /* Display menu items vertically on smaller screens */
         margin-right: 10px; /* Remove right margin to avoid extra space */
         margin-bottom: 0px; /* Add some bottom margin for spacing */
@@ -36,7 +36,7 @@ nav ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    color: white;
+    color: black;
     font-family: 'Merriweather Sans';
 }
 
@@ -381,12 +381,12 @@ text-decoration: none;
   color: grey;
 }
 
-
 .topic {
 line-height: 30px;
 padding: 15px 40px 40px 0px;
 font-family: 'Merriweather Sans';
 font-weight: 300;
+color: black !important;
 }
 
 .topic-page-title h2 {
@@ -573,7 +573,7 @@ text-decoration: none;
         background-color: #333333; /* Dark background */
 
         header h1, nav ul li a {
-            color: white !important; /* White text color */
+            color: white !important; /*  text color */
         }
 
         nav ul li p1 {
@@ -699,7 +699,6 @@ text-decoration: none;
                                  color: #d3d3d3;
                              }
 
-                             }
 
                              .topic {
                              color: white;
