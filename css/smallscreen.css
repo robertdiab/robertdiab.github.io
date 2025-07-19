@@ -180,7 +180,7 @@ text-decoration: none;
 /*font, layout for research and writing*/
 p {
   color: #2c2c2a;
-  font-family: 'Martel', serif !important;
+  font-family: 'Merriweather Sans', serif !important;
   font-weight: 300 !important;
   font-size: 15px;
   line-height: 1.6em;
@@ -270,7 +270,7 @@ p {
 }
 
 .post-content p {
-  font-family: 'Martel', serif;
+  font-family: 'Merriweather Sans', serif;
   font-weight: 300;
   font-size: 1em;
   line-height: 1.65em;
