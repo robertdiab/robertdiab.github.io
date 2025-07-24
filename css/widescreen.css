@@ -107,7 +107,7 @@ p a:hover {
 }
 
 .greytext {
-  color: #808080;
+  color: #CCCCCC;
 }
 
 .sidenav {
@@ -162,7 +162,7 @@ text-decoration: none;
 }
 
 .recent-posts a {
-  color: grey;
+  color:grey;
 }
 
 .earlier-posts {
@@ -172,7 +172,7 @@ text-decoration: none;
 }
 
 .earlier-posts a {
-  color: grey;
+  color:grey;
 }
 
 
@@ -206,7 +206,7 @@ color: #007AFC;
 }
 
 .content a:active {
- color:grey;
+ color: #CCCCCC important!;
  text-decoration: none;
 }
 
@@ -431,6 +431,10 @@ blockquote {
   position: relative;
 }
 
+blockquote, blockquote p, blockquote span {
+  color: #555555 !important;
+}
+
 .page-nav a {
 font-family: 'Merriweather Sans', serif;
 font-weight: 300;
@@ -588,7 +592,7 @@ text-decoration: none;
     header h1, nav ul li a {
         color: white !important; /* White text color */
     }
-
+s
     nav ul li p1 {
       color: white !important;
 
@@ -781,4 +785,9 @@ text-decoration: none;
                .topic__post-date {
                      font-size: .9rem;
                      color: #d3d3d3;
+                 }
+
+
+     blockquote, blockquote p, blockquote span {
+                   color: #CCCCCC !important;
                  }

@@ -433,6 +433,10 @@ blockquote {
   position: relative;
 }
 
+blockquote, blockquote p, blockquote span {
+  color: #555555 !important;
+}
+
 .page-nav a {
 font-family: 'Merriweather Sans', serif;
 font-weight: 300;
@@ -725,3 +729,7 @@ text-decoration: none;
                              .topic__post-date {
                                    color: #d3d3d3;
                                }
+
+             blockquote, blockquote p, blockquote span {
+                         color: #CCCCCC !important;
+                                           }
