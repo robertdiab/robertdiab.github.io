@@ -9,6 +9,42 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>When AI Turns Deadly: Are Model Makers Responsible?</title>
+      <link>https://www.robertdiab.ca/posts/ai-liability/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/ai-liability/</guid>
+      <description>&lt;p&gt;This week, parents of Adam Raine, a California teen who committed suicide in April after a lengthy interaction with GPT-4o, &lt;a href=&#34;https://www.theguardian.com/technology/2025/aug/27/chatgpt-scrutiny-family-teen-killed-himself-sue-open-ai&#34;&gt;filed a lawsuit&lt;/a&gt; against OpenAI and its CEO, Sam Altman. The case follows a &lt;a href=&#34;https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html&#34;&gt;suit&lt;/a&gt; brought in late 2024 by the parents of a Florida teen, Sewell Setzer, who took his own life after engaging with a Character.AI chatbot impersonating Daenerys Targaryen from Game of Thrones.&lt;/p&gt;
+&lt;p&gt;In early August, ChatGPT was also implicated in a &lt;a href=&#34;https://www.wsj.com/tech/ai/chatgpt-ai-stein-erik-soelberg-murder-suicide-6b67dbfb&#34;&gt;murder-suicide in Connecticut&lt;/a&gt; involving 56-year-old tech worker Stein-Erik Soelberg, who had a history of mental illness. Although the chatbot did not suggest that he murder his mother, it appears to have fueled Soelberg’s paranoid delusions, which led him to do so.&lt;/p&gt;
+&lt;p&gt;OpenAI and other companies have been quick to respond with &lt;a href=&#34;https://openai.com/index/helping-people-when-they-need-it-most/&#34;&gt;blog posts&lt;/a&gt; and &lt;a href=&#34;https://openai.com/index/openai-anthropic-safety-evaluation/&#34;&gt;press releases&lt;/a&gt; outlining steps they are taking to mitigate risks from misuse of their models.&lt;/p&gt;
+&lt;p&gt;This raises a larger question left unanswered in Canada after the &lt;a href=&#34;https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act&#34;&gt;Artificial Intelligence and Data Act&lt;/a&gt; died on the order paper in early 2025, when the last Parliament ended: what guardrails exist in Canadian law to govern the harmful uses of generative AI?&lt;/p&gt;
+&lt;p&gt;Like the United States, Canada has no national or provincial legislation designed to impose liability on AI companies for harms caused by their products. The European Union passed an &lt;a href=&#34;https://artificialintelligenceact.eu/ai-act-explorer/&#34;&gt;AI Act&lt;/a&gt; in 2024 that does impose liability for harmful AI systems.&lt;/p&gt;
+&lt;p&gt;But in both the EU law and the Canadian bill that was abandoned, there is a notable flaw in how liability is conceived.&lt;/p&gt;
+&lt;p&gt;I explored this in &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4680927&#34;&gt;a paper I wrote&lt;/a&gt; in late 2023, surveying early reports of harmful uses of language models (a suicide in Belgium, help with bomb-making, and other cases).&lt;/p&gt;
+&lt;p&gt;My article garnered some interest on SSRN but only recently appeared in print (it was &lt;a href=&#34;https://commons.allard.ubc.ca/cgi/viewcontent.cgi?article=1372&amp;amp;context=ubclawreview&#34;&gt;published&lt;/a&gt; this month). The core argument was this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Both [the European and Canadian AI] bills are premised on the ability to quantify in advance and to a reasonable degree the nature and extent of the risk a system poses. This paper canvases evidence that raises doubt about whether providers or auditors have this ability. It argues that while providers can take measures to mitigate risk to some degree, remaining risks are substantial, but difficult to quantify, and may persist for the foreseeable future due to the intractable problem of novel methods of jailbreaking and limits to model interpretability.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The problem remains unresolved.&lt;/p&gt;
+&lt;h3 id=&#34;the-only-guardrails-at-the-moment&#34;&gt;The only guardrails at the moment&lt;/h3&gt;
+&lt;p&gt;The only mechanisms in Canada and the US for holding AI companies liable are laws on product liability, negligence, and wrongful death.&lt;/p&gt;
+&lt;p&gt;Parents in both the California and Florida cases are suing the model makers (OpenAI and Character.AI, respectively) for wrongful death, a statutory cause of action that allows family members of the deceased to sue for damages including funeral expenses, mental anguish, loss of future financial support, and companionship. Plaintiffs must show the defendant’s negligence or intentional misconduct caused the death.&lt;/p&gt;
+&lt;p&gt;Here, parents allege that chatbot makers were negligent in product design and failed to provide adequate warnings about risks.&lt;/p&gt;
+&lt;p&gt;Canadian law works in a similar way. Provinces allow wrongful death suits for a wrongful act. Damage awards in Canada are much smaller than in the US and mostly limited to quantifiable losses. But plaintiffs can also claim that a model maker was negligent in offering a harmful product, or that it was defective or lacked adequate warnings.&lt;/p&gt;
+&lt;p&gt;At the heart of negligence and product liability is the same question: what steps should OpenAI, Anthropic, or Google reasonably have taken to avoid harm?&lt;/p&gt;
+&lt;p&gt;Put another way, in making chatbots available, companies clearly owe users a duty of care. The product carries risks, and harm to users is foreseeable.&lt;/p&gt;
+&lt;p&gt;The key question, though, is: what is the standard of care?&lt;/p&gt;
+&lt;p&gt;When can OpenAI and others be said to have done enough—or not enough—to avoid harm? If the standard is “reasonably safe” rather than “absolutely safe,” when is that threshold met? And can it even be met, given the nature of these systems?&lt;/p&gt;
+&lt;p&gt;No one knows. But OpenAI and others are taking—and &lt;a href=&#34;https://openai.com/index/helping-people-when-they-need-it-most/&#34;&gt;publicizing&lt;/a&gt;—all the steps one might predict a tort lawyer would advise them to take.&lt;/p&gt;
+&lt;p&gt;OpenAI admits its risk-detection mechanisms work better in shorter conversations and degrade as conversations lengthen. It is working to improve performance in longer chats.&lt;/p&gt;
+&lt;p&gt;It is also improving detection across different types of harmful conversations, from suicidal to criminal. It has announced plans for parental controls to let parents monitor their child’s activity, and is rolling out systems to route some conversations to human overseers who can terminate the chat and lock the user out of further access.&lt;/p&gt;
+&lt;p&gt;Whether these steps will be deemed sufficient—enough to absolve OpenAI and others of liability—remains to be seen.&lt;/p&gt;
+&lt;p&gt;Much may depend on how a model was misused, what jailbreak was employed, and whether that misuse was foreseeable.&lt;/p&gt;
+&lt;p&gt;In a broader sense, it is worth keeping perspective on AI risks. As tragic as these cases are, hundreds of millions of people use these tools daily, and many find them beneficial. But there are, inevitably, many ways to misuse them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bill C-2 Backgrounder - the missing manual!</title>
       <link>https://www.robertdiab.ca/posts/c2backgrounder/</link>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>

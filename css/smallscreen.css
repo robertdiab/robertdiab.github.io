@@ -733,3 +733,15 @@ text-decoration: none;
              blockquote, blockquote p, blockquote span {
                          color: #CCCCCC !important;
                                            }
+
+                                           .bottomhomelinks a {
+                                             font-family: 'Merriweather Sans', serif;
+                                             font-weight: 300;
+                                              color:white;
+                                              text-decoration: none;
+                                             }
+
+                                           .bottomhomelinks a:hover {
+                                             color:#white;
+                                             text-decoration: none;
+                                             }
