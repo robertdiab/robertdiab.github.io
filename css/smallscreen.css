@@ -143,7 +143,7 @@ text-decoration: none;
 }
 
 .smallnav {
-  font-size: 14.5px;
+  font-size: 14px;
   color: grey;
 }
 
@@ -230,6 +230,16 @@ p {
   box-shadow: 0 0 10px .2px grey;
   }
 
+.content img[alt$="*"] {
+    float: left;
+      box-shadow: 0 0 10px .2px grey;
+      border-radius: 5px;
+    max-width: 40%;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
+
 /*font, layout for posts, mainpage*/
 
 .post-date {
@@ -272,7 +282,7 @@ p {
 .post-content p {
   font-family: 'Merriweather Sans', serif;
   font-weight: 300;
-  font-size: 1em;
+  font-size: .95em;
   line-height: 1.65em;
   color: black;
 }

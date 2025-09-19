@@ -233,6 +233,16 @@ img[alt$="<"] {
   margin-bottom: 25px;
 }
 
+img[alt$="*"] {
+  float: left;
+    box-shadow: 0 0 10px .2px grey;
+    border-radius: 5px;
+  max-width: 40%;
+  margin-right: 25px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
 .post-date {
   font-size: .95em;
   font-weight: 300;
@@ -272,7 +282,7 @@ img[alt$="<"] {
 .post-content p {
   font-family: 'Merriweather Sans', sans-serif;
   font-weight: 300 !important;
-  font-size: 18px;
+  font-size: 17.5px;
   color: black;
   line-height: 32px;
 }
