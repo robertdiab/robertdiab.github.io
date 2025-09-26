@@ -12,10 +12,10 @@ body {
 
 .sitelogo-field h1 {
   padding-bottom: 0px;
-  font-size: 32px;
+  font-size: 33px;
   color: #333;
-  font-family: 'Merriweather Sans';
-  font-weight: 300;
+  font-family: 'Encode Sans Condensed';
+  font-weight: 400;
 
 }
 
@@ -29,8 +29,8 @@ nav ul {
     padding: 0;
     margin: 0;
     color: #333;
-    font-family: 'Merriweather Sans';
-    font-size: 22.5px; /* Menu items */
+    font-family: 'Encode Sans Condensed';
+    font-size: 23px; /* Menu items */
 }
 
 nav ul li {
@@ -41,8 +41,8 @@ nav ul li {
 nav ul li a {
     color: #333; /* dark links */
     text-decoration: none;
-    font-size: 21.5px; /* Menu items */
-    font-weight: 300;
+    font-size: 23px; /* Menu items */
+    font-weight: 400;
 }
 
 nav ul li a.active {
@@ -57,15 +57,15 @@ nav ul li p1 {
 
 nav ul li-2 {
     display: inline;
-    margin-right: 7px;
+    margin-right: 32px;
     margin-left: -1px;
 }
 
 nav ul li-2 a {
     color: #333; /* dark links */
     text-decoration: none;
-    font-size: 21.5px; /* Menu items */
-    font-weight: 300;
+    font-size: 23px; /* Menu items */
+    font-weight: 400;
 }
 
 nav ul li-2 a.active {
@@ -114,11 +114,11 @@ p a:hover {
   float: right;
   overflow-x: hidden;
   padding: 30px 20px;
-  font-family: 'Merriweather Sans';
-  font-weight: 300;
+  font-family: 'Encode Sans Condensed';
+  font-weight: 400;
   line-height: 1.7em;
   color: #333333;
-  max-width: 150px;
+  max-width: 155px;
 }
 
 .sidenav a {
@@ -137,28 +137,35 @@ text-decoration: none;
   }
 
 .navtitle {
-  font-size: 16px;
+  font-size: 17px;
+  line-height: 2.1em;
+}
+
+.navtitle-earlier {
+  font-size: 17px;
   line-height: 2.1em;
 }
 
 .smallnav {
-  font-size: 15px;
+  font-size: 18px;
   color: black;
   max-width: 40%;
   line-height: 1.65em;
   }
 
+/*bio-text*/
 .smallnav p {
-    font-size: 15px;
+    font-size: 15.5px !important;
     color: black;
-    font-family: 'Merriweather Sans', sans-serif !important;
-    line-height: 1.65em;
+    font-family: 'Encode Sans Condensed', sans-serif !important;
+    font-weight: 300 !important;
+    line-height: 1.6em !important;
     }
 
 .recent-posts {
   max-width: 130px;
-  line-height: 1.65em;
-  font-size: 14.5px;
+  line-height: 1.5em;
+  font-size: 16px;
 }
 
 .recent-posts a {
@@ -168,7 +175,7 @@ text-decoration: none;
 .earlier-posts {
   max-width: 130px;
   line-height: 1.65em;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 .earlier-posts a {
@@ -179,10 +186,10 @@ text-decoration: none;
 /*font, layout for research and writing*/
 p {
   color: black;
-  font-family: 'Merriweather Sans', sans-serif !important;
-  font-weight: 300 !important;
-  font-size: 17px;
-  line-height: 1.65em;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: 400 !important;
+  font-size: 17.5px;
+  line-height: 29px;
   max-width: 650px;
 
   }
@@ -237,10 +244,10 @@ img[alt$="*"] {
   float: left;
     box-shadow: 0 0 10px .2px grey;
     border-radius: 5px;
-  max-width: 40%;
+  max-width: 30%;
   margin-right: 25px;
   margin-top: 10px;
-  margin-bottom: 25px;
+  margin-bottom: 5px;
 }
 
 .post-date {
@@ -248,7 +255,7 @@ img[alt$="*"] {
   font-weight: 300;
   line-height: 2.5em;
   color: grey;
-  font-family: 'Merriweather Sans';
+  font-family: 'Encode Sans Condensed';
 }
 
 .nonpost-content {
@@ -259,15 +266,16 @@ img[alt$="*"] {
 }
 
 .nonpost-content p {
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Encode Sans Condensed', sans-serif;
   font-weight: 400;
 }
 
 .nonpost-content h3 {
-  font-size: 23px;
+  font-size: 28px;
   font-weight: 400;
+  line-height: 1.3em;
   font-style: bold;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: #5E5E5E;
   padding-top: 20px;
 }
@@ -280,27 +288,28 @@ img[alt$="*"] {
 }
 
 .post-content p {
-  font-family: 'Merriweather Sans', sans-serif;
-  font-weight: 300 !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: 400 !important;
   font-size: 17.5px;
   color: black;
-  line-height: 32px;
+  line-height: 29px;
 }
 
 .post-title {
-  font-size: 28px;
+  font-size: 33px;
   letter-spacing: 0.005rem;
   max-width: 580px;
-  line-height: 1.5em;
-  font-family: 'Merriweather Sans', serif;
-  font-weight: 300;
+  line-height: 1.4em;
+  font-family: 'Encode Sans Condensed', serif;
+  font-weight: 400;
   color: rgba(0, 0, 0, 0.8);
   margin-bottom: 5px;
 }
 
 .post-title a {
   color: rgba(0, 0, 0, 0.8);
-  font-weight: 300;
+  font-weight: 400;
+  font-style: bold;
   text-decoration: none;
   }
 
@@ -310,13 +319,13 @@ img[alt$="*"] {
     }
 
 .post-content h3 {
-  font-size: 23px;
+  font-size: 26px;
   line-height: 1.3em;
   font-weight: 400;
   font-style: bold;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: #333333;
-  padding-top: 15px;
+  padding-top: 5px;
 }
 
 .read-more {
@@ -342,7 +351,7 @@ text-decoration: none;
 .archive {
   line-height: 30px;
   padding: 21px 60px 40px 60px;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Encode Sans Condensed', sans-serif;
   font-weight: 300;
 }
 
@@ -368,17 +377,17 @@ text-decoration: none;
 }
 
 .archive__post-title {
-    font-size: 18px;
+    font-size: 20px !important;
     max-width: 600px;
     line-height: 30px;
     padding-top: 5px;
-    font-family: 'Merriweather Sans', serif;
+    font-family: 'Encode Sans Condensed', serif;
 }
 
 .archive__post-date {
     font-size: .95rem;
     color: grey;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Encode Sans Condensed', sans-serif;
 }
 
 .archive__post-read-time {
@@ -386,26 +395,26 @@ text-decoration: none;
 }
 
 .date-page-title h2 {
-  font-size: 21px;
-  font-weight: 300;
+  font-size: 28px;
+  font-weight: 400;
   font-style: bold;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: grey;
 }
 
 .topic {
 line-height: 30px;
 padding: 21px 60px 40px 10px;
-font-family: 'Merriweather Sans';
+font-family: 'Encode Sans Condensed';
 font-weight: 300;
 }
 
 .topic-page-title h2 {
-  font-size: 21px;
-  font-weight: 300;
+  font-size: 28px !important;
+  font-weight: 400 !important;
   font-style: bold;
   padding-left: 20px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: grey;
 }
 
@@ -413,7 +422,7 @@ font-weight: 300;
   font-size: 20px;
   padding-top: 20px;
   padding-bottom: 10px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
 }
 
 
@@ -423,7 +432,7 @@ font-weight: 300;
   }
 
 .topic-post {
-      font-size: 16.5px;
+      font-size: 17px;
       max-width: 380px;
   }
 
@@ -446,7 +455,7 @@ blockquote, blockquote p, blockquote span {
 }
 
 .page-nav a {
-font-family: 'Merriweather Sans', serif;
+font-family: 'Encode Sans Condensed', serif;
 font-weight: 300;
  color:grey;
  text-decoration: none;
@@ -505,7 +514,7 @@ text-decoration: none;
   text-align: center;
 }
 .bottomhomelinks a {
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   font-weight: 300;
    color:black;
    text-decoration: none;
@@ -602,10 +611,10 @@ text-decoration: none;
     header h1, nav ul li a {
         color: white !important; /* White text color */
     }
-s
-    nav ul li p1 {
-      color: white !important;
 
+    nav ul li p1 {
+      color: white;
+      margin-left: 7px;
     }
 
     header h1, nav ul li-2 a {
@@ -628,6 +637,12 @@ s
         color: white;
 
         }
+
+        ul li::marker,
+        ol li::marker {
+          color: white;
+        }
+
 
       p a {
         color: #81BEF7;
@@ -712,7 +727,7 @@ s
                .archive {
                  line-height: 30px;
                  padding: 21px 60px 40px 60px;
-                 font-family: 'Merriweather Sans', sans-serif;
+                 font-family: 'Encode Sans Condensed', sans-serif;
                  font-weight: 300;
                  color: white;
                }
@@ -743,7 +758,7 @@ s
                    max-width: 600px;
                    line-height: 30px;
                    padding-top: 10px;
-                   font-family: 'Merriweather Sans', serif;
+                   font-family: 'Encode Sans Condensed', serif;
                }
 
                .archive__post-date {
@@ -758,7 +773,7 @@ s
                .topic {
                line-height: 30px;
                padding: 21px 60px 40px 10px;
-               font-family: 'Merriweather Sans';
+               font-family: 'Encode Sans Condensed';
                font-weight: 300;
                color: white;
                }
@@ -768,7 +783,7 @@ s
                  font-weight: 300;
                  font-style: bold;
                  padding-left: 40px;
-                 font-family: 'Merriweather Sans', serif;
+                 font-family: 'Encode Sans Condensed', serif;
                  color: white;
                }
 
@@ -777,7 +792,7 @@ s
                  font-size: 23px;
                  padding-top: 20px;
                  padding-bottom: 10px;
-                 font-family: 'Merriweather Sans', serif;
+                 font-family: 'Encode Sans Condensed', serif;
                }
 
 
@@ -804,7 +819,7 @@ s
 
 
                  .bottomhomelinks a {
-                   font-family: 'Merriweather Sans', serif;
+                   font-family: 'Encode Sans Condensed', serif;
                    font-weight: 300;
                     color:white;
                     text-decoration: none;

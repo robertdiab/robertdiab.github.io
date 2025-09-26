@@ -9,6 +9,105 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/lawful-access/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Will Canada’s new hate crime bill impact free speech online?</title>
+      <link>https://www.robertdiab.ca/posts/bill-c9/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.robertdiab.ca/posts/bill-c9/</guid>
+      <description>&lt;p&gt;Last week, the Liberal government tabled &lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/45-1/bill/C-9/first-reading&#34;&gt;Bill C-9&lt;/a&gt;, containing three new criminal offences targeting hate speech — as a response to the alarming and appalling rise in antisemitic violence in Canada in the past two years, along with attacks against places of worship, schools, and community centres.&lt;/p&gt;
+&lt;p&gt;The new offences primarily capture acts of intimidation of a physical sort: blocking access to a synagogue, mosque, or temple, or promoting hatred by waving flags or symbols of groups listed as terrorist entities.&lt;/p&gt;
+&lt;p&gt;But two of the offences will apply to speech online and raise questions for me about where they fit in the panoply of hate speech offences in Canada — and whether we’re likely to see further regulation of online speech this fall.&lt;/p&gt;
+&lt;p&gt;I thought I’d write this short post to help situate the new offences in the Criminal Code’s existing hate speech provisions, highlight what they add to what we already have, and remind readers about &lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/43-2/bill/C-36/first-reading&#34;&gt;Bill C-36&lt;/a&gt; in 2021, which sought to revive a human rights law that would make hate speech a form of actionable discrimination — since it may be coming back.&lt;/p&gt;
+&lt;h3 id=&#34;existing-hate-crimes-in-the-criminal-code-and-which-of-them-capture-online-speech&#34;&gt;Existing hate crimes in the Criminal Code (and which of them capture online speech)&lt;/h3&gt;
+&lt;p&gt;Briefly, the Code criminalizes hate speech in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the offence of &lt;strong&gt;“uttering threats”&lt;/strong&gt; (s. 264.1) to do violence, which, if motivated by racial animus, would be an aggravating circumstance at sentencing (s. 718.2(a)(i));&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;advocating or &lt;strong&gt;promoting genocide&lt;/strong&gt; of an identifiable group (s. 318);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;public incitement of hatred&lt;/strong&gt;: communicating a statement in any public place that incites hatred against any identifiable group where such incitement is likely to lead to a breach of the peace (s. 319(1));&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;wilful promotion of hatred&lt;/strong&gt;: communicating a statement, other than in private conversation, that wilfully promotes hatred against any identifiable group (s. 319(2);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;willful promotion of antisemitism&lt;/strong&gt;: communicating statements, other than in private conversation, that wilfully promote antisemitism by condoning, denying or downplaying the Holocaust (s. 319(2.1)-(3.1), with a number of exceptions and defences);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;under s. 83.2: committing any indictable &lt;strong&gt;offence for the benefit of a terrorist group&lt;/strong&gt; (which could include public incitement of hatred, s. 319(1)).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;advocating a terrorism offence in general&lt;/strong&gt; (s. 83.221): counseling another person to “commit a terrorism offence without identifying a specific terrorism offence”.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(also worth noting: warrant provisions for &lt;strong&gt;seizing terrorist propaganda&lt;/strong&gt; in s. 83.223 and &lt;strong&gt;hate propaganda&lt;/strong&gt; in s. 320)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Key provisions for targeting online speech are those in sections 319(1) and (2) — public incitement and wilful promotion of hatred. They capture speech online given the way the Code defines ‘public place’ and ‘statements’ in these provisions: “any place to which the public have access as of right or by invitation” and “words spoken or written or recorded electronically” (s. 319(7)).&lt;/p&gt;
+&lt;p&gt;In at least three cases, courts have applied the promotion or incitement offence to speech online. But two of these were decisions about committal to trial (&lt;a href=&#34;https://canlii.ca/t/1vc0s&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://canlii.ca/t/fkmr5&#34;&gt;here&lt;/a&gt;), and the &lt;a href=&#34;https://canlii.ca/t/kfcx7&#34;&gt;third&lt;/a&gt; was a sentencing case.&lt;/p&gt;
+&lt;p&gt;In 1990, the Supreme Court of Canada in &lt;a href=&#34;https://canlii.ca/t/1fsr1&#34;&gt;Keegstra&lt;/a&gt; held that section 319(2) — wilful promotion of hatred — infringed the freedom of expression in section 2(b) of the Charter because it targets speech content, but found it to be a reasonable limit on the right under section 1.&lt;/p&gt;
+&lt;p&gt;The majority in Keegstra held the government’s aim of preventing the social harm of hate speech to be pressing and substantial. The offence minimally impaired expression for various reasons, including its being limited to ‘hatred,’ defined as the intense emotion of ‘vilification’ or ‘detestation’ rather than ‘disdain’ or ‘dislike.’ The dissent found the concept of hatred too vague and subjective, and the scope of the offence too broad given that it didn’t require statements likely to result in violence.&lt;/p&gt;
+&lt;h3 id=&#34;what-bill-c-9-adds-to-the-picture&#34;&gt;What Bill C-9 adds to the picture&lt;/h3&gt;
+&lt;p&gt;First, C-9 will codify the Keegstra definition of ‘hatred,’ as elaborated in the Supreme Court’s 2013 decision in &lt;a href=&#34;https://canlii.ca/t/fw8x4&#34;&gt;Whatcott&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or does it?&lt;/p&gt;
+&lt;p&gt;The Canadian Constitution Foundation &lt;a href=&#34;https://theccf.ca/liberal-hate-crimes-bill-raises-free-speech-concerns/&#34;&gt;says&lt;/a&gt; the definition in the bill “appears to lower the bar for hate speech set by the Supreme Court of Canada in cases like R v Keegstra and R v Whatcott, which could chill speech and public debate.”&lt;/p&gt;
+&lt;p&gt;In Keegstra, Dickson CJC held: “the term ‘hatred’ [in 319(2)] connotes emotion of an intense and extreme nature that is clearly associated with vilification and detestation.”&lt;/p&gt;
+&lt;p&gt;In Whatcott, Rothstein J, for the Court, held:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[w]here the term “hatred” is used in the context of a prohibition of expression in human rights legislation, it should be applied objectively to determine whether a reasonable person, aware of the context and circumstances, would view the expression as likely to expose a person or persons to detestation and vilification on the basis of a prohibited ground of discrimination.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But to be clear, the Supreme Court had already taken an objective approach to hatred in the criminal context in &lt;a href=&#34;https://canlii.ca/t/1jtfn&#34;&gt;Krymowski&lt;/a&gt; (2005). There it held that judges must “look at the totality of the evidence and draw appropriate inferences” to decide whether an accused person “intended to target” an identifiable group.&lt;/p&gt;
+&lt;p&gt;C-9 will add to 319(7): “&lt;em&gt;&lt;strong&gt;hatred&lt;/strong&gt;&lt;/em&gt; means the emotion that involves detestation or vilification and that is stronger than disdain or dislike; (&lt;em&gt;haine&lt;/em&gt;)”&lt;/p&gt;
+&lt;p&gt;It will also add in 319(6): “For greater certainty, the communication of a statement does not incite or promote hatred, for the purposes of this section, solely because it discredits, humiliates, hurts or offends.”&lt;/p&gt;
+&lt;p&gt;I’m not convinced that C-9 lowers the bar for criminalizing hate speech by adding &lt;em&gt;these&lt;/em&gt; provisions.&lt;/p&gt;
+&lt;h3 id=&#34;new-offences&#34;&gt;New offences&lt;/h3&gt;
+&lt;p&gt;C-9 also adds three new offences. Cutting and pasting here from the DoJ’s &lt;a href=&#34;https://www.canada.ca/en/department-justice/news/2025/09/combatting-hate-act-proposed-legislation-to-protect-communities-against-hate.html&#34;&gt;press release&lt;/a&gt;, the bill will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Make it a crime to willfully intimidate and obstruct people from accessing places of worship, as well as schools, community centres and other places primarily used by an identifiable group.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make hate-motivated crime a specific offence, ensuring such conduct is more clearly denounced and that offenders are held accountable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make it a crime to wilfully promote hatred against an identifiable group by displaying certain terrorism [i.e., listed entity] or hate symbols in public.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The second and third offences will apply to speech online. I say this because the third offence (wilful promotion of hatred by displaying in public symbols of a terrorist group) will be slotted into 319, thus drawing on the definition of ‘public place’ noted above.&lt;/p&gt;
+&lt;p&gt;The second offence here — committing any indictable offence when “motivated by hatred based on race, national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation or gender identity or expression” — points to the new definition of hatred to be added to 319(7).&lt;/p&gt;
+&lt;p&gt;But it will apply to speech online by virtue of the included offence possibly being 319(1) or (2). For example, if a white supremacist posts antisemitic or Islamophobic content on a blog or social media platform that meets the test for public incitement or wilful promotion under 319(1) or (2), they can be charged with this additional offence.&lt;/p&gt;
+&lt;p&gt;Anaïs Bussières McNicoll of the Canadian Civil Liberties Association &lt;a href=&#34;https://ccla.org/press-release/ccla-bill-c-9-risks-criminalizing-peaceful-protest/&#34;&gt;believes&lt;/a&gt; the new hate-motivation offence may violate the presumption of innocence:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The new hate crime offence risks stigmatizing defendants throughout the entire judicial process, while they are still presumed innocent. The sentencing judge should continue to be responsible for labeling a defendant’s motivations and weighing their aggravating impact on sentencing, once a defendant has been found guilty of a criminal offence and all relevant evidence has been heard.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;is-the-new-displaying-hate-symbols-offence-redundant&#34;&gt;Is the new ‘displaying hate symbols’ offence redundant?&lt;/h3&gt;
+&lt;p&gt;Richard Moon, Canada’s leading authority on the Charter right to free speech, in a &lt;a href=&#34;https://cfe.torontomu.ca/blog/2025/09/flying-flag-kneecap-and-bill-c-9&#34;&gt;post&lt;/a&gt; offering initial impressions of C-9, put his finger on a key issue about the wilful promotion by flag-waving offence: it doesn’t appear to capture anything new.&lt;/p&gt;
+&lt;p&gt;As Moon writes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is unclear what this provision adds to the existing ban [on wilful promotion of hatred] and indeed whether it will prohibit the public display of the Hezbollah or Hamas flags, which seems to be its purpose.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The public display of a Nazi flag will ordinarily be viewed as communication that wilfuly promotes hatred, contrary to both the existing code provision and the new provision in Bill C-9. But… it is less clear that the display of the flags of Hezbollah, Hamas, or the Popular Front for the Liberation of Palestine can be seen, at least beyond a reasonable doubt, as “wilfully” promoting racial or religious hatred, since the formal mandate of these groups is anti-Zionist rather than antisemitic.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Put otherwise, waving a Nazi flag can only imply wilful promotion of hatred; waving the flag of a group whose meaning is ambiguous (terrorist org or, as some believe, the resistance) could only be wilful promotion if accompanied by other statements that tie the flag waving to hatred rather some other belief.&lt;/p&gt;
+&lt;p&gt;Which is really just a way of saying: you can’t prove wilful promotion by flag waving unless you can prove it’s wilful promotion. And if you can do that, then you don’t need this new offence.&lt;/p&gt;
+&lt;p&gt;I agree with Moon that this new offence may be “simply performative.”&lt;/p&gt;
+&lt;p&gt;But then what did Justice Minister, Sean Fraser, mean when he said in the press conference introducing C-9 that these new provisions don’t ban wearing these symbols as you walk down the street — including Nazi insignia? (As the &lt;a href=&#34;https://www.theglobeandmail.com/politics/article-anti-hate-bill-sean-fraser-places-worship-religious-schools/&#34;&gt;Globe reports&lt;/a&gt;, Fraser said that whether it’s criminal would “depend upon the person’s behaviour and the circumstances.”)&lt;/p&gt;
+&lt;p&gt;The bill contemplates a fine line between walking down the street with a Nazi t-shirt and standing on the steps of the Art Gallery in Vancouver (where large protests take place) and waving a big Nazi flag. In the one case, you are merely expressing a belief; in the other, you are wilfully promoting hatred because the &lt;em&gt;public display&lt;/em&gt; — i.e., flag waving, rather than merely wearing — entails &lt;em&gt;promotion&lt;/em&gt; of hated rather than mere expression.&lt;/p&gt;
+&lt;p&gt;Again, I think we have this in 319(2) as it is. I don’t see how the new offence makes it easier for Crown to obtain a conviction for wilful promotion — with or without public display of a symbol — than it is now.&lt;/p&gt;
+&lt;h3 id=&#34;the-possible-return-of-a-human-rights-law-on-hate-speech&#34;&gt;The possible return of a human rights law on hate speech?&lt;/h3&gt;
+&lt;p&gt;Bill C-36, as you may recall, contained a version of the second offence here — making it a new offence to commit an indictable offence when motivated by hate — and combined it with the revival of a provision rescinded from the Canadian Human Rights Act in 2013 that allowed for a human rights complaint for hate speech.&lt;/p&gt;
+&lt;p&gt;C-36 proposed to revive the old section 13 of the Act to make it a discriminatory practice to communicate “hate speech by means of the Internet… in a context in which the hate speech is likely to foment detestation or vilification of an individual or group of individuals on the basis of a prohibited ground of discrimination.”&lt;/p&gt;
+&lt;p&gt;The bill codified the Supreme Court’s more limited definition of hatred in Whatcott, restricting the potential scope of a human rights action against hate speech.&lt;/p&gt;
+&lt;p&gt;Briefly, in Whatcott the Court held that a provision in Saskatchewan’s human rights law banning hate speech violated s. 2(b) for being overbroad. The Court read in a more restricted definition of hatred — excluding the standard of “ridicules, belittles or otherwise affronts the dignity of” — and found the provision to be a reasonable limit under section 1.&lt;/p&gt;
+&lt;p&gt;We may see the return of this provision this fall. I’ll save a discussion of its merits if and when a new bill is tabled — and whether reviving a human rights remedy would help curb the polarization and algorithmic amplification of hate speech that are upending so much of our politics these days.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Authorship After AI</title>
       <link>https://www.robertdiab.ca/posts/authorship-ai/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>

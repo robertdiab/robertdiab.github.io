@@ -1,7 +1,7 @@
 @import 'fonts.css';
 
 body {
-    font-family: "Merriweather Sans", serif;
+    font-family: "Encode Sans Condensed", serif;
     margin: 0;
     padding: 0;
     background-color: #ffffff; /* white background */
@@ -11,12 +11,12 @@ body {
 @media screen and (max-width: 568px) {
 
   .sitelogo-field h1 {
-    padding-top: 40px;
+    padding-top: 30px;
     padding-bottom: 20px;
-    font-size: 28px;
+    font-size: 29px;
     color: #333;
-    font-family: 'Merriweather Sans';
-    font-weight: 300;
+    font-family: 'Encode Sans Condensed';
+    font-weight: 400;
 
   }
 
@@ -37,14 +37,14 @@ nav ul {
     padding: 0;
     margin: 0;
     color: black;
-    font-family: 'Merriweather Sans';
+    font-family: 'Encode Sans Condensed';
 }
 
 nav ul li a {
     color: #333; /* dark links */
     text-decoration: none;
-    font-size: 18px; /* Menu items */
-    font-weight: 300;
+    font-size: 19px; /* Menu items */
+    font-weight: 400;
 }
 
 nav ul li a.active {
@@ -68,8 +68,8 @@ nav ul li-2 {
 nav ul li-2 a {
 color: #333; /* dark links */
 text-decoration: none;
-font-size: 18px; /* Menu items */
-font-weight: 300;
+font-size: 19px; /* Menu items */
+font-weight: 400;
 }
 
 nav ul li-2 a.active {
@@ -115,9 +115,8 @@ p a:hover {
 .sidenav {
   float: right;
   padding: 20px 20px;
-  font-weight: 300;
-  font-family: 'Merriweather Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
+  font-family: 'Encode Sans Condensed', sans-serif;
   color: #333333;
   max-width: 80px;
 
@@ -147,11 +146,12 @@ text-decoration: none;
   color: grey;
 }
 
+/*bio-text*/
 .smallnav p {
-    font-size: 13px;
+    font-size: 13px !important;
     color: black;
     line-height: 1.4em;
-    font-family: 'Merriweather Sans', sans-serif !important;
+    font-family: 'Encode Sans Condensed', sans-serif !important;
     }
 
 .recent-posts {
@@ -180,9 +180,9 @@ text-decoration: none;
 /*font, layout for research and writing*/
 p {
   color: #2c2c2a;
-  font-family: 'Merriweather Sans', serif !important;
-  font-weight: 300 !important;
-  font-size: 15px;
+  font-family: 'Open Sans', serif !important;
+  font-weight: 400 !important;
+  font-size: .95em;
   line-height: 1.6em;
 
   }
@@ -247,7 +247,7 @@ p {
   font-weight: 300;
   color: grey;
   line-height: 2.2em;
-  font-family: 'Merriweather Sans';
+  font-family: 'Encode Sans Condensed';
 }
 
 .nonpost-content {
@@ -259,14 +259,14 @@ p {
 }
 
 .nonpost-content p {
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Encode Sans Condensed', sans-serif;
   font-weight: 300;
 }
 
 .nonpost-content h3 {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 400;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: #333333;
   padding-top: 15px;
 }
@@ -280,19 +280,19 @@ p {
 }
 
 .post-content p {
-  font-family: 'Merriweather Sans', serif;
-  font-weight: 300;
-  font-size: .95em;
-  line-height: 1.65em;
+  font-family: 'Open Sans', serif;
+  font-weight: 400 !important;
+  font-size: 1.05em;
+  line-height: 1.6em;
   color: black;
 }
 
 .post-title {
-  font-size: 22px;
+  font-size: 28px;
   letter-spacing: 0.005rem;
   font-weight: 500;
   line-height: 32px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: #333333;
 }
 
@@ -307,13 +307,13 @@ p {
       }
 
 .post-content h3 {
-  font-size: 19px;
+  font-size: 22px;
   font-weight: 400;
   font-style: bold;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: #333333;
-  line-height: 1.5em;
-  padding-top: 14px;
+  line-height: 1.3em;
+  padding-top: 10px;
 }
 
 .read-more {
@@ -340,7 +340,7 @@ text-decoration: none;
   line-height: 30px;
   padding: 19px 60px 40px 0px;
   margin-left: 20px;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Encode Sans Condensed', sans-serif;
   font-weight: 300;
   }
 
@@ -349,13 +349,13 @@ text-decoration: none;
    text-decoration: none;
   }
 
-.archive-page-title {
-  font-size: 1.2rem;
-  font-weight: 300;
+.date-page-title {
+  font-size: 1.4rem !important;
+  font-weight: 400;
 }
 
 .archive__group-year-header {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 400;
 
 }
@@ -367,15 +367,15 @@ text-decoration: none;
 }
 
 .archive__post-title {
-    font-size: .95rem;
+    font-size: 1.05rem;
     font-weight: 300;
     line-height: 24px;
     padding-top: 10px;
-    font-family: 'Merriweather Sans', serif;
+    font-family: 'Encode Sans Condensed', serif;
 }
 
 .archive__post-date {
-    font-size: .8rem;
+    font-size: .9rem;
     color:grey;
 }
 
@@ -387,24 +387,24 @@ text-decoration: none;
   font-size: 1.1em;
   font-weight: 300;
   font-style: bold;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: grey;
 }
 
 .topic {
 line-height: 30px;
 padding: 15px 40px 40px 0px;
-font-family: 'Merriweather Sans';
-font-weight: 300;
+font-family: 'Encode Sans Condensed';
+font-weight: 400;
 color: black !important;
 }
 
 .topic-page-title h2 {
-  font-size: 1.1em;
-  font-weight: 300;
+  font-size: 1.4em;
+  font-weight: 400;
   font-style: bold;
   padding-left: 20px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
   color: grey;
 }
 
@@ -414,9 +414,9 @@ color: black !important;
 
 .topicword {
   font-size: 1.1em;
-  padding-top: 15px;
+  padding-top: 5px;
   padding-bottom: 5px;
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Encode Sans Condensed', serif;
 }
 
 .topic a {
@@ -425,7 +425,7 @@ color: black !important;
   }
 
 .topic-post {
-      font-size: .9em;
+      font-size: 1em;
       max-width: 480px;
   }
 
@@ -448,7 +448,7 @@ blockquote, blockquote p, blockquote span {
 }
 
 .page-nav a {
-font-family: 'Merriweather Sans', serif;
+font-family: 'Encode Sans Condensed', serif;
 font-weight: 300;
 font-size: .9em;
  color:grey;
@@ -504,7 +504,7 @@ text-decoration: none;
     text-align: center;
   }
   .bottomhomelinks a {
-    font-family: 'Merriweather Sans', serif;
+    font-family: 'Encode Sans Condensed', serif;
     font-weight: 300;
      color:black;
      text-decoration: none;
@@ -614,6 +614,11 @@ text-decoration: none;
           p {
             color: white;
 
+            }
+
+            ul li::marker,
+            ol li::marker {
+              color: white;
             }
 
           p a {
@@ -745,7 +750,7 @@ text-decoration: none;
                                            }
 
                                            .bottomhomelinks a {
-                                             font-family: 'Merriweather Sans', serif;
+                                             font-family: 'Encode Sans Condensed', serif;
                                              font-weight: 300;
                                               color:white;
                                               text-decoration: none;
