@@ -16,7 +16,7 @@ body {
     font-size: 28px;
     color: #333;
     font-family: 'IBM Plex Sans';
-    font-weight: 300;
+    font-weight: 400;
 
   }
 
@@ -44,7 +44,7 @@ nav ul li a {
     color: #333; /* dark links */
     text-decoration: none;
     font-size: 18px; /* Menu items */
-    font-weight: 300;
+    font-weight: 400;
 }
 
 nav ul li a.active {
@@ -69,7 +69,7 @@ nav ul li-2 a {
 color: #333; /* dark links */
 text-decoration: none;
 font-size: 18px; /* Menu items */
-font-weight: 300;
+font-weight: 400;
 }
 
 nav ul li-2 a.active {
@@ -82,7 +82,7 @@ header {
     align-items: center;
     padding: 10px;
     position: relative; /* Ensure positioning context for the pseudo-element */
-    font-weight: 300;
+    font-weight: 400;
     color: #333; /* Set the text color */
 }
 
@@ -115,9 +115,9 @@ p a:hover {
 .sidenav {
   float: right;
   padding: 20px 20px;
-  font-weight: 300;
+  font-weight: 400;
   font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   color: #333333;
   max-width: 80px;
 
@@ -181,7 +181,7 @@ text-decoration: none;
 p {
   color: #2c2c2a;
   font-family: 'IBM Plex Sans', serif !important;
-  font-weight: 300 !important;
+  font-weight: 400 !important;
   font-size: 15px;
   line-height: 1.6em;
 
@@ -244,7 +244,7 @@ p {
 
 .post-date {
   font-size: .9em;
-  font-weight: 300;
+  font-weight: 400;
   color: grey;
   line-height: 2.2em;
   font-family: 'IBM Plex Sans';
@@ -260,7 +260,7 @@ p {
 
 .nonpost-content p {
   font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .nonpost-content h3 {
@@ -282,7 +282,7 @@ p {
 /* body text */
 .post-content p {
   font-family: 'IBM Plex Sans', serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: .95em;
   line-height: 1.6em !important;
   color: black;
@@ -342,7 +342,7 @@ text-decoration: none;
   padding: 19px 60px 40px 0px;
   margin-left: 20px;
   font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   }
 
 .archive a {
@@ -352,7 +352,7 @@ text-decoration: none;
 
 .archive-page-title {
   font-size: 1.2rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .archive__group-year-header {
@@ -369,7 +369,7 @@ text-decoration: none;
 
 .archive__post-title {
     font-size: .95rem;
-    font-weight: 300;
+    font-weight: 400;
     line-height: 24px;
     padding-top: 10px;
     font-family: 'IBM Plex Sans', serif;
@@ -386,7 +386,7 @@ text-decoration: none;
 
 .date-page-title h2 {
   font-size: 1.1em;
-  font-weight: 300;
+  font-weight: 400;
   font-style: bold;
   font-family: 'IBM Plex Sans', serif;
   color: grey;
@@ -396,13 +396,13 @@ text-decoration: none;
 line-height: 30px;
 padding: 15px 40px 40px 0px;
 font-family: 'IBM Plex Sans';
-font-weight: 300;
+font-weight: 400;
 color: black !important;
 }
 
 .topic-page-title h2 {
   font-size: 1.1em;
-  font-weight: 300;
+  font-weight: 400;
   font-style: bold;
   padding-left: 20px;
   font-family: 'IBM Plex Sans', serif;
@@ -450,7 +450,7 @@ blockquote, blockquote p, blockquote span {
 
 .page-nav a {
 font-family: 'IBM Plex Sans', serif;
-font-weight: 300;
+font-weight: 400;
 font-size: .9em;
  color:grey;
  text-decoration: none;
@@ -506,7 +506,7 @@ text-decoration: none;
   }
   .bottomhomelinks a {
     font-family: 'IBM Plex Sans', serif;
-    font-weight: 300;
+    font-weight: 400;
      color:black;
      text-decoration: none;
     }
@@ -752,7 +752,7 @@ text-decoration: none;
 
                                            .bottomhomelinks a {
                                              font-family: 'IBM Plex Sans', serif;
-                                             font-weight: 300;
+                                             font-weight: 400;
                                               color:white;
                                               text-decoration: none;
                                              }
