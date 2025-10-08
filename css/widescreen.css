@@ -290,6 +290,10 @@ img[alt$="*"] {
   line-height: 30px;
 }
 
+.read-more {
+    font-size: 17px !important;
+}
+
 .post-title {
   font-size: 28px;
   letter-spacing: 0.005rem;

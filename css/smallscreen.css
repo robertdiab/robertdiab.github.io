@@ -288,6 +288,11 @@ p {
   color: black;
 }
 
+  .read-more {
+      font-size: 1em !important;
+  }
+}
+
 .post-title {
   font-size: 22px;
   letter-spacing: 0.005rem;
