@@ -14,7 +14,7 @@ body {
     padding-top: 18px;
     padding-bottom: 18px;
     font-size: 28px;
-    color: #333;
+    color: #36454F;
     font-family: 'IBM Plex Sans';
     font-weight: 400;
 
@@ -36,12 +36,12 @@ nav ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    color: black;
+    color: #36454F;
     font-family: 'IBM Plex Sans';
 }
 
 nav ul li a {
-    color: #333; /* dark links */
+    color: #36454F; /* dark links */
     text-decoration: none;
     font-size: 18px; /* Menu items */
     font-weight: 400;
@@ -66,7 +66,7 @@ nav ul li-2 {
   }
 
 nav ul li-2 a {
-color: #333; /* dark links */
+color: #36454F; /* dark links */
 text-decoration: none;
 font-size: 18px; /* Menu items */
 font-weight: 400;
@@ -83,7 +83,7 @@ header {
     padding: 10px;
     position: relative; /* Ensure positioning context for the pseudo-element */
     font-weight: 400;
-    color: #333; /* Set the text color */
+    color: #36454F; /* Set the text color */
 }
 
 header::before {
@@ -116,9 +116,8 @@ p a:hover {
   float: right;
   padding: 20px 20px;
   font-weight: 400;
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 400;
-  color: #333333;
+  font-family: 'Roboto Flex';  font-weight: 400;
+  color: #36454F333;
   max-width: 80px;
 
 }
@@ -129,7 +128,7 @@ text-decoration: none;
 }
 
 .sidenav a:hover {
-color: black;
+color: #36454F;
 text-decoration: none;
 }
 
@@ -139,25 +138,30 @@ text-decoration: none;
 }
 
 .navtitle {
-  font-size: 16px;
+  font-size: 15px;
+  font-family: 'Roboto Flex', sans-serif !important;
 }
 
 .smallnav {
   font-size: 14px;
   color: grey;
+  line-height: 18px !important;
+
 }
 
+/*bio-text*/
 .smallnav p {
     font-size: 13px;
-    color: black;
-    line-height: 1.4em;
+    color: #36454F;
+    line-height: 18px;
     font-family: 'Roboto Flex', sans-serif !important;
     }
 
 .recent-posts {
   margin-top: 7px;
   max-width: 80px;
-  line-height: 21px;
+  line-height: 19px;
+      font-family: 'IBM Plex Sans', sans-serif !important;
 }
 
 .recent-posts a {
@@ -165,11 +169,16 @@ text-decoration: none;
 }
 
 .navtitle-earlier {
+  font-size: 15px !important;
+  line-height: 18px !important;
+
 }
 
 .earlier-posts {
   max-width: 80px;
-  line-height: 26px;
+  line-height: 25px;
+  font-size: 15px !important;
+
 }
 
 .earlier-posts a {
@@ -267,7 +276,7 @@ p {
   font-size: 18px;
   font-weight: 400;
   font-family: 'IBM Plex Sans', serif;
-  color: #333333;
+  color: #36454F333;
   padding-top: 15px;
 }
 
@@ -285,7 +294,7 @@ p {
   font-weight: 400;
   font-size: .95em;
   line-height: 1.6em !important;
-  color: black;
+  color: #36454F;
 }
 
   .read-more {
@@ -299,11 +308,11 @@ p {
   font-weight: 500;
   line-height: 30px;
   font-family: 'IBM Plex Sans', serif;
-  color: #333333;
+  color: #36454F333;
 }
 
 .post-title a {
-   color: #333333;
+   color: #36454F333;
    text-decoration: none;
   }
 
@@ -317,7 +326,7 @@ p {
   font-weight: 400;
   font-style: bold;
   font-family: 'IBM Plex Sans', serif;
-  color: #333333;
+  color: #36454F333;
   line-height: 1.5em;
   padding-top: 14px;
 }
@@ -351,7 +360,7 @@ text-decoration: none;
   }
 
 .archive a {
-   color: #333333;
+   color: #36454F333;
    text-decoration: none;
   }
 
@@ -369,7 +378,7 @@ text-decoration: none;
 .archive__group-month-header {
     font-size: 1rem;
     font-weight: 400;
-    color: #333333;
+    color: #36454F333;
 }
 
 .archive__post-title {
@@ -402,7 +411,7 @@ line-height: 30px;
 padding: 15px 40px 40px 0px;
 font-family: 'IBM Plex Sans';
 font-weight: 400;
-color: black !important;
+color: #36454F !important;
 }
 
 .topic-page-title h2 {
@@ -426,7 +435,7 @@ color: black !important;
 }
 
 .topic a {
-   color: #333333;
+   color: #36454F333;
    text-decoration: none;
   }
 
@@ -512,7 +521,7 @@ text-decoration: none;
   .bottomhomelinks a {
     font-family: 'IBM Plex Sans', serif;
     font-weight: 400;
-     color:black;
+     color:#36454F;
      text-decoration: none;
     }
 
@@ -590,14 +599,14 @@ text-decoration: none;
     @media (prefers-color-scheme: dark) {
 
         body {
-        background-color: #333333; /* Dark background */
+        background-color: #36454F333; /* Dark background */
 
         header h1, nav ul li a {
             color: white !important; /*  text color */
         }
 
         nav ul li p1 {
-          color: black !important;
+          color: #36454F !important;
 
         }
 
