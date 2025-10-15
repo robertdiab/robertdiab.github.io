@@ -152,7 +152,7 @@ text-decoration: none;
 .smallnav p {
     font-size: 15px;
     color: black;
-    font-family: 'IBM Plex Sans', sans-serif !important;
+    font-family: 'Roboto Flex', sans-serif !important;
     line-height: 1.55em !important;
     }
 
@@ -283,7 +283,7 @@ img[alt$="*"] {
 
 /*body text*/
 .post-content p {
-  font-family: 'IBM Plex Sans', sans-serif !important;
+  font-family: 'Roboto Flex', sans-serif !important;
   font-weight: 400 !important;
   font-size: 17.5px;
   color: black;

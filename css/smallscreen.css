@@ -151,7 +151,7 @@ text-decoration: none;
     font-size: 13px;
     color: black;
     line-height: 1.4em;
-    font-family: 'IBM Plex Sans', sans-serif !important;
+    font-family: 'Roboto Flex', sans-serif !important;
     }
 
 .recent-posts {
@@ -281,7 +281,7 @@ p {
 
 /* body text */
 .post-content p {
-  font-family: 'IBM Plex Sans', serif;
+  font-family: 'Roboto Flex', serif !important;
   font-weight: 400;
   font-size: .95em;
   line-height: 1.6em !important;
