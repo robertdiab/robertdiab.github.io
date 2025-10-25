@@ -321,7 +321,7 @@ img[alt$="*"] {
     }
 
 .post-content h3 {
-  font-size: 23px;
+  font-size: 24px;
   line-height: 1.3em;
   font-weight: 400;
   font-style: bold;
@@ -608,7 +608,9 @@ text-decoration: none;
 @media (prefers-color-scheme: dark) {
 
     body {
-    background-color: #36454F333; /* Dark background */
+    background-color: #36454F; /* Dark background */
+    color: white;
+    }
 
     header h1, nav ul li a {
         color: white !important; /* White text color */
@@ -632,12 +634,16 @@ text-decoration: none;
   a {
           color: #81BEF7; /* Link color */
           text-decoration: none; /* Remove underline */
-      }}
+      }
 
 
       p {
         color: white;
+        }
 
+        .sitelogo-field a {
+          color: inherit;
+          text-decoration: none;
         }
 
         ul li::marker,
@@ -659,9 +665,6 @@ text-decoration: none;
 
       .content p {
         color: white;
-      }
-
-      .content a {
       }
 
       .content a:hover {
