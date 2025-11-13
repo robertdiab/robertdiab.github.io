@@ -12,9 +12,9 @@ body {
 
 .sitelogo-field h1 {
   padding-bottom: 0px;
-  font-size: 32px;
-  color: #36454F;
-  font-family: 'IBM Plex Sans';
+  font-size: 33px;
+  color: #5E5E5E;
+  font-family: 'PT Sans';
   font-weight: 400;
 
 }
@@ -28,29 +28,30 @@ nav ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    color: #36454F;
-    font-family: 'IBM Plex Sans';
-    font-size: 22.5px; /* Menu items */
+    color: #5E5E5E;
+    font-family: 'PT Sans';
+    font-size: 23px; /* Menu items */
 }
 
 nav ul li {
     display: inline;
     margin-right: 2px;
+        color: #5E5E5E;
 }
 
 nav ul li a {
-    color: #36454F; /* dark links */
+    color: #5E5E5E; /* dark links */
     text-decoration: none;
-    font-size: 21.5px; /* Menu items */
+    font-size: 23px; /* Menu items */
     font-weight: 400;
 }
 
 nav ul li a.active {
-      color: #2274A5;
+      color: #5E5E5E;
 }
 
 nav ul li p1 {
-  color: #36454F;
+  color: #5E5E5E;
   margin-left: 7px;
 }
 
@@ -59,17 +60,18 @@ nav ul li-2 {
     display: inline;
     margin-right: 18px;
     margin-left: -1px;
+    color: #5E5E5E;
 }
 
 nav ul li-2 a {
-    color: #36454F; /* dark links */
     text-decoration: none;
-    font-size: 21.5px; /* Menu items */
+    font-size: 2wpx; /* Menu items */
     font-weight: 400;
+    color: #5E5E5E;
 }
 
 nav ul li-2 a.active {
-      color: #2274A5;
+      color: #5E5E5E;
 }
 
 
@@ -95,7 +97,7 @@ header::before {
     background-size: cover; /* Ensure the image covers the entire header */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     background-position: center center; /* Center the image */
-    opacity: 0.08; /* Set the opacity to 20% */
+    opacity: 0.10; /* Set the opacity to 20% */
     z-index: -1; /* Ensure the pseudo-element is behind the header content */
 }
 
@@ -114,7 +116,7 @@ p a:hover {
   float: right;
   overflow-x: hidden;
   padding: 30px 20px;
-  font-family: 'Roboto Flex';
+  font-family: 'PT Sans';
   font-weight: 400;
   line-height: 1.7em;
   color: #36454F;
@@ -136,11 +138,22 @@ text-decoration: none;
   text-decoration: none;
   }
 
+/*recent posts title*/
 .navtitle {
   font-size: 16px;
-  line-height: 2.1em;
-  font-family: 'Roboto Flex', sans-serif !important;
+  line-height: 2.3em;
+  font-family: 'PT Sans', sans-serif !important;
+  font-weight: 700;
+    color: #5E5E5E;
 
+}
+
+.navtitle-earlier {
+  font-size: 16px;
+  line-height: 2.1em;
+  font-family: 'PT Sans', sans-serif !important;
+  font-weight: 700;
+    color: #5E5E5E;
 }
 
 .smallnav {
@@ -154,7 +167,7 @@ text-decoration: none;
 .smallnav p {
     font-size: 15px;
     color: #36454F;
-    font-family: 'Roboto Flex', sans-serif !important;
+    font-family: 'PT Sans', sans-serif !important;
     line-height: 1.55em !important;
     }
 
@@ -162,7 +175,7 @@ text-decoration: none;
   max-width: 130px;
   line-height: 1.55em !important;
   font-size: 14.5px;
-    font-family: 'IBM Plex Sans', sans-serif !important;
+    font-family: 'PT Sans', sans-serif !important;
 }
 
 .recent-posts a {
@@ -172,7 +185,7 @@ text-decoration: none;
 .earlier-posts {
   max-width: 130px;
   line-height: 1.55em !important;
-  font-family: 'IBM Plex Sans', sans-serif !important;
+  font-family: 'PT Sans', sans-serif !important;
   font-size: 15px;
 }
 
@@ -184,7 +197,7 @@ text-decoration: none;
 /*font, layout for research and writing*/
 p {
   color: #36454F;
-  font-family: 'IBM Plex Sans', sans-serif !important;
+  font-family: 'PT Sans', sans-serif !important;
   font-weight: 400 !important;
   font-size: 17px;
   line-height: 1.65em;
@@ -253,7 +266,7 @@ img[alt$="*"] {
   font-weight: 400;
   line-height: 2.5em;
   color: grey;
-  font-family: 'IBM Plex Sans';
+  font-family: 'PT Sans';
 }
 
 .nonpost-content {
@@ -264,15 +277,15 @@ img[alt$="*"] {
 }
 
 .nonpost-content p {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: 400;
 }
 
 .nonpost-content h3 {
   font-size: 23px;
-  font-weight: 400;
+  font-weight: 700;
   font-style: bold;
-  font-family: 'IBM Plex Sans', serif;
+  font-family: 'PT Sans', serif;
   color: #5E5E5E;
   padding-top: 20px;
 }
@@ -287,11 +300,11 @@ img[alt$="*"] {
 
 /*body text*/
 .post-content p {
-  font-family: 'Roboto Flex', sans-serif !important;
+  font-family: 'PT Sans', sans-serif !important;
   font-weight: 400 !important;
   font-size: 18px;
-  color: #36454F;
-  line-height: 30px;
+  color: #60,60,61;
+  line-height: 28px;
 }
 
 .read-more {
@@ -299,19 +312,19 @@ img[alt$="*"] {
 }
 
 .post-title {
-  font-size: 28px;
+  font-size: 32px;
   letter-spacing: 0.005rem;
   max-width: 580px;
-  line-height: 1.4em;
-  font-family: 'IBM Plex Sans', serif;
-  font-weight: 400;
-  color: rgba(0, 0, 0, 0.8);
+  line-height: 38px;
+  font-family: 'PT Sans', serif;
+  font-weight: 700;
+  color: #5E5E5E;
   margin-bottom: 5px;
 }
 
 .post-title a {
-  color: rgba(0, 0, 0, 0.8);
-  font-weight: 400;
+  color: #5E5E5E;
+  font-weight: 700;
   text-decoration: none;
   }
 
@@ -322,11 +335,11 @@ img[alt$="*"] {
 
 .post-content h3 {
   font-size: 24px;
-  line-height: 1.3em;
-  font-weight: 400;
+  line-height: 28px;
+  font-weight: 700;
   font-style: bold;
-  font-family: 'IBM Plex Sans', serif;
-  color: #36454F333;
+  font-family: 'PT Sans', serif;
+  color: #5E5E5E;
   padding-top: 15px;
 }
 
@@ -353,18 +366,18 @@ text-decoration: none;
 .archive {
   line-height: 30px;
   padding: 21px 60px 40px 60px;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: 400;
 }
 
 .archive a {
-   color: #36454F333;
+   color: #36454F;
    text-decoration: none;
   }
 
 .archive-page-title {
   font-size: 1.5rem;
-}
+  }
 
 .archive__group-year-header {
   font-size: 1.2rem;
@@ -383,13 +396,13 @@ text-decoration: none;
     max-width: 600px;
     line-height: 30px;
     padding-top: 5px;
-    font-family: 'IBM Plex Sans', serif;
+    font-family: 'PT Sans', serif;
 }
 
 .archive__post-date {
     font-size: .95rem;
     color: grey;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
 }
 
 .archive__post-read-time {
@@ -397,26 +410,24 @@ text-decoration: none;
 }
 
 .date-page-title h2 {
-  font-size: 21px;
-  font-weight: 400;
-  font-style: bold;
-  font-family: 'IBM Plex Sans', serif;
+  font-size: 28px;
+  font-weight: 700;
+  font-family: 'PT Sans', serif;
   color: grey;
 }
 
 .topic {
 line-height: 30px;
 padding: 21px 60px 40px 10px;
-font-family: 'IBM Plex Sans';
+font-family: 'PT Sans';
 font-weight: 400;
 }
 
 .topic-page-title h2 {
-  font-size: 21px;
-  font-weight: 400;
-  font-style: bold;
+  font-size: 28px;
+  font-weight: 700;
   padding-left: 20px;
-  font-family: 'IBM Plex Sans', serif;
+  font-family: 'PT Sans', serif;
   color: grey;
 }
 
@@ -424,7 +435,7 @@ font-weight: 400;
   font-size: 20px;
   padding-top: 20px;
   padding-bottom: 10px;
-  font-family: 'IBM Plex Sans', serif;
+  font-family: 'PT Sans', serif;
 }
 
 
@@ -457,7 +468,7 @@ blockquote, blockquote p, blockquote span {
 }
 
 .page-nav a {
-font-family: 'IBM Plex Sans', serif;
+font-family: 'PT Sans', serif;
 font-weight: 400;
  color:grey;
  text-decoration: none;
@@ -511,12 +522,11 @@ text-decoration: none;
   box-shadow: 0 0 5px .2px grey;
   }
 
-
 .bottomhomelinks {
   text-align: center;
 }
 .bottomhomelinks a {
-  font-family: 'IBM Plex Sans', serif;
+  font-family: 'PT Sans', serif;
   font-weight: 400;
    color:#36454F;
    text-decoration: none;
@@ -703,6 +713,13 @@ text-decoration: none;
             line-height: 1.7em;
             }
 
+.navtitle {
+  color: white;
+}
+
+.navtitle-earlier {
+  color: white;
+}
 
         .recent-posts a {
           color: #d3d3d3;
@@ -732,7 +749,7 @@ text-decoration: none;
                .archive {
                  line-height: 30px;
                  padding: 21px 60px 40px 60px;
-                 font-family: 'IBM Plex Sans', sans-serif;
+                 font-family: 'PT Sans', sans-serif;
                  font-weight: 400;
                  color: white;
                }
@@ -763,7 +780,7 @@ text-decoration: none;
                    max-width: 600px;
                    line-height: 30px;
                    padding-top: 10px;
-                   font-family: 'IBM Plex Sans', serif;
+                   font-family: 'PT Sans', serif;
                }
 
                .archive__post-date {
@@ -778,7 +795,7 @@ text-decoration: none;
                .topic {
                line-height: 30px;
                padding: 21px 60px 40px 10px;
-               font-family: 'IBM Plex Sans';
+               font-family: 'PT Sans';
                font-weight: 400;
                color: white;
                }
@@ -788,7 +805,7 @@ text-decoration: none;
                  font-weight: 400;
                  font-style: bold;
                  padding-left: 40px;
-                 font-family: 'IBM Plex Sans', serif;
+                 font-family: 'PT Sans', serif;
                  color: white;
                }
 
@@ -797,7 +814,7 @@ text-decoration: none;
                  font-size: 23px;
                  padding-top: 20px;
                  padding-bottom: 10px;
-                 font-family: 'IBM Plex Sans', serif;
+                 font-family: 'PT Sans', serif;
                }
 
 
@@ -824,7 +841,7 @@ text-decoration: none;
 
 
                  .bottomhomelinks a {
-                   font-family: 'IBM Plex Sans', serif;
+                   font-family: 'PT Sans', serif;
                    font-weight: 400;
                     color:white;
                     text-decoration: none;
