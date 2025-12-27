@@ -3,19 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.robertdiab.ca/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://www.robertdiab.ca/tags/charter/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.robertdiab.ca/posts/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.robertdiab.ca/posts/bill-c8/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.robertdiab.ca/tags/privacy/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.robertdiab.ca/tags/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.robertdiab.ca/tags/ai/</loc>
     <lastmod>2025-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.robertdiab.ca/posts/fixing-c2/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.robertdiab.ca/posts/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.robertdiab.ca/tags/</loc>
     <lastmod>2025-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.robertdiab.ca/posts/lawful-intercept/</loc>
@@ -36,16 +45,10 @@
     <loc>https://www.robertdiab.ca/posts/c2backgrounder/</loc>
     <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.robertdiab.ca/tags/charter/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.robertdiab.ca/tags/lawful-access/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.robertdiab.ca/posts/strong-borders-search/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.robertdiab.ca/tags/privacy/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.robertdiab.ca/posts/deepresearch/</loc>
