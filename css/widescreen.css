@@ -1,10 +1,48 @@
 @import 'fonts.css';
 
+.formkit-powered-by-convertkit-container {
+  display: none !important;
+}
+
+/* --- FORCE LEFT ALIGN FOR THIS SPECIFIC KIT FORM --- */
+.sidenav .email .formkit-form[data-uid="28821e82dd"]{
+  max-width: 100% !important;
+  margin: 0 !important;
+  text-align: left !important;
+}
+
+/* Kill the "center me" margins inside the embed */
+.sidenav .email .formkit-form[data-uid="28821e82dd"] .formkit-fields{
+  margin: 0 !important;
+}
+
+/* Some Kit templates center inner wrappers too */
+.sidenav .email .formkit-form[data-uid="28821e82dd"] [data-style="clean"]{
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  text-align: left !important;
+}
+
+/* If anything is still visually centered because of flex alignment */
+.sidenav .email .formkit-form[data-uid="28821e82dd"] .formkit-fields{
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+}
+
+/* Make the embed behave in a 150px sidebar */
+.sidenav .email .formkit-form[data-uid="28821e82dd"]{
+  min-width: 0 !important;
+}
+
+.sidenav .email .formkit-submit {
+  margin-bottom: 0 !important;
+}
+
 body {
   float: center;
   margin: 0;
   max-width: 900px;
-  min-width: 600px;
   margin-left: auto;
   margin-right: auto;
   line-height: 27px;

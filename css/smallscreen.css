@@ -1,5 +1,10 @@
 @import 'fonts.css';
 
+/* Hide email subscribe form on small screens */
+.email {
+  display: none !important;
+}
+
 body {
     font-family: "PT Sans", serif;
     margin: 0;
