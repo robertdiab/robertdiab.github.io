@@ -678,6 +678,15 @@ text-decoration: none;
             color: #d3d3d3;
           }
 
+          .navtitle {
+            color: white;
+          }
+
+          .navtitle-earlier {
+            color: white;
+          }
+
+
           .sitelogo-field h1 {
             color: white;
           }
