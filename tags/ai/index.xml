@@ -9,7 +9,68 @@
     <language>en-US</language>
     <managingEditor>roberdiab@gmail.com (Robert Diab)</managingEditor>
     <webMaster>roberdiab@gmail.com (Robert Diab)</webMaster>
-    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Would banning kids from social media and AI be constitutional?</title>
+      <link>https://www.robertdiab.ca/posts/social-media-ban-charter/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <Params>roberdiab@gmail.com (Robert Diab)</Params>
+      <guid>https://www.robertdiab.ca/posts/social-media-ban-charter/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Probably not, for reasons that point to the limits of what Canada can do here&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Recently, governments in Manitoba and Ontario have &lt;a href=&#34;https://www.cbc.ca/news/politics/social-media-ai-minimum-age-9.7164902&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;signalled&lt;/a&gt;
+ their support for a ban on social media for children under 16 years of age, and last month, the federal Liberals passed a resolution to this effect at a party convention. Manitoba’s premier Wab Kinew and the national Liberal Party are also &lt;a href=&#34;https://www.cbc.ca/news/canada/manitoba/manitoba-social-media-age-restrictions-9.7177470&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;keen&lt;/a&gt;
+ to &lt;a href=&#34;https://www.cbc.ca/news/politics/social-media-ai-minimum-age-9.7164902&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ban&lt;/a&gt;
+ youth access to “all AI chatbots and other potentially harmful forms of AI interaction.”&lt;/p&gt;
+&lt;p&gt;Passing a complete ban would entail Canada following Australia’s lead, which, in late 2025, banned social media for everyone under 16. Governments in Europe have taken a less stringent approach by imposing age-verification and parental consent rules around social media access.&lt;/p&gt;
+&lt;p&gt;It remains to be seen whether Ottawa will choose the European or Australian path. But for reasons I sketch out here briefly, the European path seems more likely — and we may see the Carney government take this path when it soon re-tables the &lt;em&gt;Online Harms Act&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Many commentators have been &lt;a href=&#34;https://mgeist.substack.com/p/the-illusion-of-protection-why-canadas&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;critical&lt;/a&gt;
+ of the idea of Canada imposing a ban on social media or AI for young people due, among other reasons, to the fact that we have a &lt;em&gt;Charter of Rights and Freedoms&lt;/em&gt; that guarantees everyone a right to free expression.&lt;/p&gt;
+&lt;p&gt;If a ban on social media or AI would infringe this right, could it still be legal? Yes it could, because no right in the &lt;em&gt;Charter&lt;/em&gt; is absolute. All of our rights under the &lt;em&gt;Charter&lt;/em&gt; are subject to reasonable limits — as decided by the courts — under section 1. (And of course, in the case of limits to free expression, we the people have the final say under section 33.)&lt;/p&gt;
+&lt;p&gt;So if a ban on access to social media or AI from those under 16 would violate section 2(b) of the &lt;em&gt;Charter&lt;/em&gt;, would it be a reasonable limit on that right? No, it probably wouldn’t.&lt;/p&gt;
+&lt;p&gt;The thrust of this post is to briefly show what a challenge would look like and why access with parental consent or other guardrails is likely the furthest Canada can go in restricting youth from their favourite platform or chatbot.&lt;/p&gt;
+&lt;h3 id=&#34;who-would-challenge-the-ban-and-what-would-they-argue&#34;&gt;Who would challenge the ban and what would they argue?&lt;/h3&gt;
+&lt;p&gt;Three groups would have standing to challenge a ban: users under 16, creators, and platforms themselves.&lt;/p&gt;
+&lt;p&gt;The right to free expression under section 2(b) of the &lt;em&gt;Charter&lt;/em&gt; &lt;a href=&#34;https://canlii.ca/t/1ft6g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;protects&lt;/a&gt;
+ any activity that conveys or attempts to convey meaning — the sole exception being expression that takes a violent form.&lt;/p&gt;
+&lt;p&gt;The Supreme Court of Canada recognized in &lt;a href=&#34;https://canlii.ca/t/1ft9p&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;em&gt;Ford&lt;/em&gt;&lt;/a&gt;
+ and &lt;a href=&#34;https://canlii.ca/t/1ft6g&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;em&gt;Irwin Toy&lt;/em&gt;&lt;/a&gt;
+, seminal early cases on 2(b), that free expression protects communications between speaker and audience, which encompasses the right to hear or receive expression as well as to convey it.&lt;/p&gt;
+&lt;p&gt;Scrolling TikTok, Instagram, or querying a chatbot would all convey meaning. Users and content creators would easily make out a violation of 2(b). And so would the social media platforms themselves, on the basis that feed curation itself is a form of expression — or at least, our courts are likely to agree with the US Supreme Court &lt;a href=&#34;https://www.cigionline.org/articles/has-the-us-supreme-court-made-it-harder-to-regulate-social-media-or-the-opposite/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;on this point&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;What about OpenAI or Anthropic? Would language model composition or tuning be considered comparable to curation? A harder question. But speaking &lt;em&gt;to&lt;/em&gt; a chatbot would, I think, be captured by 2(b).&lt;/p&gt;
+&lt;h3 id=&#34;would-the-infringement-be-justified&#34;&gt;Would the infringement be justified?&lt;/h3&gt;
+&lt;p&gt;Government limits on rights can be valid under the &lt;em&gt;Charter&lt;/em&gt; so long as a court decides the limitation is reasonable. To decide this, the court applies a test set out in &lt;a href=&#34;https://canlii.ca/t/1ftv6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;em&gt;R v Oakes&lt;/em&gt;&lt;/a&gt;
+ (1986): the government must show (1) a pressing and substantial objective, and (2) proportionality — meaning a rational connection between the state’s purpose and the limit at issue; minimal impairment of the right; and the benefits of the law outweighing the severity of the rights violation.&lt;/p&gt;
+&lt;p&gt;Would the government have a ‘pressing and substantial objective’ in banning young people from access to social media or AI?&lt;/p&gt;
+&lt;p&gt;It would argue that the point of a ban is to protect children from online harms that include mental health damage, predatory behaviour, algorithmic manipulation, and exposure to harmful content. In &lt;em&gt;Irwin Toy&lt;/em&gt; itself, a case about restrictions on advertising to children, the Court held that protecting children as a “vulnerable group” from “media manipulation” is a pressing and substantial objective. The government would likely be safe here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rational connection&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The ban would have to be rationally connected to the government’s aim of reducing harm. The challengers would contest this.&lt;/p&gt;
+&lt;p&gt;Research on the relationship between social media use and adolescent mental health and other harms is contentious. In response to &lt;a href=&#34;https://jonathanhaidt.com/anxious-generation/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Jonathan Haidt&lt;/a&gt;
+ and &lt;a href=&#34;https://www.jeantwenge.com/10-rules-for-raising-kids-in-a-high-tech-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Jean Twenge&lt;/a&gt;
+’s well-known work on social media’s harmful impact on young people, a number of scholars have questioned the causal claims they make. Amy Orben and Andrew Przybylski&amp;rsquo;s large-dataset &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30944443/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;studies&lt;/a&gt;
+ have &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30939250/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;found&lt;/a&gt;
+ effect sizes too small to justify sweeping intervention, and researchers like Candice Odgers have &lt;a href=&#34;https://internet.psych.wisc.edu/wp-content/uploads/532-Master/532-UnitPages/Unit-11/Odgers_Nature_2024.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;argued&lt;/a&gt;
+ the evidence for social media as a primary driver of adolescent mental illness is weak to nonexistent.&lt;/p&gt;
+&lt;p&gt;The Supreme Court has, in some cases, including &lt;a href=&#34;https://canlii.ca/t/1fsdj&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;em&gt;Butler&lt;/em&gt;&lt;/a&gt;
+, shown deference to the government at this stage where social science evidence is contested. But challengers might argue that deference has limits, that a measure cannot be rationally connected to an objective on evidence that experts in the field actively dispute.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Minimal impairment&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The challengers would be on the strongest ground at the minimal impairment stage. Assuming the court were to accept a rational connection on a balance of probabilities, it would likely find the lack of strong evidence that a ban &lt;em&gt;specifically&lt;/em&gt; — and nothing short of it — would reduce harm to be fatal at this stage.&lt;/p&gt;
+&lt;p&gt;If the evidence suggests that harms are driven by specific features of social media, such as algorithmic amplification of distressing content, infinite scroll, and engagement-maximizing recommendation systems (or in the case of AI, inadequate safeguards), then a total ban on access would not be minimally impairing. More targeted measures could address these concerns with less collateral damage.&lt;/p&gt;
+&lt;p&gt;Obvious alternative measures include parental controls, algorithmic transparency obligations, time-limit features, and content warnings. The same logic would apply to AI chatbots. Rules around use limits, parental supervision, and so on, present a viable alternative. (In April, seeing which way the wind is blowing, Meta &lt;a href=&#34;https://about.fb.com/news/2026/04/helping-parents-understand-conversations-their-teens-are-having-with-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;announced&lt;/a&gt;
+ child safeguards for AI along these lines.)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Proportionality of effects and objective&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If the government manages to clear the rational connection and minimal impairment tests, the court would finally ask whether the salutary effects of the law outweigh its deleterious effects on the right.&lt;/p&gt;
+&lt;p&gt;The effects would be considerable. A complete ban would remove a sizable demographic from an essential forum for public discourse. Many young people would also use these platforms for purposes entirely remote from the harms the law would target, including political engagement, artistic expression, peer connection, and access to information.&lt;/p&gt;
+&lt;p&gt;There is also &lt;a href=&#34;https://www.esafety.gov.au/sites/default/files/2026-03/SocialMediaMinimumAgeComplianceUpdateMarch2026.pdf?v=1777349857529&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;evidence&lt;/a&gt;
+ emerging from the Australian experiment that a ban would not have a measurable impact on reducing cyberbullying. And, as Michael Geist has &lt;a href=&#34;https://www.michaelgeist.ca/2026/04/the-illusion-of-protection-why-canadas-growing-push-to-ban-social-media-for-kids-wont-work/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;argued&lt;/a&gt;
+, any workable ban would require mandatory age verification, which would mean tens of millions of Canadians submitting government-issued identification to third-party providers, raising privacy issues not only for youth but for the entire adult population.&lt;/p&gt;
+&lt;p&gt;On the basis that a ban’s salutary effects are at best empirically contested at this point in time, the government is unlikely to succeed at this final stage.&lt;/p&gt;
+&lt;p&gt;Lawyers behind the scenes at the Department of Justice have probably mapped all this out and are advising the government against following the Australian path of imposing a complete ban, in favour of the European model of imposing stricter rules around access.&lt;/p&gt;
+&lt;p&gt;The less time kids spend on social media the better. But an absolute ban is probably not workable or lawful.&lt;/p&gt;
+&lt;p&gt;(&lt;em&gt;This post first appeared on the Centre for Free Expression&amp;rsquo;s blog, &lt;a href=&#34;https://cfe.torontomu.ca/blog/2026/05/would-banning-children-social-media-and-ai-be-constitutional&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt;
+, on May 7, 2026&lt;/em&gt;)&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The Charter Statement on the lawful access bill is misleading and incomplete</title>
       <link>https://www.robertdiab.ca/posts/charter-statement-c22/</link>
