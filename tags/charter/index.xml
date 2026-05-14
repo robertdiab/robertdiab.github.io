@@ -3,20 +3,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charter on Robert Diab</title>
-    <link>http://localhost:1313/tags/charter/</link>
+    <link>https://www.robertdiab.ca/tags/charter/</link>
     <description>Recent content in Charter on Robert Diab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>roberdiab@gmail.com (Robert Diab)</managingEditor>
     <webMaster>roberdiab@gmail.com (Robert Diab)</webMaster>
-    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/charter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/charter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canada’s Metadata Retention Plan Would Make It an Outlier</title>
-      <link>http://localhost:1313/posts/metadata-compare/</link>
+      <link>https://www.robertdiab.ca/posts/metadata-compare/</link>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/metadata-compare/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Metadata.jpg&#34; alt=&#34;image alt ^&#34;&gt;&lt;/p&gt;
+      <guid>https://www.robertdiab.ca/posts/metadata-compare/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/Metadata.jpg&#34; alt=&#34;image alt ^&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Most of our closest allies do not force telecos to retain everyone’s metadata for up to a year without oversight&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Last week, when I appeared before the Standing Committee on Public Safety and National Security on Bill C-22, a question kept coming up from members on both sides of the table: how do other countries handle this? Do our closest allies require electronic service providers to retain the metadata of nearly everyone in the country for a lengthy period, without grounds or individualized suspicion, as the government is proposing to do here?&lt;/p&gt;
 &lt;p&gt;With one exception, no, the Five Eyes partners have not gone where Bill C-22 proposes to go.&lt;/p&gt;
@@ -51,16 +51,17 @@
 &lt;p&gt;The question here for the courts will be: is it reasonable to expect that our movements in space and time, the coordinates of our calls, won&amp;rsquo;t be recorded by the state for a law enforcement purpose? Knowing that a record was being kept for this purpose, would a reasonable person feel like they were being surveilled?&lt;/p&gt;
 &lt;p&gt;The ECJ thought so in the Ireland case. The UK Court of Appeal &lt;a href=&#34;https://www.hrlc.org.au/case-summaries/2018-3-26-uk-court-finds-metadata-retention-regime-inconsistent-with-eu-law/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;thought so&lt;/a&gt;
  in 2018. Our own Parliament thought so in 2014 when it added preservation powers to the &lt;em&gt;Code&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Why would we not assume the same is true today?&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;To receive &amp;hellip; follow on &lt;!-- raw HTML omitted --&gt;Substack&lt;!-- raw HTML omitted --&gt;&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;Why would we not assume the same is true today? ■&lt;/p&gt;
+&lt;p&gt;{&lt;em&gt;To receive new posts on law, technology, and digital freedoms in Canada, follow me on &lt;a href=&#34;https://robertdiab.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Substack&lt;/a&gt;
+.&lt;/em&gt;}&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Would banning kids from social media and AI be constitutional?</title>
-      <link>http://localhost:1313/posts/social-media-ban-charter/</link>
+      <link>https://www.robertdiab.ca/posts/social-media-ban-charter/</link>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/social-media-ban-charter/</guid>
+      <guid>https://www.robertdiab.ca/posts/social-media-ban-charter/</guid>
       <description>&lt;p&gt;&lt;em&gt;Probably not, for reasons that point to the limits of what Canada can do here&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Recently, governments in Manitoba and Ontario have &lt;a href=&#34;https://www.cbc.ca/news/politics/social-media-ai-minimum-age-9.7164902&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;signalled&lt;/a&gt;
  their support for a ban on social media for children under 16 years of age, and last month, the federal Liberals passed a resolution to this effect at a party convention. Manitoba’s premier Wab Kinew and the national Liberal Party are also &lt;a href=&#34;https://www.cbc.ca/news/canada/manitoba/manitoba-social-media-age-restrictions-9.7177470&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;keen&lt;/a&gt;
@@ -118,10 +119,10 @@
     
     <item>
       <title>The Charter Statement on the lawful access bill is misleading and incomplete</title>
-      <link>http://localhost:1313/posts/charter-statement-c22/</link>
+      <link>https://www.robertdiab.ca/posts/charter-statement-c22/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/charter-statement-c22/</guid>
+      <guid>https://www.robertdiab.ca/posts/charter-statement-c22/</guid>
       <description>&lt;p&gt;&lt;em&gt;The government is playing down key concerns, but they haven&amp;rsquo;t gone away&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;On Tuesday, Bill C-22 came before the House of Commons&amp;rsquo; Standing Committee on Public Safety and National Security. The Ministers of Justice and Public Safety were there to defend the bill in response to strong concerns raised about it by MPs who had clearly done their homework.&lt;/p&gt;
 &lt;p&gt;Ministers Fraser and Anandasangaree defended the bill largely in line with the government&amp;rsquo;s &lt;a href=&#34;https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c22_2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;em&gt;Charter&lt;/em&gt; Statement&lt;/a&gt;
@@ -168,10 +169,10 @@
     
     <item>
       <title>An Open Letter on Bill C-22</title>
-      <link>http://localhost:1313/posts/open-letter-c22/</link>
+      <link>https://www.robertdiab.ca/posts/open-letter-c22/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/open-letter-c22/</guid>
+      <guid>https://www.robertdiab.ca/posts/open-letter-c22/</guid>
       <description>&lt;p&gt;&lt;em&gt;A group of privacy law scholars and lawyers call for amendments to powers in the new lawful access bill that are overbroad and unlikely to survive Charter scrutiny&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This morning, I joined a group of privacy law scholars and lawyers in sending an open letter to Members of Parliament (and the Leader of the NDP) calling for amendments to Bill C-22. The letter, signed by all of us listed below, follows. (PDF version &lt;a href=&#34;https://www.robertdiab.ca/publications/OpenletterC-22.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt;
 .)&lt;/p&gt;
@@ -214,10 +215,10 @@
     
     <item>
       <title>Political deepfakes are only a symptom of Canada&#39;s online news vacuum</title>
-      <link>http://localhost:1313/posts/c-25-deepfakes/</link>
+      <link>https://www.robertdiab.ca/posts/c-25-deepfakes/</link>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/c-25-deepfakes/</guid>
+      <guid>https://www.robertdiab.ca/posts/c-25-deepfakes/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bill C-25&amp;rsquo;s criminal ban on deepfakes won&amp;rsquo;t restore credible news to the platforms where many Canadians look for it.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A bill before Parliament, &lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/45-1/bill/C-25/first-reading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;C-25&lt;/a&gt;
 , will amend the &lt;a href=&#34;https://laws-lois.justice.gc.ca/eng/acts/e-2.01/page-56.html#h-210017&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&lt;em&gt;Canada Elections Act&lt;/em&gt;&lt;/a&gt;
@@ -251,10 +252,10 @@
     
     <item>
       <title>Is the Power to Preserve Everyone’s Metadata Constitutional?</title>
-      <link>http://localhost:1313/posts/metadata-c22/</link>
+      <link>https://www.robertdiab.ca/posts/metadata-c22/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/metadata-c22/</guid>
+      <guid>https://www.robertdiab.ca/posts/metadata-c22/</guid>
       <description>&lt;p&gt;&lt;em&gt;It’s hard to see how it is&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;One of the main concerns with the lawful access bill re-tabled in recent weeks (&lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;C-22&lt;/a&gt;
 ) involves a new power to order our cellphone companies to preserve the metadata attaching to all of our calls, emails, and texts for up to a year.&lt;/p&gt;
@@ -294,10 +295,10 @@
     
     <item>
       <title>Ottawa Reboots Its Lawful Access Bill: What C-22 Fixes and What It Doesn’t</title>
-      <link>http://localhost:1313/posts/bill-c22/</link>
+      <link>https://www.robertdiab.ca/posts/bill-c22/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/bill-c22/</guid>
+      <guid>https://www.robertdiab.ca/posts/bill-c22/</guid>
       <description>&lt;p&gt;Ottawa is trying again to pass a lawful access bill that would give police quicker access to our personal information.&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;Lawful Access Act&lt;/em&gt; in &lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bill C-22&lt;/a&gt;
 , tabled on Thursday, will also compel big telcos like Shaw and Telus to install equipment to collect and preserve more of our data and give law enforcement more direct access to it.&lt;/p&gt;
@@ -357,10 +358,10 @@
     
     <item>
       <title>Is AI Really Destined to Destroy Democracy, Law, and Education?</title>
-      <link>http://localhost:1313/posts/ai-alarmism/</link>
+      <link>https://www.robertdiab.ca/posts/ai-alarmism/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/ai-alarmism/</guid>
+      <guid>https://www.robertdiab.ca/posts/ai-alarmism/</guid>
       <description>&lt;p&gt;&lt;em&gt;A viral paper sounds the alarm by abandoning nuance&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;paper&lt;/a&gt;
  titled “How AI Destroys Institutions” by two Boston University Law professors, posted to SSRN and forthcoming in the UC Law Journal, has gone viral, with around 17,000 downloads. (The other day it was 9.) Papers in law do well if they get over a few hundred hits. This one was aided in part by Gary Marcus, a well-known gen AI skeptic, &lt;a href=&#34;https://substack.com/home/post/p-184435202&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;boosting&lt;/a&gt;
@@ -432,10 +433,10 @@
     
     <item>
       <title>Sexual Deepfakes and Sextortion: Why New Crimes Won’t Solve the Problem</title>
-      <link>http://localhost:1313/posts/dfs&#43;sextortion/</link>
+      <link>https://www.robertdiab.ca/posts/dfs&#43;sextortion/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/dfs&#43;sextortion/</guid>
+      <guid>https://www.robertdiab.ca/posts/dfs&#43;sextortion/</guid>
       <description>&lt;p&gt;&lt;em&gt;If we want to reduce harm, we need to look upstream&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In December, the federal government tabled the ‘Protecting Victims Act’ (Bill &lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/45-1/bill/C-16/first-reading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;C-16&lt;/a&gt;
 ) to fill a gap in Canada’s Criminal Code on the distribution of sexual deepfakes, and added a new offence of threatening to distribute an intimate image.&lt;/p&gt;
@@ -495,10 +496,10 @@
     
     <item>
       <title>Powers in the new Cyber Security Act are invasive — but do they violate the Charter?</title>
-      <link>http://localhost:1313/posts/bill-c8/</link>
+      <link>https://www.robertdiab.ca/posts/bill-c8/</link>
       <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/bill-c8/</guid>
+      <guid>https://www.robertdiab.ca/posts/bill-c8/</guid>
       <description>&lt;p&gt;&lt;em&gt;Critics of the bill are right to be concerned, so why the curious silence in the government’s Charter Statement?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Shortly after tabling bill C-2 in June, which I’ve written a &lt;a href=&#34;https://robertdiab.substack.com/p/bill-c-2-backgrounder-the-missing&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;few&lt;/a&gt;
  &lt;a href=&#34;https://robertdiab.substack.com/p/five-ways-to-fix-bill-c-2-and-better&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;posts&lt;/a&gt;
@@ -569,10 +570,10 @@
     
     <item>
       <title>Five ways to fix bill C-2 – and better protect our privacy</title>
-      <link>http://localhost:1313/posts/fixing-c2/</link>
+      <link>https://www.robertdiab.ca/posts/fixing-c2/</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/fixing-c2/</guid>
+      <guid>https://www.robertdiab.ca/posts/fixing-c2/</guid>
       <description>&lt;p&gt;As it inches toward a majority in Parliament, the Liberal government is signaling its intention to move ahead with the controversial parts of the &lt;em&gt;Strong Borders Act&lt;/em&gt; it chose to shelve back in October — in response to strong opposition from the other parties.&lt;/p&gt;
 &lt;p&gt;I’ve written about the various privacy-invasive powers in the bill briefly &lt;a href=&#34;https://www.robertdiab.ca/posts/strong-borders-search/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt;
 , and in more detail &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5363319&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt;
@@ -609,10 +610,10 @@
     
     <item>
       <title>Do CSIS and Police Really Need More ‘Lawful Intercept’ Powers?</title>
-      <link>http://localhost:1313/posts/lawful-intercept/</link>
+      <link>https://www.robertdiab.ca/posts/lawful-intercept/</link>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/lawful-intercept/</guid>
+      <guid>https://www.robertdiab.ca/posts/lawful-intercept/</guid>
       <description>&lt;p&gt;Earlier this month, when no other party would support the Liberals in passing Bill C-2—the ‘Strong Borders Act,’ with its controversial surveillance powers—the government shelved it.&lt;/p&gt;
 &lt;p&gt;More precisely, it split off the contentious parts of the bill from the customs and immigration provisions meant to appease our neighbours to the south and re-tabled those as &lt;a href=&#34;https://www.canada.ca/en/services/defence/securingborder/strengthen-border-security/understanding-stregthening-canada-immigration-system-borders-act.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bill C-12&lt;/a&gt;
 .&lt;/p&gt;
@@ -663,10 +664,10 @@
     
     <item>
       <title>Will Canada’s new hate crime bill impact free speech online?</title>
-      <link>http://localhost:1313/posts/bill-c9/</link>
+      <link>https://www.robertdiab.ca/posts/bill-c9/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/bill-c9/</guid>
+      <guid>https://www.robertdiab.ca/posts/bill-c9/</guid>
       <description>&lt;p&gt;Last week, the Liberal government tabled &lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/45-1/bill/C-9/first-reading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bill C-9&lt;/a&gt;
 , containing three new criminal offences targeting hate speech — as a response to the alarming and appalling rise in antisemitic violence in Canada in the past two years, along with attacks against places of worship, schools, and community centres.&lt;/p&gt;
 &lt;p&gt;The new offences primarily capture acts of intimidation of a physical sort: blocking access to a synagogue, mosque, or temple, or promoting hatred by waving flags or symbols of groups listed as terrorist entities.&lt;/p&gt;
@@ -774,11 +775,11 @@
     
     <item>
       <title>Authorship After AI</title>
-      <link>http://localhost:1313/posts/authorship-ai/</link>
+      <link>https://www.robertdiab.ca/posts/authorship-ai/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/authorship-ai/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Post-pic.jpg&#34; alt=&#34;image alt *&#34;&gt;&lt;/p&gt;
+      <guid>https://www.robertdiab.ca/posts/authorship-ai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/Post-pic.jpg&#34; alt=&#34;image alt *&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A new article in AI Magazine draws an illuminating comparison between what AI is doing to writing and what photography did to art in the 1840s. It helps to make sense of a question many of us are thinking about more often: does increasing reliance on AI signal the end of writing?&lt;/p&gt;
 &lt;p&gt;The insights in this piece resonate with me, given the quantum leap in my own use of AI over the past few months.&lt;/p&gt;
 &lt;p&gt;I’m now making such frequent use of it — integrating it into my research, writing, and editing — that it has me wondering what’s really happening.&lt;/p&gt;
@@ -816,10 +817,10 @@
     
     <item>
       <title>When AI Turns Deadly: Are Model Makers Responsible?</title>
-      <link>http://localhost:1313/posts/ai-liability/</link>
+      <link>https://www.robertdiab.ca/posts/ai-liability/</link>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/ai-liability/</guid>
+      <guid>https://www.robertdiab.ca/posts/ai-liability/</guid>
       <description>&lt;p&gt;This week, parents of Adam Raine, a California teen who committed suicide in April after a lengthy interaction with GPT-4o, &lt;a href=&#34;https://www.theguardian.com/technology/2025/aug/27/chatgpt-scrutiny-family-teen-killed-himself-sue-open-ai&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;filed a lawsuit&lt;/a&gt;
  against OpenAI and its CEO, Sam Altman. The case follows a &lt;a href=&#34;https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;suit&lt;/a&gt;
  brought in late 2024 by the parents of a Florida teen, Sewell Setzer, who took his own life after engaging with a Character.AI chatbot impersonating Daenerys Targaryen from Game of Thrones.&lt;/p&gt;
@@ -861,10 +862,10 @@
     
     <item>
       <title>Bill C-2 Backgrounder - the missing manual!</title>
-      <link>http://localhost:1313/posts/c2backgrounder/</link>
+      <link>https://www.robertdiab.ca/posts/c2backgrounder/</link>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/c2backgrounder/</guid>
+      <guid>https://www.robertdiab.ca/posts/c2backgrounder/</guid>
       <description>&lt;p&gt;Over a month later, the controversy over the &lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/45-1/bill/C-2/first-reading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Strong Borders Act&lt;/a&gt;
  continues.&lt;/p&gt;
 &lt;p&gt;Privacy experts are still sounding the alarm over the astonishing breadth of some of the new powers — allowing police to demand from a doctor, lawyer, anyone who “provides a service” information about a person’s account without a warrant; a power to compel Shaw or Google to “install equipment” that would give police or CSIS access to personal data — the list goes on.&lt;/p&gt;
@@ -886,10 +887,10 @@
     
     <item>
       <title>Major new search powers in the Strong Borders Act: are they constitutional?</title>
-      <link>http://localhost:1313/posts/strong-borders-search/</link>
+      <link>https://www.robertdiab.ca/posts/strong-borders-search/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/strong-borders-search/</guid>
+      <guid>https://www.robertdiab.ca/posts/strong-borders-search/</guid>
       <description>&lt;p&gt;The Liberal’s first bill in Parliament last week proposes a raft of new search powers to give police easier access to our private data. They may turn out to be the most consequential search powers added to the Criminal Code in the past decade.&lt;/p&gt;
 &lt;p&gt;They have little to do with the primary aim of the bill, strengthening borders by expanding powers in customs and immigration.&lt;/p&gt;
 &lt;p&gt;Tucked in the middle of &lt;a href=&#34;https://www.parl.ca/LegisInfo/en/bill/45-1/C-2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bill C-2&lt;/a&gt;
@@ -985,10 +986,10 @@
     
     <item>
       <title>Testing the waters with Deep Research</title>
-      <link>http://localhost:1313/posts/deepresearch/</link>
+      <link>https://www.robertdiab.ca/posts/deepresearch/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/deepresearch/</guid>
+      <guid>https://www.robertdiab.ca/posts/deepresearch/</guid>
       <description>&lt;p&gt;Last month OpenAI unveiled a new tool for producing lengthy reports with citations to sources on the web. It uses one of the company’s best ‘chain of reasoning’ models to deliver output that far exceeds the quality of what similar tools from Google and Perplexity AI can do – tools that are also called ‘Deep Research,’ as it happens.&lt;/p&gt;
 &lt;p&gt;But initially, OpenAi’s version was only available to folks with the $200 US a month “pro” subscription. We had to take on faith effusive reviews, like this one from &lt;a href=&#34;https://www.reddit.com/r/ChatGPTPro/comments/1iis4wy/deep_research_is_hands_down_the_best_research/?rdt=52148&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Reddit&lt;/a&gt;
 :&lt;/p&gt;
@@ -1035,10 +1036,10 @@
     
     <item>
       <title>Are sexual deepfakes not a crime in Canada?</title>
-      <link>http://localhost:1313/posts/deepfakes/</link>
+      <link>https://www.robertdiab.ca/posts/deepfakes/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/deepfakes/</guid>
+      <guid>https://www.robertdiab.ca/posts/deepfakes/</guid>
       <description>&lt;p&gt;In late December, the Toronto Star ran a &lt;a href=&#34;https://www.pressreader.com/canada/toronto-star/20241228/281505051838722?srsltid=AfmBOoolvfiFtv7JyM8BUq6BehhsJJvu_Kh90fqJ33KCmzEzsivPi5Zq&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;story&lt;/a&gt;
  about a boy in high school who had created a series of pornographic deepfakes of other girls at his school using images of their faces on Instagram. The nude pictures were discovered on his phone inadvertently, during sleepover when a friend went looking for a selfie taken on his device. Once discovered, the girls were alerted (with screenshots) and soon police were at his door.&lt;/p&gt;
 &lt;p&gt;They grappled with whether creating the images was criminal. After questioning other boys believed to have seen the images and consulting with Crown, police decided not to proceed. But they invited the girls and their parents to the station to explain that they didn’t think it was a crime without more evidence that the images had been shared.&lt;/p&gt;
@@ -1090,10 +1091,10 @@
     
     <item>
       <title>Why TikTok’s challenge to the order to leave Canada will fail - and how</title>
-      <link>http://localhost:1313/posts/tiktok-challenge/</link>
+      <link>https://www.robertdiab.ca/posts/tiktok-challenge/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/tiktok-challenge/</guid>
+      <guid>https://www.robertdiab.ca/posts/tiktok-challenge/</guid>
       <description>&lt;p&gt;This past November, the federal government ordered TikTok’s Canadian subsidiary to wind up its operations in Canada, though it didn’t ban the platform itself. The power to make this order is found in the &lt;a href=&#34;https://laws-lois.justice.gc.ca/eng/acts/i-21.8/page-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Investment Canada Act&lt;/a&gt;
 , which allows the Minister of Innovation, Science, and Industry to recommend to the Governor in Council that a foreign company be wound up on the basis that allowing it to continue here “would be injurious to national security.”&lt;/p&gt;
 &lt;p&gt;In a &lt;a href=&#34;https://www.canada.ca/en/innovation-science-economic-development/news/2024/11/government-of-canada-orders-the-wind-up-of-tiktok-technology-canada-inc-following-a-national-security-review-under-the-investment-canada-act.html&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;press release&lt;/a&gt;
@@ -1139,10 +1140,10 @@
     
     <item>
       <title>Are your texts still private when police hijack your recipient’s identity?</title>
-      <link>http://localhost:1313/posts/campbell/</link>
+      <link>https://www.robertdiab.ca/posts/campbell/</link>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
-      <guid>http://localhost:1313/posts/campbell/</guid>
+      <guid>https://www.robertdiab.ca/posts/campbell/</guid>
       <description>&lt;p&gt;In its decision in &lt;a href=&#34;https://canlii.ca/t/k87w6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;R v Campbell&lt;/a&gt;
  earlier this month, the Supreme Court of Canada revisited an issue it had dealt with in &lt;a href=&#34;https://www.canlii.org/en/ca/scc/doc/2017/2017scc59/2017scc59.html?resultId=faef0cd91b884515827efd6bf20971c6&amp;amp;searchId=2024-12-22T06:40:03:043/07eba98359534456af7c4cf4bc960fa4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;R v Marakah&lt;/a&gt;
  (2017), but with a twist. In that case, the Court held that a person can retain a privacy interest in a text they send, despite losing control of it in the hands of a recipient. Police had read the sender’s text when they searched the recipient’s phone incident to arrest. In this case, upon seizing the recipient’s phone, police saw new texts coming in on the lock screen and began to respond to them pretending to be the recipient.&lt;/p&gt;
