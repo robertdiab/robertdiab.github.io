@@ -225,6 +225,18 @@ color: #007AFC;
 
 /*font, layout for posts*/
 
+/*for images at the top of a blog post*/
+
+img[alt$="^"] {
+  display: block;
+  max-width: 70%;
+  box-shadow: 0 0 10px .2px grey;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+
 img[alt$=">"] {
   float: right;
   max-width: 30%;
@@ -507,7 +519,7 @@ text-decoration: none;
 }
 
 .readings img[src*="image"] {
-  max-width: 60%;
+  max-width: 30%;
   }
 
 .readings img[src*="image"] {

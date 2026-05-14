@@ -217,12 +217,12 @@ p {
 }
 
 .content img[src*="image"] {
-  max-width: 30%;
+  max-width: 40%;
 }
 
 .content img[src*="image"] {
   display: block;
-  float: left;
+  float: none;
   margin-top: 9px;
   margin-right: 20px;
   margin-bottom: 10px;
@@ -240,6 +240,16 @@ p {
     margin-right: 25px;
     margin-top: 10px;
     margin-bottom: 25px;
+  }
+
+  img[alt$="^"] {
+    display: block;
+    float: none !important;
+    max-width: 60% !important;
+    box-shadow: 0 0 10px .2px grey;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
   }
 
 /*font, layout for posts, mainpage*/
