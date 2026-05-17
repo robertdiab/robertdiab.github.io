@@ -153,8 +153,8 @@ text-decoration: none;
 }
 
 /*bio-text*/
-.smallnav p {
-    font-size: 13px;
+.sidenav p {
+    font-size: 12.5px;
     color: #36454F;
     line-height: 18px;
     font-family: 'Playfair Display', serif !important;
@@ -607,8 +607,8 @@ text-decoration: none;
 
     /* Publications list entries */
     .pub-entry {
-      font-family: 'EB Garamond', serif;
-      font-size: 17px;
+      font-family: 'Playfair Display', serif;
+      font-size: 14.5px;
       line-height: 1.6em;
       color: #36454F;
       margin-bottom: 1em;
