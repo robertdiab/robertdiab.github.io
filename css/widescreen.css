@@ -152,7 +152,7 @@ text-decoration: none;
 }
 
 .smallnav {
-  font-size: 14px;
+  font-size: 14.5px;
   color: #36454F;
   max-width: 40%;
   line-height: 1.65em;
@@ -160,7 +160,7 @@ text-decoration: none;
 
 /*bio-text*/
 .smallnav p {
-    font-size: 14px;
+    font-size: 14.5px;
     color: #36454F;
     font-family: 'Playfair Display', sans-serif !important;
     line-height: 1.55em !important;
@@ -169,7 +169,7 @@ text-decoration: none;
 .recent-posts {
   max-width: 130px;
   line-height: 1.55em !important;
-  font-size: 14px;
+  font-size: 14.5px;
     font-family: 'Playfair Display', sans-serif !important;
 }
 
@@ -181,7 +181,7 @@ text-decoration: none;
   max-width: 130px;
   line-height: 1.55em !important;
   font-family: 'Playfair Display', sans-serif !important;
-  font-size: 14px;
+  font-size: 14.5px;
 }
 
 .earlier-posts a {
