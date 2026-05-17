@@ -107,7 +107,7 @@ p a:hover {
 
 .sidenav {
   float: right;
-  padding: 20px 20px;
+  padding: 15px 20px;
   font-weight: 400;
   font-family: 'Playfair Display';
   color: #36454F;
@@ -225,7 +225,7 @@ p {
   float: none;
   margin-top: 9px;
   margin-right: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 25px;
 }
 
 .content img[src*="image"]  {
@@ -285,7 +285,7 @@ p {
 }
 
 .post-content {
-  padding: 31px 50px 40px 18px;
+  padding: 26px 50px 10px 18px;
   float: center;
   max-width: 665px;
   margin-left: auto;
@@ -356,7 +356,7 @@ text-decoration: none;
 
 .archive {
   line-height: 30px;
-  padding: 19px 60px 40px 0px;
+  padding: 14px 60px 40px 0px;
   margin-left: 20px;
   font-family: 'Playfair Display', serif;
   font-weight: 400;
@@ -409,7 +409,7 @@ text-decoration: none;
 
 .topic {
 line-height: 22px;
-padding: 15px 40px 40px 0px;
+padding: 10px 40px 40px 0px;
 font-family: 'Playfair Display';
 font-weight: 400;
 color: #36454F !important;
@@ -465,9 +465,16 @@ blockquote, blockquote p, blockquote span {
 .page-nav a {
 font-family: 'Playfair Display', serif;
 font-weight: 400;
-font-size: .9em;
+font-size: 14.5px;
  color:grey;
  text-decoration: none;
+}
+
+.related-posts-label {
+font-family: 'Playfair Display', serif;
+font-weight: 400;
+font-size: 14.5px;
+color: grey;
 }
 
 .page-nav a:hover {
@@ -516,10 +523,13 @@ text-decoration: none;
 
   .bottomhomelinks {
     text-align: center;
+    margin-top: 10px;
+    padding-bottom: 10px;
   }
   .bottomhomelinks a {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
+    font-size: 16px;
      color:#36454F;
      text-decoration: none;
     }
@@ -592,6 +602,85 @@ text-decoration: none;
     .svg-icon circle {
       stroke: #4691f6;
       stroke-width: 1;
+    }
+
+    /* Publications list entries */
+    .pub-entry {
+      font-family: 'EB Garamond', serif;
+      font-size: 17px;
+      line-height: 1.6em;
+      color: #36454F;
+      margin-bottom: 1em;
+    }
+
+    .pub-entry a {
+      color: #007AFC;
+      text-decoration-color: #007AFC;
+    }
+
+    .pub-entry a:hover {
+      text-decoration: underline;
+      text-decoration-thickness: 2px;
+      text-decoration-color: #007AFC;
+    }
+
+    #pub-list, #com-list {
+      margin-top: 24px;
+    }
+
+    #pub-list > .pub-group-heading:first-child,
+    #com-list > .pub-group-heading:first-child {
+      margin-top: 0;
+    }
+
+    /* Publications filter bar */
+    .pub-header-row {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      flex-wrap: wrap;
+      padding-top: 26px;
+    }
+
+    .pub-header-row h3 {
+      margin: 0;
+      padding-top: 0;
+    }
+
+    .pub-cv-links {
+      margin-left: 0;
+      font-size: 14px;
+    }
+
+    .pub-filter-menu {
+      font-family: 'Playfair Display', serif;
+      font-size: 15px;
+      white-space: nowrap;
+    }
+
+    .pub-filter-btn {
+      color: #9E9E9E;
+      text-decoration: none;
+      font-size: 15px;
+      font-family: 'Playfair Display', serif;
+    }
+
+    .pub-filter-btn.active {
+      color: #36454F;
+    }
+
+    .pub-filter-sep {
+      color: #C0C0C0;
+      margin: 0 2px;
+    }
+
+    .pub-group-heading {
+      font-family: 'Playfair Display', serif;
+      font-size: 15.5px;
+      font-weight: 700;
+      color: #5E5E5E;
+      margin-top: 26px;
+      margin-bottom: 12px;
     }
 
     /* Dark mode styles */
@@ -767,6 +856,14 @@ text-decoration: none;
               color: #CCCCCC !important;
           }
 
+          .related-posts-label {
+            color: white;
+          }
+
+          .page-nav a {
+            color: white;
+          }
+
           .bottomhomelinks a {
             font-family: 'Playfair Display', serif;
             font-weight: 400;
@@ -777,6 +874,27 @@ text-decoration: none;
           .bottomhomelinks a:hover {
             color: white;
             text-decoration: none;
+          }
+
+          .pub-entry {
+            color: white;
+          }
+
+          .pub-entry a {
+            color: #81BEF7;
+            text-decoration-color: #81BEF7;
+          }
+
+          .pub-filter-btn {
+            color: #9E9E9E;
+          }
+
+          .pub-filter-btn.active {
+            color: white;
+          }
+
+          .pub-group-heading {
+            color: white;
           }
     }
 }

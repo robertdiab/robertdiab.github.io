@@ -6,7 +6,7 @@
     <link>https://www.robertdiab.ca/posts/</link>
     <description>Recent content in Posts on Robert Diab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>en</language>
     <managingEditor>roberdiab@gmail.com (Robert Diab)</managingEditor>
     <webMaster>roberdiab@gmail.com (Robert Diab)</webMaster>
     <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
       <guid>https://www.robertdiab.ca/posts/metadata-compare/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/Metadata.jpg&#34; alt=&#34;image alt ^&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/blogposts/Metadata.jpg&#34; alt=&#34;image alt ^&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Most of our closest allies do not force telecos to retain everyone’s metadata for up to a year without oversight&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Last week, when I appeared before the Standing Committee on Public Safety and National Security on Bill C-22, a question kept coming up from members on both sides of the table: how do other countries handle this? Do our closest allies require electronic service providers to retain the metadata of nearly everyone in the country for a lengthy period, without grounds or individualized suspicion, as the government is proposing to do here?&lt;/p&gt;
 &lt;p&gt;With one exception, no, the Five Eyes partners have not gone where Bill C-22 proposes to go.&lt;/p&gt;
@@ -803,7 +803,7 @@
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <Params>roberdiab@gmail.com (Robert Diab)</Params>
       <guid>https://www.robertdiab.ca/posts/authorship-ai/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/Post-pic.jpg&#34; alt=&#34;image alt *&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/blogposts/Post-pic.jpg&#34; alt=&#34;image alt *&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A new article in AI Magazine draws an illuminating comparison between what AI is doing to writing and what photography did to art in the 1840s. It helps to make sense of a question many of us are thinking about more often: does increasing reliance on AI signal the end of writing?&lt;/p&gt;
 &lt;p&gt;The insights in this piece resonate with me, given the quantum leap in my own use of AI over the past few months.&lt;/p&gt;
 &lt;p&gt;I’m now making such frequent use of it — integrating it into my research, writing, and editing — that it has me wondering what’s really happening.&lt;/p&gt;
