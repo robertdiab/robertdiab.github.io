@@ -110,12 +110,13 @@ p a:hover {
 .sidenav {
   float: right;
   overflow-x: hidden;
-  padding: 25px 20px;
+  padding: 25px 20px 25px 15px;
   font-family: 'Playfair Display';
   font-weight: 400;
   line-height: 1.7em;
   color: #36454F;
-  max-width: 150px;
+  max-width: 158px;
+  margin-right: -25px;
 }
 
 .sidenav a {
@@ -159,7 +160,7 @@ text-decoration: none;
   }
 
 /*bio-text*/
-.smallnav p {
+.sidenav p {
     font-size: 14.5px;
     color: #36454F;
     font-family: 'Playfair Display', sans-serif !important;
@@ -167,7 +168,7 @@ text-decoration: none;
     }
 
 .recent-posts {
-  max-width: 130px;
+  max-width: 150px;
   line-height: 1.55em !important;
   font-size: 14.5px;
     font-family: 'Playfair Display', sans-serif !important;
@@ -178,7 +179,7 @@ text-decoration: none;
 }
 
 .earlier-posts {
-  max-width: 130px;
+  max-width: 150px;
   line-height: 1.55em !important;
   font-family: 'Playfair Display', sans-serif !important;
   font-size: 14.5px;
@@ -828,8 +829,8 @@ text-decoration: none;
           }
 
 
-        .smallnav p {
-            font-size: 13.5px;
+        .sidenav p {
+            font-size: 14.5px;
             color: white;
             line-height: 1.7em;
             }

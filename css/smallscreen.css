@@ -108,6 +108,7 @@ p a:hover {
 .sidenav {
   float: right;
   padding: 15px 20px;
+  margin-right: 0;
   font-weight: 400;
   font-family: 'Playfair Display';
   color: #36454F;
@@ -160,7 +161,7 @@ text-decoration: none;
     }
 
 .recent-posts {
-  max-width: 80px;
+  max-width: 100px;
   font-family: 'Playfair Display', serif !important;
   font-size: 13px !important;
 }
