@@ -9,7 +9,44 @@
     <language>en</language>
     <managingEditor>roberdiab@gmail.com (Robert Diab)</managingEditor>
     <webMaster>roberdiab@gmail.com (Robert Diab)</webMaster>
-    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How AI Is Changing Work in Canada</title>
+      <link>https://www.robertdiab.ca/posts/ai-canada-work/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <Params>roberdiab@gmail.com (Robert Diab)</Params>
+      <guid>https://www.robertdiab.ca/posts/ai-canada-work/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/blogposts/Boc.jpg&#34; alt=&#34;image alt ^&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Bank of Canada offers a helpful snapshot of AI adoption, job losses, and early productivity gains&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In Ottawa last week, the Deputy Governor of the Bank of Canada, Michelle Alexopoulos, offered an illuminating snapshot of how AI is affecting employment and productivity across industries in Canada.&lt;/p&gt;
+&lt;p&gt;I posted a few details about her &lt;a href=&#34;https://www.bankofcanada.ca/2026/05/ai-is-knocking-canadas-next-productivity-story/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;speech&lt;/a&gt;
+ on LinkedIn on Friday, but there are a few other points here that I think will be of interest to readers.&lt;/p&gt;
+&lt;p&gt;Alexopoulus poses a big-picture question about AI at the outset. Will it prove to be a general-purpose technology, like the steam engine or the computer, that “reshaped entire economies and societies”? Or will it remain for many of us in the short to medium term limited to certain purposes, with a marginal impact on the workplace as a whole?&lt;/p&gt;
+&lt;p&gt;The early data on the uptake of AI in Canada points in the direction of a more pervasive transformation, but one that may unfold gradually. While some 12% of companies were using AI last year, up from 3% in 2022, they’re adopting it unevenly, with only 1.5% of businesses in accommodation and food services using AI, but more than 30% of finance and insurance firms doing so.&lt;/p&gt;
+&lt;p&gt;The Deputy Governor anticipates that &amp;ldquo;some jobs will be replaced by AI. New jobs will emerge, and others will be transformed,&amp;rdquo; offering this helpful analogy:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;… when computers were first introduced into offices, some jobs vanished, like office typists and switchboard operators. New jobs were created, like entire IT departments. And other jobs changed — analog tasks were digitalized, and workers learned to use computers.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Alexopoulos makes three more specific observations about what the data tell us about how AI is &lt;em&gt;currently&lt;/em&gt; affecting the workforce.&lt;/p&gt;
+&lt;p&gt;First, so far, there&amp;rsquo;s no clear evidence that AI is replacing workers at scale. Of the businesses the Bank surveyed that have adopted AI, 90% reported no effect on their staffing levels. About 4% said that AI had led to new jobs and 6% reported job losses due to the use of AI.&lt;/p&gt;
+&lt;p&gt;Second, the data points to AI &amp;ldquo;changing how tasks are done,&amp;rdquo; but that &amp;ldquo;humans remain in control.&amp;rdquo; Surveys show AI being used to &amp;ldquo;boost productivity rather than to automate entire workflows or to replace staff on a large scale.&amp;rdquo; And the main uses of AI are writing and analyzing data:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/blogposts/chart2.jpg&#34; alt=&#34;image alt ^&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Alexopoulos singles out findings of a &lt;a href=&#34;https://www.hiringlab.org/2025/12/29/two-workforces-whos-using-ai-and-whos-getting-left-behind/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;poll&lt;/a&gt;
+ from Indeed&amp;rsquo;s Hiring Lab, which found that 57% of AI users reported saving one to two hours a day, and 22% reported saving three to five.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/blogposts/chart3.jpg&#34; alt=&#34;image alt ^&#34;&gt;&lt;/p&gt;
+&lt;p&gt;These findings reflect my own uses of AI — mainly for gathering sources and for analyzing and editing text. They’re also consistent with the anecdotal evidence I’m hearing from other lawyers about how AI is affecting their workflow. One proviso here might be that some of us early adopters are beginning to boost productivity precisely by automating more of our workflows, through features like Claude skills or agentic AI.&lt;/p&gt;
+&lt;p&gt;The Deputy Governor’s third point is that “AI has the potential to create new job opportunities and help solve demographic challenges.”&lt;/p&gt;
+&lt;p&gt;As population growth slows and more people retire, we&amp;rsquo;re going to see more labour shortages. Alexopoulos thinks workers making effective use of AI could help address these shortages or spur new uses of AI. She sees this unfolding in health care, where doctors are using AI to carry out routine tasks and save a few hours a week, giving them more time for &amp;ldquo;higher-value work.&amp;rdquo; Nurses who use AI for scheduling have found more time to spend with patients.&lt;/p&gt;
+&lt;p&gt;Alexopoulos also notes that &amp;ldquo;while workers who don&amp;rsquo;t currently use AI at work expect it will lead to job losses, those who do have the opposite view.&amp;rdquo; The more exposure to AI, the greater the likelihood of seeing it as a &amp;ldquo;job or opportunity creator.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The broad takeaways, then, are that the mass displacement that some fear doesn’t appear to be unfolding, and that experimentation thus far is quite uneven.&lt;/p&gt;
+&lt;p&gt;A question we’re left asking is whether the efficiency gains that some workers are reporting will eventually spread beyond those sectors to produce meaningful productivity gains for the economy as a whole. We’re probably many years away from finding out.&lt;/p&gt;
+&lt;p&gt;But I’m old enough to remember the widespread resistance, in the early 80s, to the incursion of the personal computer into many aspects of everyday life, or beyond the confines of the office. The idea of using a computer to write a novel or a personal letter seemed cold and inhuman. Until it didn’t. In many forms of employment or personal use, what may seem inauthentic or inappropriate now may soon seem necessary rather than optional.&lt;/p&gt;
+&lt;p&gt;What is missing from the Bank’s data about AI’s impact on work are the attitudes and beliefs we harbour about the technology that make us more or less inclined to adopt it. These are harder to measure. And they’re rapidly evolving as the tools evolve and perspectives about them shift.&lt;/p&gt;
+&lt;p&gt;My hunch is that AI is becoming so capable and accessible across such a wide range of uses that its wider embrace will be hard to resist. Whether that produces a transformation on the order of the internal combustion engine, the computer, or the internet remains to be seen. But the comparison no longer seems far-fetched. ■&lt;/p&gt;
+&lt;p&gt;{&lt;em&gt;To receive new posts by email, follow me on &lt;a href=&#34;https://robertdiab.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Substack&lt;/a&gt;
+.&lt;/em&gt;}&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Canada’s Metadata Retention Plan Would Make It an Outlier</title>
       <link>https://www.robertdiab.ca/posts/metadata-compare/</link>
