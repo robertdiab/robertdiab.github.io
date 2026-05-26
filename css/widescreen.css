@@ -7,7 +7,7 @@ html {
 body {
   float: center;
   margin: 0;
-  max-width: 810px;
+  max-width: 820px;
   margin-left: auto;
   margin-right: auto;
   line-height: 27px;
@@ -308,6 +308,8 @@ img[alt$="*"] {
   float: center;
   margin-left: auto;
   margin-right: auto;
+  max-width: 570px;
+
 }
 
 
@@ -315,7 +317,7 @@ img[alt$="*"] {
 .post-content p {
   font-family: 'EB Garamond', serif !important;
   font-weight: 400 !important;
-  font-size: 19px;
+  font-size: 20.5px;
   color: #60,60,61;
   line-height: 30px;
 }
