@@ -7,7 +7,7 @@ html {
 body {
   float: center;
   margin: 0;
-  max-width: 820px;
+  max-width: 860px;
   margin-left: auto;
   margin-right: auto;
   line-height: 27px;
@@ -271,6 +271,28 @@ img[alt$="*"] {
   margin-right: 25px;
   margin-top: 10px;
   margin-bottom: 5px;
+}
+
+figure {
+  display: block;
+  margin: 10px 0 15px 0;
+}
+
+figure img {
+  display: block;
+  max-width: 95%;
+  box-shadow: 0 0 10px .2px grey;
+  border-radius: 5px;
+}
+
+figcaption {
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  font-size: 15px;
+  color: #888888;
+  margin-top: 8px;
+  max-width: 95%;
+  text-align: center;
 }
 
 .post-date {
@@ -1019,5 +1041,9 @@ text-decoration: none;
 
                .page-nav a {
                  color: white;
+               }
+
+               figcaption {
+                 color: #aaaaaa;
                }
 }

@@ -253,6 +253,29 @@ p {
     margin-top: 10px;
   }
 
+  figure {
+    display: block;
+    margin: 10px 0 10px 0;
+  }
+
+  figure img {
+    display: block;
+    max-width: 95% !important;
+    margin-bottom: 0 !important;
+    box-shadow: 0 0 10px .2px grey;
+    border-radius: 5px;
+  }
+
+  figcaption {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size: 14px;
+    color: #888888;
+    margin-top: 6px;
+    max-width: 95%;
+    text-align: center;
+  }
+
 /*font, layout for posts, mainpage*/
 
 .post-date {
@@ -863,6 +886,10 @@ text-decoration: none;
 
           .page-nav a {
             color: white;
+          }
+
+          figcaption {
+            color: #aaaaaa;
           }
 
           .bottomhomelinks a {
