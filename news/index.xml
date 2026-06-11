@@ -11,6 +11,35 @@
     <webMaster>roberdiab@gmail.com (Robert Diab)</webMaster>
     <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Will Canadians now have to prove their age to use social media?</title>
+      <link>https://www.robertdiab.ca/posts/bill-c34-age-verification/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <Params>roberdiab@gmail.com (Robert Diab)</Params>
+      <guid>https://www.robertdiab.ca/posts/bill-c34-age-verification/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.robertdiab.ca/images/blogposts/C-34-ban.jpg&#34; alt=&#34;image alt ^&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A first look at &lt;a href=&#34;https://www.parl.ca/Content/Bills/451/Government/C-34/C-34_1/C-34_1.PDF&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bill C-34&lt;/a&gt;
+, Canada’s new Safe Social Media Act, and how the under-16 ban might work&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The federal government introduced Bill C-34 yesterday, its third attempt at online harms legislation after the failure to pass Bill C-63 last year.&lt;/p&gt;
+&lt;p&gt;Most of the media coverage has focused on the ban on social media accounts for children under 16, giving rise to the question of how this will work in practice. Will we all now need to provide platforms with proof that we’re over 16? And what will this entail?&lt;/p&gt;
+&lt;p&gt;It’s not entirely clear yet. One of the main takeaways of the bill is that details around how the ban will work, along with many duties and obligations the bill imposes, are left to regulations to be passed in the future — or to self-regulation — leaving many things unclear. But the general thrust of where we’re headed is coming into view.&lt;/p&gt;
+&lt;p&gt;The most widely discussed feature of the bill, the new restriction on social media accounts for people under 16, does not take the form of an immediate or universal ban. It requires instead that platforms — to be specified in future regulations — implement “age-verification or age-estimation measures” designed to prevent people under 16 from holding accounts. (The bill contains a companion provision that imposes age verification obligations on platforms where there is ‘reason to suspect’ that users may be able to access pornographic content.)&lt;/p&gt;
+&lt;p&gt;The bill also creates a Digital Safety Commission (more on this below), which can exempt platforms from the under-16 restriction if it is satisfied that they provide “adequate safeguards… for the protection of children.” The criteria for deciding this will be set out in regulations and Commission guidelines to come.&lt;/p&gt;
+&lt;p&gt;The bill also doesn’t specify how age-verification or age-estimation measures will work, but instead sets out criteria for assessing whether they’re adequate. Among other things, the measures must be “effective,” must not use personal information for purposes unrelated to age verification, and must provide for the destruction of any personal info collected once verification is complete.&lt;/p&gt;
+&lt;p&gt;So, the bill leaves open the possibility of platforms not having to collect a person’s ID or, say, credit card info — either by using less invasive means (such as a third-party service) or by exempting a platform altogether.&lt;/p&gt;
+&lt;p&gt;Zooming out from this, Bill C-34 retains the core structure of Bill C-63, which centred on a duty for large online platforms to act responsibly in addressing certain categories of harmful content.&lt;/p&gt;
+&lt;p&gt;These include non-consensual intimate images, child sexual exploitation material, content that encourages self-harm, child bullying, hate content, violent content, and terrorism-related content.&lt;/p&gt;
+&lt;p&gt;Platforms will have a duty to assess and mitigate risks associated with this content, publish digital safety plans, maintain records, and provide researchers with access to certain information. The bill also imposes obligations to make some categories of content inaccessible within 24 hours following a complaint process, including non-consensual sexual images and deepfakes.&lt;/p&gt;
+&lt;p&gt;Bill C-34 would also regulate certain chatbot services. But rather than imposing age-based restrictions on AI systems, the bill imposes various duties aimed at reducing foreseeable harms. I’ll return to these in a future post.&lt;/p&gt;
+&lt;p&gt;The second part of the bill establishes a new Digital Safety Commission of Canada. The Commission would oversee compliance, conduct investigations, issue orders, administer penalties, and develop many of the more specific rules or guidelines needed to implement the bill.&lt;/p&gt;
+&lt;p&gt;The Commission will work in an analogous way to the CRTC or Privacy Commissioner, having the power to conduct hearings, designate inspectors, compel information, issue compliance orders enforceable in Federal Court, and impose administrative monetary penalties for violations.&lt;/p&gt;
+&lt;p&gt;Debate over the bill in the coming months will likely focus on social media restrictions for children, age verification, and the regulation of chatbots.&lt;/p&gt;
+&lt;p&gt;Yet many of the details that will shape how those rules work remain to be written. Heritage Minister Marc Miller says the regulations will come in 6 to 8 months, but this may prove to be too optimistic.&lt;/p&gt;
+&lt;p&gt;In a broader sense, the bill makes clear the government’s commitment to a new model of digital regulation, one that treats children’s access to social media as a matter of public policy rather than parental choice alone. ■&lt;/p&gt;
+&lt;p&gt;{&lt;em&gt;To receive new posts by email, follow on &lt;a href=&#34;https://robertdiab.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Substack&lt;/a&gt;
+.&lt;/em&gt;}&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Will Canada&#39;s new AI strategy make a difference in practical terms?</title>
       <link>https://www.robertdiab.ca/posts/ai-for-all/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
