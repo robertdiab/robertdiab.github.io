@@ -9,7 +9,51 @@
     <language>en</language>
     <managingEditor>roberdiab@gmail.com (Robert Diab)</managingEditor>
     <webMaster>roberdiab@gmail.com (Robert Diab)</webMaster>
-    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/charter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.robertdiab.ca/tags/charter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parliament Has Amended Bill C-22, But Has It Addressed the Biggest Privacy Concerns?</title>
+      <link>https://www.robertdiab.ca/posts/c22-amendments/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <Params>roberdiab@gmail.com (Robert Diab)</Params>
+      <guid>https://www.robertdiab.ca/posts/c22-amendments/</guid>
+      <description>&lt;figure&gt;
+  &lt;img src=&#34;https://www.robertdiab.ca/images/blogposts/new-parl.jpg&#34; alt=&#34;West Block&#34;&gt;
+  &lt;figcaption&gt;Redwan Chowdhury, Unsplash&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;The House has passed the lawful access bill with amendments, still leaving crucial issues in question&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The committee tasked with &lt;a href=&#34;https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/third-reading&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bill C-22&lt;/a&gt;
+ worked past midnight Wednesday to meet the government&amp;rsquo;s goal of completing third reading of the bill before the House took its summer break, which begins today. The government curtailed clause-by-clause review of the bill for this purpose, resulting in the committee&amp;rsquo;s adopting only a few amendments, and without much discussion or public disclosure.&lt;/p&gt;
+&lt;p&gt;I highlight two changes worth noting that touch on issues that generated the most criticism during the committee hearings: the bill&amp;rsquo;s potential impact on encryption and its metadata retention provisions.&lt;/p&gt;
+&lt;p&gt;The first set is being touted as a step forward, but it may not be.&lt;/p&gt;
+&lt;h3 id=&#34;have-the-encryption-concerns-been-resolved&#34;&gt;&lt;strong&gt;Have the encryption concerns been resolved?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A major concern that Apple, Google, Meta, VPNs, and other companies raised before the committee and in the media was that the bill would compel them to make modifications to their systems that could compromise encryption. The concern was based on two powers in the bill.&lt;/p&gt;
+&lt;p&gt;One was the general power to order them to install a device or equipment, or develop &amp;lsquo;capabilities,&amp;rsquo; that would give law enforcement access to private data. The other was a provision that ruled out being compelled to weaken encryption, since it was too narrowly worded to be effective.&lt;/p&gt;
+&lt;p&gt;The bill is now amended to make clear that anything a company is ordered to install will be done by the company itself, and the provision that precludes weakening encryption is more broadly worded. Providers need not modify the &amp;ldquo;protection of an electronic service that creates a credible risk&amp;rdquo; of unauthorized access, but the exclusion does not cover a risk that stems from a vulnerability that someone with authorized access might exploit.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the provision itself, with new text bolded:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;systemic vulnerability means a vulnerability in the electronic protections of an electronic service that creates a &lt;strong&gt;credible&lt;/strong&gt; risk, &lt;strong&gt;based on recognized international technical standards&lt;/strong&gt;, that secure information could be accessed by a person who does not have any right or authority to do so, &lt;strong&gt;other than a risk that relates only to information related to persons with respect to whom a warrant, order or other authority to access information conferred under the Criminal Code or the Canadian Security Intelligence Service Act — or any similar authority conferred under another Act of Parliament — applies.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s hard to imagine what such a risk could entail. If a company is asked to do something that would create a risk that police acting with a warrant could exploit, then it would seem to be one that hackers could also exploit.&lt;/p&gt;
+&lt;p&gt;Another new provision, titled simply &amp;lsquo;Decryption,&amp;rsquo; adopts language in US law to the effect that nothing in the act is to be construed to compel a provider to enable decryption, &amp;ldquo;unless the encryption was provided by the electronic service provider and the provider possesses the information necessary to decrypt the information.&amp;rdquo; That is, unless the provider holds the key, as Google does, for example, with Gmail or Google Drive; but not in the case of something end-to-end encrypted, like Apple&amp;rsquo;s Messages or a Signal or WhatsApp chat.&lt;/p&gt;
+&lt;p&gt;The broad assertion that nothing in the act is to be construed as compelling a provider to decrypt or enable decryption would seem to conflict with the revised definition of &amp;lsquo;systemic vulnerability&amp;rsquo; discussed above. But, on one reading, this provision would prevail and rule out doing anything that might compromise end-to-end encryption.&lt;/p&gt;
+&lt;p&gt;Still, we might envision a scenario in which a government order compels a provider to do something which it believes is tantamount to compelling decryption because it would create a systemic vulnerability, and the government disagrees, on the grounds that the order doesn&amp;rsquo;t meet the definition of systemic vulnerability.&lt;/p&gt;
+&lt;p&gt;Put another way, the definition of the term &amp;lsquo;systemic vulnerability&amp;rsquo; is the bill&amp;rsquo;s only mechanism for determining the meaning of the phrase &amp;lsquo;compelled decryption.&amp;rsquo;&lt;/p&gt;
+&lt;h3 id=&#34;what-changed-on-metadata-retention&#34;&gt;&lt;strong&gt;What changed on metadata retention?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Another flashpoint in the bill was the Minister of Public Safety&amp;rsquo;s power to order providers to retain user metadata for up to a year, for possible use by police or CSIS. The bill is now amended to allow for retention for up to 6 months.&lt;/p&gt;
+&lt;p&gt;The committee also added a provision that requires the Minister to be &amp;ldquo;satisfied that the category [of metadata at issue] and all its elements are essential for facilitating effective and timely investigations under the &lt;em&gt;Criminal Code&lt;/em&gt;&amp;rdquo; or the exercise of powers under the &lt;em&gt;CSIS Act&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The amendment is intended to narrow the power. Does it do so in a meaningful way? It&amp;rsquo;s not clear to me that it does.&lt;/p&gt;
+&lt;p&gt;This is still a power to order the retention of almost everyone&amp;rsquo;s metadata without individualized suspicion for a significant period of time. The test of being &amp;ldquo;essential for facilitating effective and timely investigations&amp;rdquo; sounds like a high bar to meet. But it wouldn&amp;rsquo;t be assessed in the way that police having &amp;lsquo;reasonable grounds&amp;rsquo; is challenged in a criminal case. A party would need to seek judicial review of the minister&amp;rsquo;s order. Would it be assessed on the standard of reasonableness, correctness, or palpable and overriding error? It&amp;rsquo;s not clear, since this would seem to depend on the order, the circumstances, and the way the challenge is framed.&lt;/p&gt;
+&lt;p&gt;Which brings me to a final point, brought to light by Sean Boynton&amp;rsquo;s informative coverage of the debate around this bill. In a &lt;a href=&#34;https://globalnews.ca/news/11855200/canada-metadata-lawful-access-privacy-explained/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;recent piece&lt;/a&gt;
+ on the metadata issue, he cites a Department of Justice official who points out that the metadata provisions in Bill C-22 don&amp;rsquo;t engage section 8 of the &lt;em&gt;Charter&lt;/em&gt; and don&amp;rsquo;t violate anyone&amp;rsquo;s privacy, because they don&amp;rsquo;t &lt;em&gt;in themselves&lt;/em&gt; require metadata retention. They merely give the Minister the power to make regulations to do so. It&amp;rsquo;s the regulations that would attract Charter-scrutiny and call for a separate Charter Statement, which will be provided at that time.&lt;/p&gt;
+&lt;p&gt;Any regulation passed would &amp;ldquo;need to be assessed based on what data is covered, who must retain it, for how long, for what purpose, and what safeguards apply.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Yes, this is a more precise picture of how the metadata provisions in the bill work. But it&amp;rsquo;s also a concession on the part of the government that critics (like me) have been right all along: metadata retention engages section 8, because the very idea of it constitutes an interference with a reasonable privacy interest in not having our metadata retained for a law-enforcement purpose — regardless of how long it is retained and whether retention is &amp;ldquo;essential&amp;rdquo; to making police or CSIS more effective.&lt;/p&gt;
+&lt;p&gt;Unless I&amp;rsquo;m mistaken, I do not believe any government lawyer clarified this point in the course of their many appearances before the Public Safety Committee. Given how often this came up and how preoccupied committee members were with it, a clarification may have been helpful earlier in the process.&lt;/p&gt;
+&lt;p&gt;When Parliament resumes in the fall, the bill will make its way through the Senate, which will likely propose further amendments that will need to be debated in the House, leaving the final form the bill will take in some degree of uncertainty.&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;ll be following it all here. ■&lt;/p&gt;
+&lt;p&gt;{&lt;em&gt;To receive new posts by email, follow me on &lt;a href=&#34;https://robertdiab.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Substack&lt;/a&gt;
+.&lt;/em&gt;}&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>How Bill C-34 Will Change Our Relationships with AI</title>
       <link>https://www.robertdiab.ca/posts/bill-c34-ai-relationships/</link>
