@@ -108,11 +108,12 @@ p a:hover {
 .sidenav {
   float: right;
   padding: 15px 20px;
-  margin-right: 0;
+  margin-right: 10px;
   font-weight: 400;
   font-family: 'Playfair Display';
   color: #36454F;
-  max-width: 110px;
+  box-sizing: border-box;
+  width: 126px;
 }
 
 .sidenav a {
@@ -260,7 +261,7 @@ p {
 
   figure img {
     display: block;
-    max-width: 95% !important;
+    max-width: 55% !important;
     margin-bottom: 0 !important;
     box-shadow: 0 0 10px .2px grey;
     border-radius: 5px;
